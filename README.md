@@ -9,9 +9,11 @@ Two models are used for the purpose of text normalization. An XGBoost boost mode
 More details about the architecture and implementation can be found in the original paper.
 
 **Sequence to sequence DNC, encoding phase**
+
 ![Sequence to sequence DNC, encoding phase](__images__/Encoder.png)
 
 **Sequence to sequence DNC, decoding phase**
+
 ![Sequence to sequence DNC, decoding phase](__images__/Decoder.png)
 
 ## Results : Normalizing English Data 
