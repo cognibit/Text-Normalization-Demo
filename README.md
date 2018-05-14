@@ -1,5 +1,4 @@
 # Text Normalization using Memory Augmented Neural Networks
----
 
 The text-normalization-demo notebook and the accompanying paper "Text Normalization using Memory Augmented Neural Networks" (paper under review) demonstrates an accuracy of 99.5% on the Text Normalization Challenge by Richard Sproat and Navdeep Jaitly. The approach used here has secured the 6th position in the [Kaggle Russian Text Normalization Challenge](https://www.kaggle.com/c/text-normalization-challenge-russian-language) by Google's Text Normalization Research Group.
 
@@ -8,6 +7,7 @@ Two models are used for the purpose of text normalization. An XGBoost boost mode
 
 More details about the architecture and implementation can be found in the original paper.
 
+<center>
 **Sequence to sequence DNC, encoding phase**
 
 ![Sequence to sequence DNC, encoding phase](__images__/Encoder.png)
@@ -16,8 +16,8 @@ More details about the architecture and implementation can be found in the origi
 
 ![Sequence to sequence DNC, decoding phase](__images__/Decoder.png)
 
+</center>
 ## Results : Normalizing English Data 
----
 
 ![Semiotic Classwise Accuracy](results/english/Semiotic_Class-wise_Accuracy.png)
 
