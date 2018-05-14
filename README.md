@@ -8,6 +8,7 @@ Two models are used for the purpose of text normalization. An XGBoost boost mode
 More details about the architecture and implementation can be found in the original paper.
 
 <center>
+	
 **Sequence to sequence DNC, encoding phase**
 
 ![Sequence to sequence DNC, encoding phase](__images__/Encoder.png)
@@ -16,7 +17,8 @@ More details about the architecture and implementation can be found in the origi
 
 ![Sequence to sequence DNC, decoding phase](__images__/Decoder.png)
 
-</center>
+</center>	
+
 ## Results : Normalizing English Data 
 
 ![Semiotic Classwise Accuracy](results/english/Semiotic_Class-wise_Accuracy.png)
