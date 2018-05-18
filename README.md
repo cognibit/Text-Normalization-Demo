@@ -19,7 +19,9 @@ More details about the architecture and implementation can be found in the origi
 
 </center>	
 
-## Results : Normalizing English Data 
+## Results : 
+
+### 1. Normalizing English Data 
 
 ![Semiotic Classwise Accuracy](results/english/Semiotic_Class-wise_Accuracy.png)
 
@@ -27,24 +29,54 @@ More details about the architecture and implementation can be found in the origi
 
 **Semiotic Classwise Accuracy**
 
-|    | semiotic-class | accuracy | count | correct | 
-|----|----------------|----------|-------|---------| 
-| 0  | ADDRESS        | 1.0      | 4     | 4.0     | 
-| 1  | CARDINAL       | 0.9913   | 1037  | 1028.0  | 
-| 2  | DATE           | 0.9975   | 2832  | 2825.0  | 
-| 3  | DECIMAL        | 1.0      | 92    | 92.0    | 
-| 4  | DIGIT          | 0.8636   | 44    | 38.0    | 
-| 5  | ELECTRONIC     | 0.0      | 49    | 0.0     | 
-| 6  | FRACTION       | 0.625    | 16    | 10.0    | 
-| 7  | LETTERS        | 0.9318   | 1409  | 1313.0  | 
-| 8  | MEASURE        | 0.9718   | 142   | 138.0   | 
-| 9  | MONEY          | 0.9459   | 37    | 35.0    | 
-| 10 | ORDINAL        | 0.9514   | 103   | 98.0    | 
-| 11 | PLAIN          | 0.9983   | 67894 | 67785.0 | 
-| 12 | PUNCT          | 0.9995   | 17746 | 17738.0 | 
-| 13 | TELEPHONE      | 0.9189   | 37    | 34.0    | 
-| 14 | TIME           | 0.75     | 8     | 6.0     | 
-| 15 | VERBATIM       | 0.8741   | 1001  | 875.0   | 
+|    | semiotic-class | accuracy | count | correct |
+|----|----------------|----------|-------|---------|
+| 0  | ALL            | 0.994137 | 92451 | 91909   |
+| 1  | ADDRESS        | 1.000000 | 4     | 4       |
+| 2  | CARDINAL       | 0.989392 | 1037  | 1026    |
+| 3  | DATE           | 0.997881 | 2832  | 2826    |
+| 4  | DECIMAL        | 1.000000 | 92    | 92      |
+| 5  | DIGIT          | 0.795455 | 44    | 35      |
+| 6  | ELECTRONIC     | 0.734694 | 49    | 36      |
+| 7  | FRACTION       | 0.687500 | 16    | 11      |
+| 8  | LETTERS        | 0.971611 | 1409  | 1369    |
+| 9  | MEASURE        | 0.964789 | 142   | 137     |
+| 10 | MONEY          | 0.945946 | 37    | 35      |
+| 11 | ORDINAL        | 0.951456 | 103   | 98      |
+| 12 | PLAIN          | 0.993873 | 67894 | 67478   |
+| 13 | PUNCT          | 0.998873 | 17746 | 17726   |
+| 14 | TELEPHONE      | 0.918919 | 37    | 34      |
+| 15 | TIME           | 0.750000 | 8     | 6       |
+| 16 | VERBATIM       | 0.995005 | 1001  | 996     |
+
+</center>
+
+### 2. Normalizing Russian Data
+
+![Semiotic Classwise Accuracy](results/russian/Semiotic_Class-wise_Accuracy.png)
+
+**Semiotic Classwise Accuracy**
+
+<center>
+
+|    | semiotic-class | accuracy | count | correct |
+|----|----------------|----------|-------|---------|
+| 0  | ALL            | 0.993025 | 93196 | 92546   |
+| 1  | CARDINAL       | 0.941374 | 2388  | 2248    |
+| 2  | DATE           | 0.975251 | 1495  | 1458    |
+| 3  | DECIMAL        | 0.900000 | 60    | 54      |
+| 4  | DIGIT          | 1.000000 | 16    | 16      |
+| 5  | ELECTRONIC     | 0.583333 | 48    | 28      |
+| 6  | FRACTION       | 0.652174 | 23    | 15      |
+| 7  | LETTERS        | 0.990761 | 1840  | 1823    |
+| 8  | MEASURE        | 0.888078 | 411   | 365     |
+| 9  | MONEY          | 0.894737 | 19    | 17      |
+| 10 | ORDINAL        | 0.955504 | 427   | 408     |
+| 11 | PLAIN          | 0.994920 | 64764 | 64435   |
+| 12 | PUNCT          | 0.999852 | 20264 | 20261   |
+| 13 | TELEPHONE      | 0.786517 | 89    | 70      |
+| 14 | TIME           | 0.750000 | 8     | 6       |
+| 15 | VERBATIM       | 0.998512 | 1344  | 1342    |
 
 </center>
 
