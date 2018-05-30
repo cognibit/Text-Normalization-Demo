@@ -120,4 +120,5 @@ lang = 'english'
 2. Aman Hussain
 
 **Aknowledgements**
+
 Differentiable Neural Computer, Tensorflow Implementation: https://github.com/deepmind/dnc
