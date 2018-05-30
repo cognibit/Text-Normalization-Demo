@@ -1,6 +1,6 @@
 # Text Normalization using Memory Augmented Neural Networks
 
-The text-normalization-demo notebook and the accompanying paper "Text Normalization using Memory Augmented Neural Networks" (paper under review) demonstrates an accuracy of 99.5% on the Text Normalization Challenge by Richard Sproat and Navdeep Jaitly. The approach used here has secured the 6th position in the [Kaggle Russian Text Normalization Challenge](https://www.kaggle.com/c/text-normalization-challenge-russian-language) by Google's Text Normalization Research Group.
+The 'Text Normalization Demo' notebook and the accompanying paper "Text Normalization using Memory Augmented Neural Networks" (paper under review) demonstrates an accuracy of 99.5% on the Text Normalization Challenge by Richard Sproat and Navdeep Jaitly. The approach used here has secured the 6th position in the [Kaggle Russian Text Normalization Challenge](https://www.kaggle.com/c/text-normalization-challenge-russian-language) by Google's Text Normalization Research Group.
 
 ## Architecture
 Two models are used for the purpose of text normalization. An XGBoost boost model first classifies a token to to-be-normalized or remain-self. The to-be-normalized tokens are then fed character-by-character to our proposed Sequence to Sequence DNC model. 
@@ -96,7 +96,7 @@ $ conda env create -f environment.yml
 $ source activate deep-tf
 ```
 3. Start a Jupyter Notebook server
-4. Open 'notebooks/text-normalization-demo.ipynb'
+4. Open 'notebooks/Text Normalization Demo.ipynb'
 5. Set the language to English or Russian below the 'Global Config' cell
 ```python
 lang = 'english'
