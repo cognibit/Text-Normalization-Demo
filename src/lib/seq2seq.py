@@ -44,9 +44,6 @@ class Seq2SeqModel(object):
         self.attn_input_feeding = config['attn_input_feeding']
         self.use_dropout = config['use_dropout']
         self.keep_prob = 1.0 - config['dropout_rate']
-        self.optimizer = config['optimizer']
-        self.learning_rate = config['learning_rate']
-        self.max_gradient_norm = config['max_gradient_norm']
         self.global_step = tf.Variable(0, trainable=False, name='global_step')
         self.global_epoch_step = tf.Variable(0, trainable=False, name='global_epoch_step')
         self.global_epoch_step_op = \
@@ -60,7 +57,11 @@ class Seq2SeqModel(object):
             self.beam_width = config['beam_width']
             self.use_beamsearch_decode = True if self.beam_width > 1 else False
             self.max_decode_step = config['max_decode_step']
-
+        else:
+            self.optimizer = config['optimizer']
+            self.learning_rate = config['learning_rate']
+            self.max_gradient_norm = config['max_gradient_norm']
+            
         if (self.cell_type == 'dnc'):
             self.num_reads = config['num_reads']
             self.num_writes = config['num_writes']
@@ -290,22 +291,7 @@ class Seq2SeqModel(object):
                                                                           initial_state=self.decoder_initial_state,
                                                                           beam_width=self.beam_width,
                                                                           output_layer=output_layer, )
-            # For GreedyDecoder, return
-            # decoder_outputs_decode: BasicDecoderOutput instance
-            #                         namedtuple(rnn_outputs, sample_id)
-            # decoder_outputs_decode.rnn_output: [batch_size, max_time_step, num_decoder_symbols] 	if output_time_major=False
-            #                                    [max_time_step, batch_size, num_decoder_symbols] 	if output_time_major=True
-            # decoder_outputs_decode.sample_id: [batch_size, max_time_step], tf.int32		if output_time_major=False
-            #                                   [max_time_step, batch_size], tf.int32               if output_time_major=True
-
-            # For BeamSearchDecoder, return
-            # decoder_outputs_decode: FinalBeamSearchDecoderOutput instance
-            #                         namedtuple(predicted_ids, beam_search_decoder_output)
-            # decoder_outputs_decode.predicted_ids: [batch_size, max_time_step, beam_width] if output_time_major=False
-            #                                       [max_time_step, batch_size, beam_width] if output_time_major=True
-            # decoder_outputs_decode.beam_search_decoder_output: BeamSearchDecoderOutput instance
-            #                                                    namedtuple(scores, predicted_ids, parent_ids)
-
+       
             (self.decoder_outputs_decode, self.decoder_last_state_decode,
              self.decoder_outputs_length_decode) = (seq2seq.dynamic_decode(
                 decoder=inference_decoder,

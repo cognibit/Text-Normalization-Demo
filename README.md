@@ -91,6 +91,10 @@ More details about the architecture and implementation can be found in the origi
 **Follow these steps for a demonstration:**
 
 1. Clone the repo
+2. Download and extract required data.
+```
+$ sh setup.sh
+```
 2. Create & activate an environment using the provided file
 ```
 $ conda env create -f environment.yml

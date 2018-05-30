@@ -69,6 +69,7 @@ class EncodingGenerator:
     def __input_word_lookup(self, word):
         lookups = []
         word = str(word)
+        print
         for c in word:
             lookups.append(self.__input_lookup(c))
         return lookups
@@ -137,12 +138,12 @@ class Normalized2String:
         prediction : A 1D numpy array
         """
         final_str = ''
-        for id in prediction[1:]:
+        for id in prediction:
             word = self.__output_lookup_inverse(id)
             if word == '<EOS>':
                 break
             else:
-                final_str = final_str + ' ' + str(word)
+                final_str = final_str +' '+ str(word)
         return final_str[1:]
 
     def __output_lookup_inverse(self, id):
