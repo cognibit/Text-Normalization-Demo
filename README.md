@@ -86,7 +86,7 @@ More details about the architecture and implementation can be found in the origi
 **Follow these steps for a demonstration:**
 
 1. Clone the repo
-2. Download and extract required data.
+2. Download and extract the required data.
 ```
 $ sh setup.sh
 ```
