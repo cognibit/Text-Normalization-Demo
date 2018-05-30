@@ -23,8 +23,6 @@ More details about the architecture and implementation can be found in the origi
 
 ### 1. Normalizing English Data 
 
-![Semiotic Classwise Accuracy](results/english/Semiotic_Class-wise_Accuracy.png)
-
 <center>
 
 **Semiotic Classwise Accuracy**
@@ -53,8 +51,6 @@ More details about the architecture and implementation can be found in the origi
 
 ### 2. Normalizing Russian Data
 
-![Semiotic Classwise Accuracy](results/russian/Semiotic_Class-wise_Accuracy.png)
-
 **Semiotic Classwise Accuracy**
 
 <center>
@@ -81,7 +77,6 @@ More details about the architecture and implementation can be found in the origi
 </center>
 
 ## How to run?
----
 
 **Requirements:**
 - [Jupyter Notebook](http://jupyter.org/) 
@@ -120,6 +115,9 @@ lang = 'english'
 - xgboost 0.6
 - tensorflow 1.3.0
 
-**Authors**
+## Authors
 1. Subhojeet Pramanik
 2. Aman Hussain
+
+**Aknowledgements**
+Differentiable Neural Computer, Tensorflow Implementation: https://github.com/deepmind/dnc
