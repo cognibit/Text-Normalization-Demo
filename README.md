@@ -116,8 +116,8 @@ lang = 'english'
 - tensorflow 1.3.0
 
 ## Authors
-1. Subhojeet Pramanik
-2. Aman Hussain
+1. Subhojeet Pramanik (http://github.com/subho406)
+2. Aman Hussain (https://github.com/AmanDaVinci)
 
 **Aknowledgements**
 
