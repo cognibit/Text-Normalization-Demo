@@ -1,433 +1,531 @@
-,sentence_id,token_id,semiotic,before,class,after,truth
-872,68,0,PLAIN,INSIGHT,ToBeNormalized,i n s i g h t,INSIGHT
-1048,80,4,PLAIN,SPIE,ToBeNormalized,s p i e,SPIE
-1199,90,0,PLAIN,LiPSA,ToBeNormalized,l i p s a,LiPSA
-1311,100,4,PLAIN,CENTRE,RemainSelf,CENTRE,center
-2023,156,3,MEASURE,0.001251 g/cm3,ToBeNormalized,zero point o o one two five one sil g s l a s h c m a o n e t w o t h r e e,zero point o o one two five one grams per c c
-2155,165,11,VERBATIM,ppmv,RemainSelf,ppmv,p p m v
-2162,165,18,VERBATIM,ppmv,RemainSelf,ppmv,p p m v
-2403,184,32,VERBATIM,_,RemainSelf,_,underscore
-3095,239,0,LETTERS,Acee,RemainSelf,Acee,a c e e
-3751,297,8,LETTERS,Vit,RemainSelf,Vit,v i t
-3816,303,15,PLAIN,authorisation,ToBeNormalized,authorized,authorization
-3887,309,0,FRACTION,1/0,ToBeNormalized,one zero,one zeroth
-4592,363,3,PLAIN,dept,RemainSelf,dept,department
-5633,455,3,FRACTION,"10/618,543",ToBeNormalized,ten six hundred eighteen thousand five hundred forty three,ten six hundred eighteen thousand five hundred forty thirds
-5642,456,7,VERBATIM,Δ,ToBeNormalized,<UNK>,delta
-5915,473,7,ELECTRONIC,#Selfie,ToBeNormalized,hash tag thousand,hash tag selfie
-6010,481,5,VERBATIM,Ţ,ToBeNormalized,<UNK>,Ţ
-6251,500,1,PLAIN,WinHEC,ToBeNormalized,w i n h e c,WinHEC
-6848,550,0,LETTERS,Ligi'ne,RemainSelf,Ligi'ne,l i g i n e
-6960,560,5,VERBATIM,Rjr,RemainSelf,Rjr,r j r
-7454,603,12,LETTERS,PEPANNRES,RemainSelf,PEPANNRES,p e p a n n r e s
-7533,611,9,LETTERS,emah,RemainSelf,emah,e m a h
-7847,633,13,PLAIN,ADUM,ToBeNormalized,a d u m,ADUM
-7898,636,15,PLAIN,pluralised,RemainSelf,pluralised,pluralized
-7923,637,19,PLAIN,OPT,ToBeNormalized,o p t,OPT
-8191,659,1,LETTERS,RULES,RemainSelf,RULES,r u l e s
-8716,698,1,PLAIN,PIX,ToBeNormalized,p i x,PIX
-8749,701,8,LETTERS,smr,RemainSelf,smr,s m r
-8790,704,0,PLAIN,Realising,RemainSelf,Realising,realizing
-8803,704,13,PLAIN,Crystalliser,RemainSelf,Crystalliser,crystallizer
-8868,712,1,ELECTRONIC,Stylusmagazine.com,ToBeNormalized,s t y l u s m a g a z i n e dot c o m,s_letter t_letter y_letter l_letter u_letter s_letter m_letter a_letter g_letter a_letter z_letter i_letter n_letter e_letter dot c_letter o_letter m_letter
-9007,721,11,PLAIN,VI,ToBeNormalized,v i,VI
-9472,754,9,LETTERS,TNT,RemainSelf,TNT,t n t
-9474,754,11,TELEPHONE,3-0 LEAD,ToBeNormalized,three sil o sil l e a d,three sil o sil lead
-9508,758,4,VERBATIM,Σ,ToBeNormalized,<UNK>,sigma
-9509,758,5,VERBATIM,τ,ToBeNormalized,<UNK>,tau
-9510,758,6,VERBATIM,υ,ToBeNormalized,<UNK>,upsilon
-9512,758,8,VERBATIM,φ,ToBeNormalized,<UNK>,phi
-9513,758,9,VERBATIM,α,ToBeNormalized,<UNK>,alpha
-9514,758,10,VERBATIM,λ,ToBeNormalized,<UNK>,lambda
-9515,758,11,VERBATIM,ι,ToBeNormalized,<UNK>,iota
-9516,758,12,VERBATIM,α,ToBeNormalized,<UNK>,alpha
-9521,758,17,VERBATIM,Σ,ToBeNormalized,<UNK>,sigma
-9522,758,18,VERBATIM,τ,ToBeNormalized,<UNK>,tau
-9523,758,19,VERBATIM,υ,ToBeNormalized,<UNK>,upsilon
-9525,758,21,VERBATIM,φ,ToBeNormalized,<UNK>,phi
-9526,758,22,VERBATIM,α,ToBeNormalized,<UNK>,alpha
-9527,758,23,VERBATIM,λ,ToBeNormalized,<UNK>,lambda
-9528,758,24,VERBATIM,ο,ToBeNormalized,<UNK>,omicron
-9529,758,25,VERBATIM,ς,ToBeNormalized,<UNK>,sigma
-9727,772,11,LETTERS,BLENE,RemainSelf,BLENE,b l e n e
-9877,783,1,LETTERS,AVN,RemainSelf,AVN,a v n
-10413,830,9,LETTERS,GEOPE,RemainSelf,GEOPE,g e o p e
-11199,895,2,ELECTRONIC,http://www.lagrangefootball.comstrother,ToBeNormalized,h t t p colon slash slash w w w dot l a g r a n g e f o o t b a l l dot com s t r o t h e r,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot l_letter a_letter g_letter r_letter a_letter n_letter g_letter e_letter f_letter o_letter o_letter t_letter b_letter a_letter l_letter l_letter dot c_letter o_letter m_letter s_letter t_letter r_letter o_letter t_letter h_letter e_letter r_letter
-11306,905,6,VERBATIM,vn,RemainSelf,vn,v n
-11318,905,18,VERBATIM,vn,RemainSelf,vn,v n
-11778,942,4,DIGIT,314,ToBeNormalized,three hundred fourteen,three one four
-11977,957,1,ELECTRONIC,Bodog.com,ToBeNormalized,b o d o g dot c o m,b_letter o_letter d_letter o_letter g_letter dot c_letter o_letter m_letter
-13174,1057,13,PLAIN,INRIA,ToBeNormalized,i n r i a,INRIA
-13202,1060,2,CARDINAL,21,ToBeNormalized,two one,twenty one
-13538,1087,2,DIGIT,1771,ToBeNormalized,seventeen seventy one,one seven seven one
-13589,1091,4,LETTERS,Crkva,RemainSelf,Crkva,c r k v a
-13603,1092,5,PLAIN,HEW,ToBeNormalized,h e w,HEW
-13727,1102,0,ELECTRONIC,Zimbio.com,ToBeNormalized,z i m b i o dot c o m,z_letter i_letter m_letter b_letter i_letter o_letter dot c_letter o_letter m_letter
-13932,1117,15,ELECTRONIC,//web.archive.org/web/20110105051516/http://www.fairfield.edu/x18852.html,ToBeNormalized,s l a s h s l a s h w e b dot a r c h i v e dot o r g s l a s h x o n e e i g h t e i g h t f i v e t,s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter e_letter b_letter dot a_letter r_letter c_letter h_letter i_letter v_letter e_letter dot o_letter r_letter g_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter e_letter b_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter w_letter o_letter  _letter o_letter  _letter o_letter n_letter e_letter  _letter o_letter n_letter e_letter  _letter o_letter  _letter o_letter n_letter e_letter  _letter o_letter  _letter f_letter i_letter v_letter e_letter  _letter o_letter  _letter f_letter i_letter v_letter e_letter  _letter o_letter n_letter e_letter  _letter f_letter i_letter v_letter e_letter  _letter o_letter n_letter e_letter  _letter s_letter i_letter x_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot f_letter a_letter i_letter r_letter f_letter i_letter e_letter l_letter d_letter dot e_letter  _letter d_letter  _letter u_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter x_letter  _letter o_letter n_letter e_letter  _letter e_letter i_letter g_letter h_letter t_letter  _letter e_letter i_letter g_letter h_letter t_letter  _letter f_letter i_letter v_letter e_letter  _letter t_letter w_letter o_letter dot h_letter  _letter t_letter  _letter m_letter  _letter l_letter
-14447,1158,7,ELECTRONIC,Weatherbase.com,ToBeNormalized,w e a t h e r b a s e dot c o m,w_letter e_letter a_letter t_letter h_letter e_letter r_letter b_letter a_letter s_letter e_letter dot c_letter o_letter m_letter
-14795,1189,6,LETTERS,Uh,RemainSelf,Uh,u h
-15029,1211,20,ELECTRONIC,nethttp://www.pamirian.ru/Wakhi_language_transition.pdfAli,ToBeNormalized,n e t h t t p c o l o n s l a s h s l a s h w w w dot p a m i r i a n dot r u s l i a n g u a g e u n,n_letter  _letter e_letter  _letter t_letter  _letter h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot p_letter a_letter m_letter i_letter r_letter i_letter a_letter n_letter dot r_letter  _letter u_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter a_letter k_letter h_letter i_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter l_letter a_letter n_letter g_letter u_letter a_letter g_letter e_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter t_letter r_letter a_letter n_letter s_letter i_letter t_letter i_letter o_letter n_letter dot p_letter d_letter f_letter a_letter l_letter i_letter
-15382,1241,10,LETTERS,Amu,RemainSelf,Amu,a m u
-15406,1243,13,PLAIN,IZMIR,ToBeNormalized,i z m i r,IZMIR
-15523,1252,6,PUNCT,-,ToBeNormalized,to,-
-15672,1261,17,PLAIN,urbanisation,ToBeNormalized,urbanized,urbanization
-15976,1289,2,ELECTRONIC,http://www.knchr.org/dmdocuments/KNCHR%20doc.pdfFollowing,ToBeNormalized,h t t p colon slash slash w w w dot k n c h r dot o r g slash d m d o c u m e n t s slash k n c h r e d o c dot p d f f o l,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot k_letter  _letter n_letter  _letter c_letter  _letter h_letter  _letter r_letter dot o_letter r_letter g_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter d_letter m_letter d_letter o_letter c_letter u_letter m_letter e_letter n_letter t_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter k_letter  _letter n_letter  _letter c_letter  _letter h_letter  _letter r_letter  _letter p_letter e_letter r_letter c_letter e_letter n_letter t_letter  _letter t_letter w_letter e_letter n_letter t_letter y_letter  _letter d_letter o_letter c_letter dot p_letter d_letter f_letter f_letter o_letter l_letter l_letter o_letter w_letter i_letter n_letter g_letter
-16107,1297,5,LETTERS,ska,RemainSelf,ska,s k a
-16257,1312,15,ELECTRONIC,USATODAY.com,ToBeNormalized,u s a t o d a y dot c o m,u_letter  _letter s_letter  _letter a_letter  _letter t_letter o_letter d_letter a_letter y_letter dot c_letter o_letter m_letter
-17043,1369,0,PLAIN,CY,ToBeNormalized,c y,CY
-17256,1385,4,PLAIN,Bodour,ToBeNormalized,<PAD>,Bodour
-17303,1388,11,PLAIN,KHAD,ToBeNormalized,k h a d,KHAD
-17337,1390,9,CARDINAL,75011,ToBeNormalized,seven five o one one,seventy five thousand eleven
-17604,1410,9,PLAIN,DEFRA,ToBeNormalized,d e f r a,DEFRA
-17622,1411,15,LETTERS,subg,RemainSelf,subg,s u b g
-17657,1414,2,DIGIT,450,ToBeNormalized,four hundred fifty,four five o
-17788,1427,6,PLAIN,SM,ToBeNormalized,s m,SM
-17989,1446,3,FRACTION,3¾,ToBeNormalized,thirty three,three and three quarters
-18116,1456,18,PLAIN,est,ToBeNormalized,e s t,est
-18238,1465,0,LETTERS,Rej,RemainSelf,Rej,r e j
-18625,1499,1,LETTERS,UNHCR,RemainSelf,UNHCR,u n h c r
-18800,1513,1,LETTERS,Métis,RemainSelf,Métis,m e acute t i's
-19207,1545,12,CARDINAL,91,ToBeNormalized,nine one,ninety one
-19439,1561,5,LETTERS,bgz,RemainSelf,bgz,b g z
-20042,1609,6,LETTERS,HOV,RemainSelf,HOV,h o v
-20104,1613,15,LETTERS,DEFCs,RemainSelf,DEFCs,d e f c's
-21203,1699,7,ELECTRONIC,http://www.yafc-ftp.com/The,ToBeNormalized,h t t p colon slash slash w w w dot y a f c dash f t p dot com slash t h e,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot y_letter  _letter a_letter  _letter f_letter  _letter c_letter  _letter d_letter a_letter s_letter h_letter  _letter f_letter  _letter t_letter  _letter p_letter dot c_letter o_letter m_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter h_letter e_letter
-21207,1699,11,LETTERS,Yafc,RemainSelf,Yafc,y a f c
-21209,1699,13,VERBATIM,.1.3,ToBeNormalized,dot o n e dot t h r e e, dot o_letter n_letter e_letter dot t_letter h_letter r_letter e_letter e_letter
-21543,1726,11,MONEY,88.5 million HRK,ToBeNormalized,eighty eight point five million,eighty eight point five million croatian kunas
-21911,1759,6,ELECTRONIC,Perage.com,ToBeNormalized,p e r a g e dot c o m,p_letter e_letter r_letter a_letter g_letter e_letter dot c_letter o_letter m_letter
-22223,1785,1,LETTERS,Oolaa,RemainSelf,Oolaa,o o l a a
-22754,1827,2,VERBATIM,Shh,RemainSelf,Shh,s h h
-22763,1827,11,VERBATIM,Shh,RemainSelf,Shh,s h h
-22803,1831,5,LETTERS,xSnxTe,RemainSelf,xSnxTe,x s n x t e
-23547,1892,5,PLAIN,CRI,ToBeNormalized,c r i,CRI
-23632,1900,0,PLAIN,CRI,ToBeNormalized,c r i,CRI
-23667,1903,6,PLAIN,SnO2,ToBeNormalized,two n o t w,tin four oxide
-24083,1939,5,ELECTRONIC,nascar.com,ToBeNormalized,n a s c a r dot c o m,n_letter a_letter s_letter c_letter a_letter r_letter dot c_letter o_letter m_letter
-24093,1940,8,PLAIN,CRIs,ToBeNormalized,c r i's,CRIs
-24367,1967,0,LETTERS,Ilir,RemainSelf,Ilir,i l i r
-24389,1969,0,ELECTRONIC,BioLib.cz,ToBeNormalized,b i o l i b dot c z,b_letter i_letter o_letter l_letter i_letter b_letter dot c_letter  _letter z_letter
-24577,1983,17,LETTERS,anth,RemainSelf,anth,a n t h
-25310,2050,1,LETTERS,ABM,RemainSelf,ABM,a b m
-26190,2133,8,PLAIN,Honourable,RemainSelf,Honourable,honorable
-26477,2155,5,PLAIN,RY,ToBeNormalized,r y,RY
-26742,2179,10,DATE,1918,ToBeNormalized,one thousand nine hundred eighteen,nineteen eighteen
-27359,2231,6,VERBATIM,Knt,RemainSelf,Knt,k n t
-27848,2274,3,FRACTION,2006/118205,ToBeNormalized,two thousand six one eight hundred fifths,two thousand six one hundred eighteen thousand two hundred fifths
-27858,2275,1,PUNCT,-,ToBeNormalized,to,-
-28464,2325,5,PLAIN,GLUT,ToBeNormalized,g l u t,GLUT
-28555,2332,5,PLAIN,Taft,ToBeNormalized,t a f t,Taft
-28674,2344,5,PLAIN,APRA,ToBeNormalized,a p r a,APRA
-29304,2398,5,DIGIT,011,ToBeNormalized,eleven eleven,o one one
-30105,2466,1,PLAIN,YOU,ToBeNormalized,y o u,YOU
-30607,2511,2,PLAIN,urbanisation,ToBeNormalized,urbanized,urbanization
-30901,2536,9,PLAIN,polarisation,RemainSelf,polarisation,polarization
-30970,2542,3,LETTERS,HOLCH,RemainSelf,HOLCH,h o l c h
-31160,2561,5,ELECTRONIC,wolframalpha.comDensity,ToBeNormalized,w o l f r a m a l p h a dot c o m d e n s i t y,w_letter o_letter l_letter f_letter r_letter a_letter m_letter a_letter l_letter p_letter h_letter a_letter dot c_letter o_letter m_letter d_letter e_letter n_letter s_letter i_letter t_letter y_letter
-31164,2561,9,ELECTRONIC,wolframalpha.comBradley,ToBeNormalized,w o l f r a m a l p h a dot c o m b r a d l e y,w_letter o_letter l_letter f_letter r_letter a_letter m_letter a_letter l_letter p_letter h_letter a_letter dot c_letter o_letter m_letter b_letter r_letter a_letter d_letter l_letter e_letter y_letter
-31525,2593,0,LETTERS,Akl,RemainSelf,Akl,a k l
-31863,2622,8,LETTERS,AT,RemainSelf,AT,a t
-32861,2701,1,ELECTRONIC,http://www.business-humanrights.org/Links/Repository/308254/,ToBeNormalized,h t t p colon slash slash w w w dot b u s i n e s s dash h u m a n r i g h t s dot o r g slash l i n k s slash r e p o s i t,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot b_letter u_letter s_letter i_letter n_letter e_letter s_letter s_letter  _letter d_letter a_letter s_letter h_letter  _letter h_letter u_letter m_letter a_letter n_letter r_letter i_letter g_letter h_letter t_letter s_letter dot o_letter r_letter g_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter l_letter i_letter n_letter k_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter r_letter e_letter p_letter o_letter s_letter i_letter t_letter o_letter r_letter y_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter h_letter r_letter e_letter e_letter  _letter o_letter  _letter e_letter i_letter g_letter h_letter t_letter  _letter t_letter w_letter o_letter  _letter f_letter i_letter v_letter e_letter  _letter f_letter o_letter u_letter r_letter  _letter s_letter l_letter a_letter s_letter h_letter
-32865,2701,5,VERBATIM,_,RemainSelf,_,underscore
-33088,2719,7,ELECTRONIC,GCatholic.org,ToBeNormalized,g c a t h o l i c dot o r g,g_letter  _letter c_letter a_letter t_letter h_letter o_letter l_letter i_letter c_letter dot o_letter r_letter g_letter
-33111,2723,3,LETTERS,SEM,RemainSelf,SEM,s e m
-33844,2789,1,LETTERS,Ska,RemainSelf,Ska,s k a
-34049,2807,6,PLAIN,cir,RemainSelf,cir,circle
-34684,2854,3,LETTERS,Usa,RemainSelf,Usa,u s a
-35568,2925,4,VERBATIM,ggFTW,RemainSelf,ggFTW,g g f t w
-35865,2949,6,PLAIN,synagogues,ToBeNormalized,synagog,synagogues
-36206,2974,17,VERBATIM,$,RemainSelf,$,dollar
-36215,2974,26,VERBATIM,$,RemainSelf,$,dollar
-36933,3024,13,DIGIT,11,ToBeNormalized,eleven,one one
-37145,3043,15,PLAIN,civilise,RemainSelf,civilise,civilize
-37402,3060,5,PLAIN,ASTRO,ToBeNormalized,a s t r o,ASTRO
-38743,3162,1,ELECTRONIC,informationhttp://dynamic.stlouis-mo.gov/census/neighborhood.cfmhttp://dynamic.stlouis-mo.gov/census/neigh_comp.cfm,ToBeNormalized,i n f o r m a t i o n h t t p c o l o n s l a s h s l a s h d y n a m i c dot s t l o u i s d e n s,i_letter  _letter n_letter  _letter f_letter  _letter o_letter  _letter r_letter  _letter m_letter  _letter a_letter  _letter t_letter  _letter i_letter  _letter o_letter  _letter n_letter  _letter h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter d_letter y_letter n_letter a_letter m_letter i_letter c_letter dot s_letter t_letter l_letter o_letter u_letter i_letter s_letter  _letter d_letter a_letter s_letter h_letter  _letter m_letter o_letter dot g_letter o_letter v_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter c_letter e_letter n_letter s_letter u_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter n_letter e_letter i_letter g_letter h_letter b_letter o_letter r_letter h_letter o_letter o_letter d_letter dot c_letter  _letter f_letter  _letter m_letter  _letter h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter d_letter y_letter n_letter a_letter m_letter i_letter c_letter dot s_letter t_letter l_letter o_letter u_letter i_letter s_letter  _letter d_letter a_letter s_letter h_letter  _letter m_letter o_letter dot g_letter o_letter v_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter c_letter e_letter n_letter s_letter u_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter n_letter e_letter i_letter g_letter h_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter c_letter o_letter m_letter p_letter dot c_letter  _letter f_letter  _letter m_letter
-40073,3268,10,LETTERS,pyo's,RemainSelf,pyo's,p y o's
-40230,3284,1,LETTERS,Var,RemainSelf,Var,v a r
-40236,3285,0,PLAIN,FOCUS,ToBeNormalized,f o c u s,FOCUS
-40327,3291,15,PLAIN,ESS,ToBeNormalized,e s s,ESS
-40541,3311,8,CARDINAL,X,RemainSelf,X,ten
-41004,3347,5,MEASURE,1/2 cc,ToBeNormalized,one two c c,half a c c
-41044,3350,4,PLAIN,FIN,ToBeNormalized,f i n,FIN
-42206,3443,19,LETTERS,Ohta,RemainSelf,Ohta,o h t a
-42232,3447,1,ELECTRONIC,opensecrets.org,RemainSelf,opensecrets.org,o_letter p_letter e_letter n_letter s_letter e_letter c_letter r_letter e_letter t_letter s_letter dot o_letter r_letter g_letter
-42271,3452,1,ELECTRONIC,ontheissues.org,ToBeNormalized,o n t h e i s s u e s dot o r g,o_letter n_letter t_letter h_letter e_letter i_letter s_letter s_letter u_letter e_letter s_letter dot o_letter r_letter g_letter
-42632,3487,5,LETTERS,Vlag,RemainSelf,Vlag,v l a g
-43271,3536,8,ELECTRONIC,Battle.net,ToBeNormalized,b a t t l e dot n e t,b_letter a_letter t_letter t_letter l_letter e_letter dot n_letter e_letter t_letter
-43531,3562,5,ELECTRONIC,//www.mediacorp.sg/corporate-en/corporatehttp://www.ofcom.org.uk/static/archive/itc/itc_publications/codes_guidance/programme_code/section_4.asp.html,ToBeNormalized,s l a s h s l a s h w w w dot m e d i a c o r p dot s g s l a s h c o r p o r a t e h,s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot m_letter e_letter d_letter i_letter a_letter c_letter o_letter r_letter p_letter dot s_letter  _letter g_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter c_letter o_letter r_letter p_letter o_letter r_letter a_letter t_letter e_letter  _letter d_letter a_letter s_letter h_letter  _letter e_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter c_letter o_letter r_letter p_letter o_letter r_letter a_letter t_letter e_letter h_letter t_letter t_letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot o_letter f_letter c_letter o_letter m_letter dot o_letter r_letter g_letter dot u_letter k_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter t_letter a_letter t_letter i_letter c_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter a_letter r_letter c_letter h_letter i_letter v_letter e_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter i_letter t_letter c_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter i_letter t_letter c_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter p_letter u_letter b_letter l_letter i_letter c_letter a_letter t_letter i_letter o_letter n_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter c_letter o_letter d_letter e_letter s_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter g_letter u_letter i_letter d_letter a_letter n_letter c_letter e_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter p_letter r_letter o_letter g_letter r_letter a_letter m_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter c_letter o_letter d_letter e_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter e_letter c_letter t_letter i_letter o_letter n_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter f_letter o_letter u_letter r_letter dot a_letter  _letter s_letter  _letter p_letter dot h_letter  _letter t_letter  _letter m_letter  _letter l_letter
-43694,3575,11,LETTERS,POZ,RemainSelf,POZ,p o z
-43839,3586,2,LETTERS,ANADYR,RemainSelf,ANADYR,a n a d y r
-44032,3603,6,LETTERS,AIP,RemainSelf,AIP,a i p
-44334,3634,12,LETTERS,NF,RemainSelf,NF,n f
-44608,3661,6,PLAIN,EPs,ToBeNormalized,e p's,EPs
-44691,3669,8,LETTERS,Uy,RemainSelf,Uy,u y
-44798,3676,6,PUNCT,-,ToBeNormalized,to,-
-45051,3696,6,PLAIN,couplesUsing,ToBeNormalized,road,couplesUsing
-45335,3716,9,PLAIN,boathouse,ToBeNormalized,e,boathouse
-45569,3736,2,PLAIN,MGR,ToBeNormalized,m g r,MGR
-45708,3749,13,PLAIN,VI,ToBeNormalized,six,VI
-46056,3781,6,CARDINAL,0,RemainSelf,0,zero
-46164,3790,1,LETTERS,MUTAWAKKILI,RemainSelf,MUTAWAKKILI,m u t a w a k k i l i
-46167,3790,4,LETTERS,SUYUTI,RemainSelf,SUYUTI,s u y u t i
-46739,3839,14,LETTERS,é,RemainSelf,é,e acute
-47176,3874,9,VERBATIM,Snr,RemainSelf,Snr,s n r
-48087,3952,6,PLAIN,Xtra,ToBeNormalized,x t r a,Xtra
-48254,3965,4,PLAIN,CUP,ToBeNormalized,c u p,CUP
-48275,3967,0,ELECTRONIC,Punknews.org,ToBeNormalized,p u n k n e w s dot o r g,p_letter u_letter n_letter k_letter n_letter e_letter w_letter s_letter dot o_letter r_letter g_letter
-48286,3967,11,DATE,14-04-2014,ToBeNormalized,the fourteenth of april fourteen forty,the fourteenth of april twenty fourteen
-48626,3992,9,LETTERS,Aam,RemainSelf,Aam,a a m
-49265,4049,1,DATE,2011,ToBeNormalized,two o one one,twenty eleven
-49608,4079,8,PLAIN,XI,ToBeNormalized,x i,XI
-49683,4085,1,VERBATIM,Τ,ToBeNormalized,<UNK>,tau
-49684,4085,2,VERBATIM,Ο,ToBeNormalized,<UNK>,omicron
-49685,4085,3,VERBATIM,Δ,ToBeNormalized,<UNK>,delta
-49686,4085,4,VERBATIM,Η,ToBeNormalized,<UNK>,eta
-49687,4085,5,VERBATIM,Κ,ToBeNormalized,<UNK>,kappa
-49688,4085,6,VERBATIM,Κ,ToBeNormalized,<UNK>,kappa
-49689,4085,7,VERBATIM,Ι,ToBeNormalized,<UNK>,iota
-49690,4085,8,VERBATIM,Θ,ToBeNormalized,<UNK>,theta
-49691,4085,9,VERBATIM,Α,ToBeNormalized,<UNK>,alpha
-49692,4085,10,VERBATIM,Σ,ToBeNormalized,<UNK>,sigma
-49693,4085,11,VERBATIM,Υ,ToBeNormalized,<UNK>,upsilon
-49694,4085,12,VERBATIM,Μ,ToBeNormalized,<UNK>,mu
-49695,4085,13,VERBATIM,Μ,ToBeNormalized,<UNK>,mu
-49696,4085,14,VERBATIM,Ε,ToBeNormalized,<UNK>,epsilon
-49697,4085,15,VERBATIM,Τ,ToBeNormalized,<UNK>,tau
-49698,4085,16,VERBATIM,Α,ToBeNormalized,<UNK>,alpha
-49699,4085,17,VERBATIM,Σ,ToBeNormalized,<UNK>,sigma
-49700,4085,18,VERBATIM,Χ,ToBeNormalized,<UNK>,chi
-49701,4085,19,VERBATIM,Ε,ToBeNormalized,<UNK>,epsilon
-49702,4085,20,VERBATIM,Ι,ToBeNormalized,<UNK>,iota
-49703,4085,21,VERBATIM,Α,ToBeNormalized,<UNK>,alpha
-49704,4085,22,VERBATIM,Κ,ToBeNormalized,<UNK>,kappa
-49705,4085,23,VERBATIM,Ο,ToBeNormalized,<UNK>,omicron
-49706,4085,24,VERBATIM,Μ,ToBeNormalized,<UNK>,mu
-49707,4085,25,VERBATIM,Α,ToBeNormalized,<UNK>,alpha
-49708,4085,26,VERBATIM,Π,ToBeNormalized,<UNK>,pi
-49709,4085,27,VERBATIM,Ι,ToBeNormalized,<UNK>,iota
-49710,4085,28,VERBATIM,Ο,ToBeNormalized,<UNK>,omicron
-49711,4085,29,VERBATIM,Μ,ToBeNormalized,<UNK>,mu
-49712,4085,30,VERBATIM,Α,ToBeNormalized,<UNK>,alpha
-49713,4085,31,VERBATIM,Χ,ToBeNormalized,<UNK>,chi
-49714,4085,32,VERBATIM,Η,ToBeNormalized,<UNK>,eta
-49715,4085,33,VERBATIM,Τ,ToBeNormalized,<UNK>,tau
-49716,4085,34,VERBATIM,Ι,ToBeNormalized,<UNK>,iota
-49717,4085,35,VERBATIM,Κ,ToBeNormalized,<UNK>,kappa
-49718,4085,36,VERBATIM,Α,ToBeNormalized,<UNK>,alpha
-49719,4085,37,VERBATIM,Σ,ToBeNormalized,<UNK>,sigma
-49720,4085,38,VERBATIM,Τ,ToBeNormalized,<UNK>,tau
-49721,4085,39,VERBATIM,Ι,ToBeNormalized,<UNK>,iota
-49722,4085,40,VERBATIM,Σ,ToBeNormalized,<UNK>,sigma
-49723,4085,41,VERBATIM,Ε,ToBeNormalized,<UNK>,epsilon
-49724,4085,42,VERBATIM,Π,ToBeNormalized,<UNK>,pi
-49725,4085,43,VERBATIM,Ι,ToBeNormalized,<UNK>,iota
-49726,4085,44,VERBATIM,Κ,ToBeNormalized,<UNK>,kappa
-49727,4085,45,VERBATIM,Ε,ToBeNormalized,<UNK>,epsilon
-49728,4085,46,VERBATIM,Ι,ToBeNormalized,<UNK>,iota
-49729,4085,47,VERBATIM,Μ,ToBeNormalized,<UNK>,mu
-49730,4085,48,VERBATIM,Ε,ToBeNormalized,<UNK>,epsilon
-49731,4085,49,VERBATIM,Ν,ToBeNormalized,<UNK>,nu
-49732,4085,50,VERBATIM,Ε,ToBeNormalized,<UNK>,epsilon
-49733,4085,51,VERBATIM,Σ,ToBeNormalized,<UNK>,sigma
-49734,4085,52,VERBATIM,Ε,ToBeNormalized,<UNK>,epsilon
-49735,4085,53,VERBATIM,Κ,ToBeNormalized,<UNK>,kappa
-49736,4085,54,VERBATIM,Λ,ToBeNormalized,<UNK>,lambda
-49737,4085,55,VERBATIM,Ο,ToBeNormalized,<UNK>,omicron
-49738,4085,56,VERBATIM,Γ,ToBeNormalized,<UNK>,gamma
-49739,4085,57,VERBATIM,Ε,ToBeNormalized,<UNK>,epsilon
-49740,4085,58,VERBATIM,Σ,ToBeNormalized,<UNK>,sigma
-49741,4085,59,VERBATIM,Κ,ToBeNormalized,<UNK>,kappa
-49742,4085,60,VERBATIM,Α,ToBeNormalized,<UNK>,alpha
-49743,4085,61,VERBATIM,Ι,ToBeNormalized,<UNK>,iota
-49744,4085,62,VERBATIM,Θ,ToBeNormalized,<UNK>,theta
-49745,4085,63,VERBATIM,Α,ToBeNormalized,<UNK>,alpha
-49746,4085,64,VERBATIM,Β,ToBeNormalized,<UNK>,beta
-49747,4085,65,VERBATIM,Ρ,ToBeNormalized,<UNK>,rho
-49748,4085,66,VERBATIM,Ι,ToBeNormalized,<UNK>,iota
-49749,4085,67,VERBATIM,Σ,ToBeNormalized,<UNK>,sigma
-49750,4085,68,VERBATIM,Κ,ToBeNormalized,<UNK>,kappa
-49751,4085,69,VERBATIM,Ε,ToBeNormalized,<UNK>,epsilon
-49752,4085,70,VERBATIM,Τ,ToBeNormalized,<UNK>,tau
-49753,4085,71,VERBATIM,Α,ToBeNormalized,<UNK>,alpha
-49754,4085,72,VERBATIM,Ι,ToBeNormalized,<UNK>,iota
-49755,4085,73,VERBATIM,Σ,ToBeNormalized,<UNK>,sigma
-49756,4085,74,VERBATIM,Τ,ToBeNormalized,<UNK>,tau
-49757,4085,75,VERBATIM,Η,ToBeNormalized,<UNK>,eta
-49758,4085,76,VERBATIM,Ν,ToBeNormalized,<UNK>,nu
-49759,4085,77,VERBATIM,Ε,ToBeNormalized,<UNK>,epsilon
-49760,4085,78,VERBATIM,Α,ToBeNormalized,<UNK>,alpha
-49761,4085,79,VERBATIM,Β,ToBeNormalized,<UNK>,beta
-49762,4085,80,VERBATIM,Ο,ToBeNormalized,<UNK>,omicron
-49763,4085,81,VERBATIM,Υ,ToBeNormalized,<UNK>,upsilon
-49764,4085,82,VERBATIM,Λ,ToBeNormalized,<UNK>,lambda
-49765,4085,83,VERBATIM,Η,ToBeNormalized,<UNK>,eta
-49978,4102,1,PLAIN,SM,ToBeNormalized,s m,SM
-50029,4108,6,ELECTRONIC,literature.at,ToBeNormalized,l i t e r a t u r e dot a t,l_letter i_letter t_letter e_letter r_letter a_letter t_letter u_letter r_letter e_letter dot a_letter  _letter t_letter
-50278,4128,3,ORDINAL,V,RemainSelf,V,the fifth
-50368,4136,3,ELECTRONIC,http://www.jstor.org/stable/2799027;,ToBeNormalized,h t t p colon slash slash w w w dot j s t o r dot o r g slash s t a b l e slash t w o s e v e n n i n e o t w o s e v e n,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot j_letter  _letter s_letter t_letter o_letter r_letter dot o_letter r_letter g_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter t_letter a_letter b_letter l_letter e_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter w_letter o_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter n_letter i_letter n_letter e_letter  _letter n_letter i_letter n_letter e_letter  _letter o_letter  _letter t_letter w_letter o_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter s_letter e_letter m_letter i_letter c_letter o_letter l_letter o_letter n_letter
-50948,4178,5,PLAIN,VEVO,ToBeNormalized,v e v o,VEVO
-51054,4189,6,TELEPHONE,1999-2000 BCA,ToBeNormalized,one nine nine nine sil two o o sil b c a,one nine nine nine sil two thousand sil b c a
-51144,4195,1,PLAIN,Dilweg,RemainSelf,Dilweg,dil weg
-51723,4244,12,MEASURE,2 mA,ToBeNormalized,two miles,two milli amperes
-52047,4272,0,PLAIN,DIC,ToBeNormalized,d i c,DIC
-52168,4280,0,ELECTRONIC,Amazon.com,ToBeNormalized,a m a z o n dot c o m,a_letter m_letter a_letter z_letter o_letter n_letter dot c_letter o_letter m_letter
-53195,4367,3,ELECTRONIC,Jash.com,ToBeNormalized,j a s h dot c o m,j_letter a_letter s_letter h_letter dot c_letter o_letter m_letter
-53565,4400,23,PLAIN,CEA,ToBeNormalized,c e a,CEA
-54353,4471,7,LETTERS,QED,RemainSelf,QED,q e d
-54517,4480,14,LETTERS,Nea,RemainSelf,Nea,n e a
-54681,4493,0,ELECTRONIC,Filmindonesia.or.id,ToBeNormalized,f i l m i n d o n e s i a dot o r dot i d,f_letter i_letter l_letter m_letter i_letter n_letter d_letter o_letter n_letter e_letter s_letter i_letter a_letter dot o_letter r_letter dot i_letter  _letter d_letter
-54778,4500,5,PLAIN,BY,ToBeNormalized,b y,BY
-54994,4518,0,LETTERS,DAP's,RemainSelf,DAP's,d a p's
-55676,4572,1,PUNCT,-,ToBeNormalized,to,-
-56002,4601,2,ELECTRONIC,www.cdc.gov/HealthyYouth/shpps/2006/factsheets/pdf/FS_Overview_SHPPS2006.pdf,ToBeNormalized,w w w dot c d c dot g o v s l a s h h e a l t h y o u t h s l a s h s h p p p s l a s h t w e n t y s,w_letter  _letter w_letter  _letter w_letter dot c_letter  _letter d_letter  _letter c_letter dot g_letter o_letter v_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter h_letter e_letter a_letter l_letter t_letter h_letter y_letter y_letter o_letter u_letter t_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter  _letter h_letter  _letter p_letter  _letter p_letter  _letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter w_letter o_letter  _letter o_letter  _letter o_letter  _letter s_letter i_letter x_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter f_letter a_letter c_letter t_letter s_letter h_letter e_letter e_letter t_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter p_letter  _letter d_letter  _letter f_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter f_letter  _letter s_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter o_letter v_letter e_letter r_letter v_letter i_letter e_letter w_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter s_letter  _letter h_letter  _letter p_letter  _letter p_letter  _letter s_letter  _letter t_letter w_letter o_letter  _letter o_letter  _letter o_letter  _letter s_letter i_letter x_letter dot p_letter  _letter d_letter  _letter f_letter
-56173,4618,2,PLAIN,stylised,RemainSelf,stylised,stylized
-56653,4656,3,ELECTRONIC,datocapital.com,RemainSelf,datocapital.com,d_letter a_letter t_letter o_letter c_letter a_letter p_letter i_letter t_letter a_letter l_letter dot c_letter o_letter m_letter
-56917,4677,18,LETTERS,Lun,RemainSelf,Lun,l u n
-57204,4704,1,PLAIN,NA's,ToBeNormalized,n a's,NA's
-58283,4790,2,LETTERS,NAC,RemainSelf,NAC,n a c
-58595,4816,4,PLAIN,KI,ToBeNormalized,k i,KI
-58824,4835,11,PLAIN,ICA,ToBeNormalized,i c a,ICA
-59793,4911,14,PLAIN,WHOI,ToBeNormalized,w h o i,WHOI
-59889,4918,9,PLAIN,idolised,RemainSelf,idolised,idolized
-60046,4931,11,LETTERS,ngu,RemainSelf,ngu,n g u
-60370,4956,13,ELECTRONIC,http://medical-dictionary.thefreedictionary.com/mesaticephalic,ToBeNormalized,h t t p colon slash slash m e d i c a l dash d i c t i o n a r y dot t h e f r e e d i c t i o n a r y dot com slash m e s,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter m_letter e_letter d_letter i_letter c_letter a_letter l_letter  _letter d_letter a_letter s_letter h_letter  _letter d_letter i_letter c_letter t_letter i_letter o_letter n_letter a_letter r_letter y_letter dot t_letter h_letter e_letter f_letter r_letter e_letter e_letter d_letter i_letter c_letter t_letter i_letter o_letter n_letter a_letter r_letter y_letter dot c_letter o_letter m_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter m_letter e_letter s_letter a_letter t_letter i_letter c_letter e_letter p_letter h_letter a_letter l_letter i_letter c_letter
-60396,4958,15,PLAIN,miRNA,ToBeNormalized,m i r n a,miRNA
-60414,4960,1,PLAIN,secularisation,RemainSelf,secularisation,secularization
-61089,5023,9,LETTERS,Ud,RemainSelf,Ud,u d
-61245,5039,7,PLAIN,resocialisation,RemainSelf,resocialisation,resocialization
-61487,5062,3,LETTERS,DnaA,RemainSelf,DnaA,d n a a
-61668,5078,0,LETTERS,Adaa,RemainSelf,Adaa,a d a a
-61809,5088,8,VERBATIM,Π,ToBeNormalized,<UNK>,pi
-61810,5088,9,VERBATIM,α,ToBeNormalized,<UNK>,alpha
-61811,5088,10,VERBATIM,λ,ToBeNormalized,<UNK>,lambda
-61812,5088,11,VERBATIM,α,ToBeNormalized,<UNK>,alpha
-61813,5088,12,VERBATIM,σ,ToBeNormalized,<UNK>,sigma
-61814,5088,13,VERBATIM,α,ToBeNormalized,<UNK>,alpha
-62575,5153,14,PLAIN,Sepulchre,RemainSelf,Sepulchre,sepulcher
-63340,5215,3,LETTERS,Rowf,RemainSelf,Rowf,r o w f
-63732,5247,13,LETTERS,Aane,RemainSelf,Aane,a a n e
-63826,5253,6,PLAIN,Zuk,ToBeNormalized,z u k,Zuk
-63856,5256,3,ELECTRONIC,Billboard.com,ToBeNormalized,b i l l b o a r d dot c o m,b_letter i_letter l_letter l_letter b_letter o_letter a_letter r_letter d_letter dot c_letter o_letter m_letter
-64097,5277,10,PLAIN,miRNA,ToBeNormalized,m i r n a,miRNA
-64253,5290,11,PLAIN,vol,RemainSelf,vol,volume
-64393,5301,0,LETTERS,Mpigi,RemainSelf,Mpigi,m p i g i
-64403,5301,10,LETTERS,Mpigi,RemainSelf,Mpigi,m p i g i
-64512,5308,3,LETTERS,dz,RemainSelf,dz,d z
-64521,5308,12,LETTERS,dz,RemainSelf,dz,d z
-64524,5308,15,LETTERS,dz,RemainSelf,dz,d z
-64626,5316,11,LETTERS,Mpigi,RemainSelf,Mpigi,m p i g i
-65343,5371,3,PLAIN,odour,RemainSelf,odour,odor
-65497,5383,13,PLAIN,vii,ToBeNormalized,v i i,vii
-65875,5418,1,ELECTRONIC,Lawyers.com,ToBeNormalized,l a w y e r s dot c o m,l_letter a_letter w_letter y_letter e_letter r_letter s_letter dot c_letter o_letter m_letter
-66154,5439,2,LETTERS,scid,RemainSelf,scid,s c i d
-66289,5453,2,CARDINAL,486,ToBeNormalized,four eight six,four hundred eighty six
-66566,5479,2,ELECTRONIC,bumpworthy.com,ToBeNormalized,b u m p w o r t h y dot c o m,b_letter u_letter m_letter p_letter w_letter o_letter r_letter t_letter h_letter y_letter dot c_letter o_letter m_letter
-66858,5509,15,PLAIN,Ala,ToBeNormalized,a l a,Ala
-66877,5511,8,ELECTRONIC,//www.nytimes.com/2014/06/19/fashion/no-body-talk-summer-camps.html,ToBeNormalized,s l a s h s l a s h w w w dot n y t i m e s dot c o m s l a s h t w e n t y f o u r s e v e n s l a s,s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot n_letter y_letter t_letter i_letter m_letter e_letter s_letter dot c_letter o_letter m_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter w_letter e_letter n_letter t_letter y_letter  _letter f_letter o_letter u_letter r_letter t_letter e_letter e_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter o_letter  _letter s_letter i_letter x_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter n_letter i_letter n_letter e_letter t_letter e_letter e_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter f_letter a_letter s_letter h_letter i_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter n_letter o_letter  _letter d_letter a_letter s_letter h_letter  _letter b_letter o_letter d_letter y_letter  _letter d_letter a_letter s_letter h_letter  _letter t_letter a_letter l_letter k_letter  _letter d_letter a_letter s_letter h_letter  _letter s_letter u_letter m_letter m_letter e_letter r_letter  _letter d_letter a_letter s_letter h_letter  _letter c_letter a_letter m_letter p_letter s_letter dot h_letter  _letter t_letter  _letter m_letter  _letter l_letter
-67406,5553,13,PLAIN,SM,ToBeNormalized,s m,SM
-67737,5579,0,LETTERS,MNRAS,RemainSelf,MNRAS,m n r a s
-67748,5581,0,ELECTRONIC,Qantas.com.au,ToBeNormalized,q a n t a s dot c o m dot a u,q_letter a_letter n_letter t_letter a_letter s_letter dot c_letter o_letter m_letter dot a_letter  _letter u_letter
-68150,5607,8,LETTERS,zvaz,RemainSelf,zvaz,z v a z
-68439,5633,4,PLAIN,PRU,ToBeNormalized,p r u,PRU
-68440,5633,5,PLAIN,CHA,ToBeNormalized,c h a,CHA
-68462,5634,15,PLAIN,WILD,ToBeNormalized,w i l d,WILD
-68465,5634,18,CARDINAL,81,ToBeNormalized,eight one,eighty one
-68492,5636,7,LETTERS,CONACULTA,RemainSelf,CONACULTA,c o n a c u l t a
-68571,5641,9,LETTERS,Arci,RemainSelf,Arci,a r c i
-68600,5644,9,ELECTRONIC,Gizmodo.com,ToBeNormalized,g i z m o d o dot c o m,g_letter i_letter z_letter m_letter o_letter d_letter o_letter dot c_letter o_letter m_letter
-69072,5684,7,LETTERS,ZO,RemainSelf,ZO,z o
-69318,5699,5,DATE,the 15 May,RemainSelf,the 15 May,the fifteenth of may
-69914,5746,8,LETTERS,Ilam,RemainSelf,Ilam,i l a m
-70043,5756,12,PLAIN,COO,ToBeNormalized,c o o,COO
-70056,5757,8,LETTERS,Fase,RemainSelf,Fase,f a s e
-70229,5771,9,LETTERS,OAM,RemainSelf,OAM,o a m
-70524,5793,4,MONEY,Rs.10,ToBeNormalized,ten ten,ten rupees
-70920,5828,2,FRACTION,-133/94,ToBeNormalized,minus one hundred thirty three thousand nine hundred forty fourths,minus one hundred thirty three ninety fourths
-71394,5865,3,FRACTION,⅞,RemainSelf,⅞,seven eighths
-71623,5881,9,PLAIN,centimetre,RemainSelf,centimetre,centimeter
-71899,5907,7,PLAIN,ES,ToBeNormalized,e s,ES
-72712,5977,9,PLAIN,SAVE,ToBeNormalized,s a v e,SAVE
-72851,5988,6,PLAIN,OST,ToBeNormalized,o s t,OST
-73186,6009,8,PLAIN,PAC,ToBeNormalized,p a c,PAC
-73951,6063,5,PLAIN,SPIN,ToBeNormalized,s p i n,SPIN
-74411,6099,0,LETTERS,mr,ToBeNormalized,mister,m r
-74508,6105,7,ELECTRONIC,digitaljournal.com,ToBeNormalized,d i g i t a l j o u r n a l dot c o m,d_letter i_letter g_letter i_letter t_letter a_letter l_letter j_letter o_letter u_letter r_letter n_letter a_letter l_letter dot c_letter o_letter m_letter
-74612,6115,8,LETTERS,é,RemainSelf,é,e acute
-74689,6123,5,DATE,2010,ToBeNormalized,two o one o,twenty ten
-75046,6151,1,PLAIN,neighbourhood's,ToBeNormalized,neighborhoods,neighbourhood's
-75690,6206,1,LETTERS,Tou,RemainSelf,Tou,t o u
-76019,6235,5,LETTERS,d'Yeu,RemainSelf,d'Yeu,d y e u
-76029,6235,15,PLAIN,V,ToBeNormalized,five,V
-76109,6244,3,ELECTRONIC,CNNMoney.com,ToBeNormalized,c n n m o n e y dot c o m,c_letter  _letter n_letter  _letter n_letter  _letter m_letter o_letter n_letter e_letter y_letter dot c_letter o_letter m_letter
-76370,6261,8,ELECTRONIC,Stuff.co.nz,ToBeNormalized,s t u f f dot c o dot n z,s_letter t_letter u_letter f_letter f_letter dot c_letter o_letter dot n_letter  _letter z_letter
-76373,6261,11,ELECTRONIC,https://web.archive.org/20130716070450/http://www.warriors.co.nz:80/playerprofiledisplay/Warriors/Suaia%20Matagi/7207,ToBeNormalized,h t t p s colon slash slash w e b dot a r c h i v e dot o r g slash t w o o o n i n e o s e v e n o f o u r f o u r f,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter s_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter e_letter b_letter dot a_letter r_letter c_letter h_letter i_letter v_letter e_letter dot o_letter r_letter g_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter w_letter o_letter  _letter o_letter  _letter o_letter n_letter e_letter  _letter t_letter h_letter r_letter e_letter e_letter  _letter o_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter o_letter n_letter e_letter  _letter s_letter i_letter x_letter  _letter o_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter o_letter  _letter f_letter o_letter u_letter r_letter  _letter f_letter i_letter v_letter e_letter  _letter o_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot w_letter a_letter r_letter r_letter i_letter o_letter r_letter s_letter dot c_letter o_letter dot n_letter  _letter z_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter e_letter i_letter g_letter h_letter t_letter y_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter p_letter l_letter a_letter y_letter e_letter r_letter p_letter r_letter o_letter f_letter i_letter l_letter e_letter d_letter i_letter s_letter p_letter l_letter a_letter y_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter a_letter r_letter r_letter i_letter o_letter r_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter u_letter a_letter i_letter a_letter  _letter p_letter e_letter r_letter c_letter e_letter n_letter t_letter  _letter t_letter w_letter e_letter n_letter t_letter y_letter  _letter m_letter a_letter t_letter a_letter g_letter i_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter t_letter w_letter o_letter  _letter o_letter  _letter s_letter e_letter v_letter e_letter n_letter
-76611,6280,0,PLAIN,EGAN,ToBeNormalized,e g a n,EGAN
-77227,6324,3,LETTERS,OMD,RemainSelf,OMD,o m d
-77390,6339,2,DIGIT,2013,ToBeNormalized,twenty thirteen,two o one three
-78309,6410,19,PLAIN,DID,ToBeNormalized,d i d,DID
-78760,6446,1,LETTERS,Nghe,RemainSelf,Nghe,n g h e
-78944,6457,18,ELECTRONIC,nl.newsbank.com,ToBeNormalized,n l dot n e w s b a n k dot c o m,n_letter  _letter l_letter dot n_letter e_letter w_letter s_letter b_letter a_letter n_letter k_letter dot c_letter o_letter m_letter
-79447,6496,4,PLAIN,UCCIO,ToBeNormalized,u c c i o,UCCIO
-79448,6496,5,VERBATIM,И,ToBeNormalized,<UNK>,И
-79527,6504,4,ELECTRONIC,Yahoo.ro,RemainSelf,Yahoo.ro,y_letter a_letter h_letter o_letter o_letter dot r_letter  _letter o_letter
-79529,6504,6,PLAIN,revolutionise,RemainSelf,revolutionise,revolutionize
-79771,6524,10,LETTERS,HIV-,RemainSelf,HIV-,h i v
-80136,6554,14,PLAIN,fibre,RemainSelf,fibre,fiber
-80473,6581,6,LETTERS,nul,RemainSelf,nul,n u l
-80858,6612,8,TELEPHONE,978-94-007-3962-8,ToBeNormalized,nine seven eight sil nine four sil o o o seven sil three nine six two sil eight,nine seven eight sil nine four sil o o seven sil three nine six two sil eight
-81276,6646,13,PLAIN,odour,RemainSelf,odour,odor
-81338,6650,8,ORDINAL,I,RemainSelf,I,the first
-81417,6654,19,PLAIN,-,RemainSelf,-,to
-81418,6654,20,MEASURE,1220m,ToBeNormalized,one thousand two hundred meters,one thousand two hundred twenty meters
-81725,6681,11,ORDINAL,X,RemainSelf,X,the tenth
-82109,6711,9,PLAIN,ISO,ToBeNormalized,i s o,ISO
-82177,6717,1,PLAIN,I,ToBeNormalized,one,I
-82909,6777,3,CARDINAL,V,RemainSelf,V,five
-83166,6800,2,LETTERS,STEREOSELECTIVE,RemainSelf,STEREOSELECTIVE,s t e r e o s e l e c t i v e
-83179,6800,15,LETTERS,DIMETHYL-,RemainSelf,DIMETHYL-,d i m e t h y l
-83184,6800,20,PLAIN,ACID,ToBeNormalized,a c i d,ACID
-83322,6811,1,VERBATIM,Bv,RemainSelf,Bv,b v
-83368,6816,12,PLAIN,yahoo!,RemainSelf,yahoo!,yahoo
-84557,6913,2,LETTERS,Uta,RemainSelf,Uta,u t a
-84648,6920,3,ELECTRONIC,SeaFishingHowTo.com,RemainSelf,SeaFishingHowTo.com,s_letter e_letter a_letter f_letter i_letter s_letter h_letter i_letter n_letter g_letter h_letter o_letter w_letter t_letter o_letter dot c_letter o_letter m_letter
-84918,6945,1,ORDINAL,II,ToBeNormalized,two,the second
-84929,6946,4,PLAIN,digitised,RemainSelf,digitised,digitized
-85695,7012,2,ELECTRONIC,http://www.tmaxsoft.com/product/productView.do,ToBeNormalized,h t t p colon slash slash w w w dot t m a x s o f t dot com slash p r o d u c t slash p r o d u c t slash p r o d u c t slash p r o,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot t_letter m_letter a_letter x_letter s_letter o_letter f_letter t_letter dot c_letter o_letter m_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter p_letter r_letter o_letter d_letter u_letter c_letter t_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter p_letter r_letter o_letter d_letter u_letter c_letter t_letter v_letter i_letter e_letter w_letter dot d_letter o_letter
-86108,7040,3,PLAIN,IU,ToBeNormalized,i u,IU
-86696,7086,4,VERBATIM,Ngn,RemainSelf,Ngn,n g n
-86710,7086,18,VERBATIM,Ngn,RemainSelf,Ngn,n g n
-86713,7086,21,PLAIN,STAT,ToBeNormalized,s t a t,STAT
-86739,7088,11,PLAIN,circumcised,RemainSelf,circumcised,circumcized
-86774,7090,6,PLAIN,GRIN,ToBeNormalized,g r i n,GRIN
-86814,7094,0,PLAIN,HSI,ToBeNormalized,h s i,HSI
-87016,7112,4,PUNCT,:,ToBeNormalized,to,:
-87089,7120,15,ORDINAL,XIII,ToBeNormalized,thirteen,the thirteenth
-87132,7123,12,LETTERS,Ssese,RemainSelf,Ssese,s s e s e
-87253,7132,14,PLAIN,-,RemainSelf,-,to
-87786,7178,12,LETTERS,Usos,ToBeNormalized,u s o s,u s o's
-87808,7180,9,LETTERS,Ald,RemainSelf,Ald,a l d
-88069,7196,10,TIME,18:00:00Z,ToBeNormalized,eighteen hours o minutes and zero seconds z,eighteen hours zero minutes and zero seconds z
-88189,7204,6,LETTERS,EXPOKOS,RemainSelf,EXPOKOS,e x p o k o s
-88307,7213,0,LETTERS,Njui,RemainSelf,Njui,n j u i
-88531,7230,14,DATE,1938,ToBeNormalized,one thousand nine hundred thirty eight,nineteen thirty eight
-88533,7230,16,DATE,1968,ToBeNormalized,one thousand nine hundred sixty eight,nineteen sixty eight
-88776,7250,3,TIME,0:02:01,ToBeNormalized,zero hours two minutes and one seconds,zero hours two minutes and one second
-88865,7256,5,PLAIN,CAB,ToBeNormalized,c a b,CAB
-89177,7279,7,PUNCT,"""",ToBeNormalized,one,""""
-89321,7290,8,ELECTRONIC,Justin.tv,RemainSelf,Justin.tv,j_letter u_letter s_letter t_letter i_letter n_letter dot t_letter  _letter v_letter
-90094,7354,18,PLAIN,IX,ToBeNormalized,i x,IX
-90321,7369,4,ELECTRONIC,Worldbank.org,ToBeNormalized,w o r l d b a n k dot o r g,w_letter o_letter r_letter l_letter d_letter b_letter a_letter n_letter k_letter dot o_letter r_letter g_letter
-90483,7385,1,LETTERS,Suat,RemainSelf,Suat,s u a t
-90485,7385,3,PLAIN,Azerbaycan'dan,ToBeNormalized,a z e r b a y c a n,Azerbaycan'dan
-90535,7388,20,PUNCT,-,ToBeNormalized,to,-
-90538,7388,23,CARDINAL,1974,ToBeNormalized,nineteen seventy four,one thousand nine hundred seventy four
-90539,7388,24,PUNCT,-,ToBeNormalized,to,-
-91088,7431,1,LETTERS,AML,RemainSelf,AML,a m l
-91255,7440,5,PLAIN,GO,ToBeNormalized,g o,GO
-91694,7482,2,ELECTRONIC,plimsollshipdata.org,ToBeNormalized,p l i m s o l l s h i p d a t a dot o r g,p_letter l_letter i_letter m_letter s_letter o_letter l_letter l_letter s_letter h_letter i_letter p_letter d_letter a_letter t_letter a_letter dot o_letter r_letter g_letter
-91756,7487,2,LETTERS,Ekow,RemainSelf,Ekow,e k o w
-91807,7492,8,LETTERS,Lwala,RemainSelf,Lwala,l w a l a
-91883,7498,4,LETTERS,bd,RemainSelf,bd,b d
-92218,7530,5,LETTERS,Smer,RemainSelf,Smer,s m e r
-92249,7532,18,LETTERS,Mzee,RemainSelf,Mzee,m z e e
-92390,7545,7,PLAIN,centred,ToBeNormalized,center,centred
+sentence_id,token_id,semiotic,before,class,after,truth
+59,0,PLAIN,UPA,ToBeNormalized,u p a,UPA
+66,6,PLAIN,SEO,ToBeNormalized,s e o,SEO
+68,0,PLAIN,INSIGHT,ToBeNormalized,i n s i g h t,INSIGHT
+80,2,PLAIN,WA,ToBeNormalized,w a,WA
+80,4,PLAIN,SPIE,ToBeNormalized,s p i e,SPIE
+90,0,PLAIN,LiPSA,ToBeNormalized,l i p s a,LiPSA
+94,20,PLAIN,ROD,ToBeNormalized,r o d,ROD
+100,2,PLAIN,LEGAL,ToBeNormalized,l e g a l,LEGAL
+100,3,PLAIN,ASSISTANCE,ToBeNormalized,a s s i s t a n c e,ASSISTANCE
+100,4,PLAIN,CENTRE,ToBeNormalized,c e n t r e,center
+100,6,PLAIN,LAC,ToBeNormalized,l a c,LAC
+156,3,MEASURE,0.001251 g/cm3,ToBeNormalized,zero point o o one two five one sil g per hour,zero point o o one two five one grams per c c
+158,5,LETTERS,V,ToBeNormalized,five,V
+184,24,PLAIN,doi,ToBeNormalized,d o i,doi
+184,28,CARDINAL,14356007,ToBeNormalized,one million four hundred thirty five thousand six hundred seven,fourteen million three hundred fifty six thousand seven
+191,3,PLAIN,RENAMO,ToBeNormalized,r e n a m o,RENAMO
+205,12,CARDINAL,1572225424,ToBeNormalized,one billion five hundred seventy two million two hundred twenty two thousand four hundred twenty four,one billion five hundred seventy two million two hundred twenty five thousand four hundred twenty four
+239,0,LETTERS,Acee,RemainSelf,Acee,a c e e
+243,5,PLAIN,GUS,ToBeNormalized,g u s,GUS
+253,4,PLAIN,DOS,ToBeNormalized,d o s,DOS
+297,8,LETTERS,Vit,RemainSelf,Vit,v i t
+303,15,PLAIN,authorisation,ToBeNormalized,t,authorization
+309,0,FRACTION,1/0,ToBeNormalized,one meter,one zeroth
+316,3,PLAIN,ski,ToBeNormalized,s k i,ski
+349,8,PLAIN,Fei,ToBeNormalized,f e i,Fei
+366,10,PLAIN,JA,ToBeNormalized,j a,JA
+378,10,PLAIN,ser,ToBeNormalized,s e r,ser
+455,3,FRACTION,"10/618,543",ToBeNormalized,ten sixteenth sixty one thousand five hundred forty three,ten six hundred eighteen thousand five hundred forty thirds
+471,15,PLAIN,Up,ToBeNormalized,u p,Up
+473,7,ELECTRONIC,#Selfie,ToBeNormalized,hash tag fourteen,hash tag selfie
+490,7,VERBATIM,-,ToBeNormalized,to,-
+507,0,PLAIN,BibliographyTranslations,ToBeNormalized,b i b l i o g r a p h y t r a n s,BibliographyTranslations
+529,7,PLAIN,EE,ToBeNormalized,e e,EE
+550,0,LETTERS,Ligi'ne,RemainSelf,Ligi'ne,l i g i n e
+555,2,PLAIN,PROFILES,ToBeNormalized,p r o f i l e s,PROFILES
+577,5,PLAIN,GUS,ToBeNormalized,g u s,GUS
+593,15,PLAIN,ups,ToBeNormalized,u p s,ups
+595,10,PLAIN,ANABlog,ToBeNormalized,a n a b l o g,ANABlog
+626,7,PLAIN,ms,ToBeNormalized,m s,ms
+627,8,PUNCT,-,ToBeNormalized,to,-
+627,12,PUNCT,-,ToBeNormalized,to,-
+633,13,PLAIN,ADUM,ToBeNormalized,a d u m,ADUM
+636,15,PLAIN,pluralised,ToBeNormalized,popularized,pluralized
+637,7,PLAIN,TRADOC,ToBeNormalized,t r a d o c,TRADOC
+637,18,PLAIN,CARR,ToBeNormalized,c a r r,CARR
+637,19,PLAIN,OPT,ToBeNormalized,o p t,OPT
+659,0,PLAIN,MATCH,ToBeNormalized,m a t c h,MATCH
+687,0,DIGIT,2007,ToBeNormalized,two thousand seven,two o o seven
+694,11,PLAIN,MAR,ToBeNormalized,m a r,MAR
+698,1,PLAIN,PIX,ToBeNormalized,p i x,PIX
+701,1,PLAIN,WorldwideEastEndersExtrasGrownupsPlanet,ToBeNormalized,w_letter,WorldwideEastEndersExtrasGrownupsPlanet
+704,0,PLAIN,Realising,RemainSelf,Realising,realizing
+704,13,PLAIN,Crystalliser,RemainSelf,Crystalliser,crystallizer
+711,0,PLAIN,LIT,ToBeNormalized,l i t,LIT
+721,11,PLAIN,VI,ToBeNormalized,v i,VI
+754,2,PLAIN,OCAMPO,ToBeNormalized,o c a m p o,OCAMPO
+754,4,PLAIN,FROM,ToBeNormalized,f r o m,FROM
+754,10,PLAIN,BUILDS,ToBeNormalized,b u i l d s,BUILDS
+754,11,TELEPHONE,3-0 LEAD,ToBeNormalized,three sil o sil l e a d,three sil o sil lead
+783,3,PLAIN,OF,ToBeNormalized,o f,OF
+784,5,PLAIN,Ngoc,ToBeNormalized,n g o c,Ngoc
+799,5,PLAIN,Maj,ToBeNormalized,m a j,Maj
+802,10,PLAIN,RAF,ToBeNormalized,r a f,RAF
+831,14,PLAIN,Sol,ToBeNormalized,s o l,Sol
+846,6,PLAIN,CLIO,ToBeNormalized,c l i o,CLIO
+864,1,PLAIN,BEEF,ToBeNormalized,b e e f,BEEF
+918,7,PLAIN,ser,ToBeNormalized,s e r,ser
+923,13,PLAIN,Lik,ToBeNormalized,l i k,Lik
+936,5,PLAIN,CARD,ToBeNormalized,c a r d,CARD
+942,1,PLAIN,Am's,ToBeNormalized,a m s's,Am's
+942,4,DIGIT,314,ToBeNormalized,three hundred fourteen,three one four
+964,18,PLAIN,mrs,ToBeNormalized,mister,mrs
+998,6,PLAIN,Aud,ToBeNormalized,a u d,Aud
+998,10,PLAIN,odd,ToBeNormalized,o d d,odd
+1018,0,PLAIN,Ava,ToBeNormalized,a v a,Ava
+1057,13,PLAIN,INRIA,ToBeNormalized,i n r i a,INRIA
+1060,3,PLAIN,ASIA,ToBeNormalized,a s i a,ASIA
+1071,15,PLAIN,Azo,ToBeNormalized,a z o,Azo
+1079,21,PLAIN,BANYU,ToBeNormalized,b a n y u,BANYU
+1091,4,LETTERS,Crkva,RemainSelf,Crkva,c r k v a
+1092,5,PLAIN,HEW,ToBeNormalized,h e w,HEW
+1101,0,PLAIN,CARE,ToBeNormalized,c a r e,CARE
+1105,5,PLAIN,I,ToBeNormalized,one,I
+1117,15,ELECTRONIC,//web.archive.org/web/20110105051516/http://www.fairfield.edu/x18852.html,ToBeNormalized,s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter e_letter b_letter dot a_letter r_letter c_letter h_letter i_letter v_letter e_letter dot o_letter r_letter g_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter e_letter b_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter w_letter o_letter  _letter o_letter  _letter o_letter n_letter e_letter  _letter o_letter n_letter e_letter  _letter o_letter  _letter o_letter n_letter e_letter  _letter o_letter  _letter o_letter n_letter e_letter  _letter o_letter n_letter e_letter  _letter o_letter n_letter e_letter  _letter o_letter n_letter e_letter  _letter o_letter n_letter e_letter  _letter o_letter n_letter e_letter  _letter o_letter n_letter e_letter  _letter o_letter n_letter e_letter  _letter o_letter n_letter e_letter  _letter o_letter n_letter e_letter  _letter o_letter n_letter e_letter  _letter o_letter n_letter e_letter  _letter o_letter n_letter e_letter  _letter o_letter n_letter e_letter  _letter o_letter,s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter e_letter b_letter dot a_letter r_letter c_letter h_letter i_letter v_letter e_letter dot o_letter r_letter g_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter e_letter b_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter w_letter o_letter  _letter o_letter  _letter o_letter n_letter e_letter  _letter o_letter n_letter e_letter  _letter o_letter  _letter o_letter n_letter e_letter  _letter o_letter  _letter f_letter i_letter v_letter e_letter  _letter o_letter  _letter f_letter i_letter v_letter e_letter  _letter o_letter n_letter e_letter  _letter f_letter i_letter v_letter e_letter  _letter o_letter n_letter e_letter  _letter s_letter i_letter x_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot f_letter a_letter i_letter r_letter f_letter i_letter e_letter l_letter d_letter dot e_letter  _letter d_letter  _letter u_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter x_letter  _letter o_letter n_letter e_letter  _letter e_letter i_letter g_letter h_letter t_letter  _letter e_letter i_letter g_letter h_letter t_letter  _letter f_letter i_letter v_letter e_letter  _letter t_letter w_letter o_letter dot h_letter  _letter t_letter  _letter m_letter  _letter l_letter
+1121,10,PLAIN,Abba,ToBeNormalized,a b b a,Abba
+1124,7,PLAIN,Yaesu,ToBeNormalized,y a e s u,Yaesu
+1165,7,PLAIN,ser,ToBeNormalized,s e r,ser
+1189,7,PLAIN,Oh,ToBeNormalized,o h,Oh
+1193,9,PLAIN,centro,ToBeNormalized,center,centro
+1203,2,PLAIN,CHARLES,ToBeNormalized,c h a r l e s,CHARLES
+1203,4,PLAIN,MOODY,ToBeNormalized,m o o d y,MOODY
+1211,20,ELECTRONIC,nethttp://www.pamirian.ru/Wakhi_language_transition.pdfAli,ToBeNormalized,n_letter e_letter t_letter h_letter t_letter t_letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot p_letter a_letter m_letter i_letter r_letter i_letter a_letter n_letter dot r_letter  _letter u_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter a_letter k_letter h_letter i_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter p_letter a_letter r_letter e_letter n_letter t_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter p_letter a_letter r_letter e_letter n_letter t_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter p_letter a_letter r_letter e_letter n_letter t_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter p_letter a_letter r_letter e_letter n_letter t_letter  _letter u_letter n_letter d_letter,n_letter  _letter e_letter  _letter t_letter  _letter h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot p_letter a_letter m_letter i_letter r_letter i_letter a_letter n_letter dot r_letter  _letter u_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter a_letter k_letter h_letter i_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter l_letter a_letter n_letter g_letter u_letter a_letter g_letter e_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter t_letter r_letter a_letter n_letter s_letter i_letter t_letter i_letter o_letter n_letter dot p_letter d_letter f_letter a_letter l_letter i_letter
+1243,13,PLAIN,IZMIR,ToBeNormalized,i z m i r,IZMIR
+1252,6,PUNCT,-,ToBeNormalized,to,-
+1289,2,ELECTRONIC,http://www.knchr.org/dmdocuments/KNCHR%20doc.pdfFollowing,ToBeNormalized,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot k_letter  _letter n_letter  _letter c_letter  _letter h_letter  _letter r_letter dot o_letter r_letter g_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter d_letter  _letter m_letter  _letter d_letter o_letter c_letter u_letter m_letter e_letter n_letter t_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter k_letter  _letter n_letter  _letter c_letter  _letter h_letter  _letter r_letter  _letter s_letter i_letter x_letter d_letter o_letter c_letter dot p_letter  _letter d_letter  _letter f_letter  _letter f_letter o_letter l_letter l_letter o_letter n_letter i_letter n_letter g_letter,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot k_letter  _letter n_letter  _letter c_letter  _letter h_letter  _letter r_letter dot o_letter r_letter g_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter d_letter m_letter d_letter o_letter c_letter u_letter m_letter e_letter n_letter t_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter k_letter  _letter n_letter  _letter c_letter  _letter h_letter  _letter r_letter  _letter p_letter e_letter r_letter c_letter e_letter n_letter t_letter  _letter t_letter w_letter e_letter n_letter t_letter y_letter  _letter d_letter o_letter c_letter dot p_letter d_letter f_letter f_letter o_letter l_letter l_letter o_letter w_letter i_letter n_letter g_letter
+1302,8,PLAIN,Abor,ToBeNormalized,a b o r,Abor
+1343,6,PLAIN,NeXTSTEP,ToBeNormalized,n e x t s t e p,NeXTSTEP
+1357,10,PLAIN,CARICOM,ToBeNormalized,c a r i c o m,CARICOM
+1369,0,PLAIN,CY,ToBeNormalized,c y,CY
+1385,4,PLAIN,Bodour,ToBeNormalized,b,Bodour
+1388,11,PLAIN,KHAD,ToBeNormalized,k h a d,KHAD
+1410,9,PLAIN,DEFRA,ToBeNormalized,d e f r a,DEFRA
+1411,15,LETTERS,subg,RemainSelf,subg,s u b g
+1414,2,DIGIT,450,ToBeNormalized,four hundred fifty,four five o
+1427,6,PLAIN,SM,ToBeNormalized,s m,SM
+1439,11,PLAIN,odor,ToBeNormalized,o d o r,odor
+1456,18,PLAIN,est,ToBeNormalized,e s t,est
+1475,0,PLAIN,Ava,ToBeNormalized,a v a,Ava
+1520,6,DATE,2017/,ToBeNormalized,two thousand seventeen,twenty seventeen
+1520,7,DATE,2016,ToBeNormalized,two thousand sixteen,twenty sixteen
+1584,3,PLAIN,SPOILERS,ToBeNormalized,s p o i l e r s,SPOILERS
+1612,16,PLAIN,ski,ToBeNormalized,s k i,ski
+1626,1,PLAIN,mrs,ToBeNormalized,mister,mrs
+1631,6,PLAIN,vols,ToBeNormalized,v o l s,vols
+1681,4,PLAIN,Chu,ToBeNormalized,c h u,Chu
+1699,7,ELECTRONIC,http://www.yafc-ftp.com/The,ToBeNormalized,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot y_letter a_letter f_letter c_letter  _letter d_letter a_letter s_letter h_letter  _letter f_letter t_letter p_letter dot c_letter o_letter m_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter h_letter e_letter,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot y_letter  _letter a_letter  _letter f_letter  _letter c_letter  _letter d_letter a_letter s_letter h_letter  _letter f_letter  _letter t_letter  _letter p_letter dot c_letter o_letter m_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter h_letter e_letter
+1707,0,PLAIN,FAO,ToBeNormalized,f a o,FAO
+1726,11,MONEY,88.5 million HRK,ToBeNormalized,eighty eight point five million yen,eighty eight point five million croatian kunas
+1785,1,LETTERS,Oolaa,RemainSelf,Oolaa,o o l a a
+1813,9,PLAIN,Koi,ToBeNormalized,k o i,Koi
+1831,5,LETTERS,xSnxTe,RemainSelf,xSnxTe,x s n x t e
+1892,5,PLAIN,CRI,ToBeNormalized,c r i,CRI
+1900,0,PLAIN,CRI,ToBeNormalized,c r i,CRI
+1901,0,PLAIN,APRA,ToBeNormalized,a p r a,APRA
+1903,6,PLAIN,SnO2,ToBeNormalized,s n o two,tin four oxide
+1925,0,PLAIN,CART,ToBeNormalized,c a r t,CART
+1925,12,PLAIN,CART,ToBeNormalized,c a r t,CART
+1940,8,PLAIN,CRIs,ToBeNormalized,c r i's,CRIs
+1967,0,LETTERS,Ilir,RemainSelf,Ilir,i l i r
+1983,17,LETTERS,anth,RemainSelf,anth,a n t h
+2027,2,PLAIN,obra,ToBeNormalized,o b r a,obra
+2033,2,PLAIN,Mac's,ToBeNormalized,m a c's,Mac's
+2109,3,PLAIN,millimetre,RemainSelf,millimetre,millimeter
+2127,8,PLAIN,Ava,ToBeNormalized,a v a,Ava
+2132,5,PLAIN,mrs,ToBeNormalized,m r s,mrs
+2153,17,PLAIN,Stem,ToBeNormalized,s t e m,Stem
+2153,19,PLAIN,ells,ToBeNormalized,e l l s,ells
+2154,10,PLAIN,SAT,ToBeNormalized,s a t,SAT
+2155,5,PLAIN,RY,ToBeNormalized,r y,RY
+2163,12,PLAIN,Sept,ToBeNormalized,s e p t,Sept
+2186,16,PLAIN,I'd,ToBeNormalized,i d,I'd
+2191,2,PLAIN,ABS,ToBeNormalized,a b s,ABS
+2203,1,PLAIN,THE,ToBeNormalized,t h e,THE
+2203,3,PLAIN,BEHIND,ToBeNormalized,b e h i n d,BEHIND
+2203,4,PLAIN,AVAAZ,ToBeNormalized,a v a a z,AVAAZ
+2270,7,DIGIT,21770,ToBeNormalized,twenty one thousand seven hundred seventy,two one seven seven o
+2274,1,PLAIN,WO,ToBeNormalized,w o,WO
+2274,3,FRACTION,2006/118205,ToBeNormalized,two thousand six one thousand eight hundred fifths,two thousand six one hundred eighteen thousand two hundred fifths
+2275,1,PUNCT,-,ToBeNormalized,to,-
+2298,22,PLAIN,Oh,ToBeNormalized,o h,Oh
+2320,12,PLAIN,ms,ToBeNormalized,m s,ms
+2325,5,PLAIN,GLUT,ToBeNormalized,g l u t,GLUT
+2344,5,PLAIN,APRA,ToBeNormalized,a p r a,APRA
+2373,12,PLAIN,Bok,ToBeNormalized,b o k,Bok
+2398,4,PUNCT,:,ToBeNormalized,to,:
+2402,10,PLAIN,POW,ToBeNormalized,p o w,POW
+2402,12,PLAIN,MIA,ToBeNormalized,m i a,MIA
+2442,17,PLAIN,NOW,ToBeNormalized,n o w,NOW
+2454,4,VERBATIM,-,ToBeNormalized,to,-
+2466,1,PLAIN,YOU,ToBeNormalized,y o u,YOU
+2505,1,PUNCT,-,ToBeNormalized,to,-
+2505,3,VERBATIM,-,ToBeNormalized,to,-
+2523,5,PLAIN,Of,ToBeNormalized,o f,Of
+2528,3,PLAIN,RAFT,ToBeNormalized,r a f t,RAFT
+2536,9,PLAIN,polarisation,ToBeNormalized,globalization,polarization
+2542,1,PLAIN,ARTHUR,ToBeNormalized,a r t h u r,ARTHUR
+2551,3,PLAIN,ES,ToBeNormalized,e s,ES
+2566,9,PLAIN,catalysed,ToBeNormalized,catalogs,catalysed
+2582,8,PLAIN,EVA,ToBeNormalized,e v a,EVA
+2593,0,LETTERS,Akl,RemainSelf,Akl,a k l
+2631,4,PLAIN,Spa,ToBeNormalized,s p a,Spa
+2635,5,LETTERS,I,ToBeNormalized,one,I
+2649,3,PLAIN,Ozat,ToBeNormalized,o z a t,Ozat
+2650,15,PLAIN,AMS,ToBeNormalized,a m s,AMS
+2697,5,PLAIN,AND,ToBeNormalized,a n d,AND
+2701,1,ELECTRONIC,http://www.business-humanrights.org/Links/Repository/308254/,ToBeNormalized,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot b_letter u_letter s_letter i_letter n_letter e_letter s_letter s_letter  _letter d_letter a_letter s_letter h_letter  _letter h_letter u_letter m_letter a_letter n_letter r_letter i_letter g_letter h_letter t_letter s_letter dot o_letter r_letter g_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter l_letter i_letter n_letter k_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter r_letter e_letter p_letter o_letter s_letter i_letter t_letter o_letter r_letter y_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter h_letter r_letter e_letter e_letter  _letter s_letter l_letter a_letter s_letter h_letter,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot b_letter u_letter s_letter i_letter n_letter e_letter s_letter s_letter  _letter d_letter a_letter s_letter h_letter  _letter h_letter u_letter m_letter a_letter n_letter r_letter i_letter g_letter h_letter t_letter s_letter dot o_letter r_letter g_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter l_letter i_letter n_letter k_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter r_letter e_letter p_letter o_letter s_letter i_letter t_letter o_letter r_letter y_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter h_letter r_letter e_letter e_letter  _letter o_letter  _letter e_letter i_letter g_letter h_letter t_letter  _letter t_letter w_letter o_letter  _letter f_letter i_letter v_letter e_letter  _letter f_letter o_letter u_letter r_letter  _letter s_letter l_letter a_letter s_letter h_letter
+2747,0,PLAIN,Izadi,ToBeNormalized,i z a d i,Izadi
+2764,1,PLAIN,aBontodBuenasuerteIntusanJose,ToBeNormalized,a_letter b o n t o d b u e n a s u e r t e i n t u s a n j o s e,aBontodBuenasuerteIntusanJose
+2781,9,PUNCT,-,ToBeNormalized,to,-
+2784,3,PLAIN,Luh,ToBeNormalized,l u h,Luh
+2816,6,PLAIN,von,ToBeNormalized,v o n,von
+2816,16,TELEPHONE,40 (1969) 111-124,ToBeNormalized,four o sil one nine six nine sil one four sil one two sil one four,four o sil one nine six nine sil one one one sil one two four
+2880,2,PLAIN,Suzi,ToBeNormalized,s u z i,Suzi
+2891,9,PLAIN,I,ToBeNormalized,the first,I
+2906,11,PLAIN,ACS,ToBeNormalized,a c s,ACS
+2949,6,PLAIN,synagogues,ToBeNormalized,synagog,synagogues
+2979,7,PLAIN,SA,ToBeNormalized,s a,SA
+2979,16,PLAIN,SA,ToBeNormalized,s a,SA
+2981,9,PLAIN,NURBS,ToBeNormalized,n u r b s,NURBS
+3024,13,DIGIT,11,ToBeNormalized,eleven,one one
+3026,11,PLAIN,FAN,ToBeNormalized,f a n,FAN
+3043,15,PLAIN,civilise,RemainSelf,civilise,civilize
+3055,8,PLAIN,oak,ToBeNormalized,o a k,oak
+3060,5,PLAIN,ASTRO,ToBeNormalized,a s t r o,ASTRO
+3085,3,PLAIN,Pi,ToBeNormalized,p i,Pi
+3120,7,PLAIN,LEED,ToBeNormalized,l e e d,LEED
+3125,9,PLAIN,Eslov,ToBeNormalized,e s l o v,Eslov
+3132,10,PUNCT,-,ToBeNormalized,to,-
+3157,24,PLAIN,Sept,ToBeNormalized,s e p t,Sept
+3162,1,ELECTRONIC,informationhttp://dynamic.stlouis-mo.gov/census/neighborhood.cfmhttp://dynamic.stlouis-mo.gov/census/neigh_comp.cfm,ToBeNormalized,i_letter n_letter f_letter o_letter r_letter m_letter a_letter t_letter i_letter o_letter n_letter h_letter t_letter t_letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter c_letter e_letter n_letter s_letter u_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter n_letter e_letter n_letter g_letter h_letter i_letter c_letter r_letter h_letter o_letter o_letter d_letter dot c_letter  _letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter c_letter e_letter n_letter s_letter u_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter n_letter e_letter i_letter g_letter h_letter i_letter c_letter r_letter h_letter o_letter o_letter d_letter dot c_letter  _letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter c_letter e_letter n_letter s_letter u_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter n_letter e_letter i_letter g_letter h_letter i_letter c_letter o_letter m_letter p_letter dot c_letter  _letter f_letter  _letter m_letter,i_letter  _letter n_letter  _letter f_letter  _letter o_letter  _letter r_letter  _letter m_letter  _letter a_letter  _letter t_letter  _letter i_letter  _letter o_letter  _letter n_letter  _letter h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter d_letter y_letter n_letter a_letter m_letter i_letter c_letter dot s_letter t_letter l_letter o_letter u_letter i_letter s_letter  _letter d_letter a_letter s_letter h_letter  _letter m_letter o_letter dot g_letter o_letter v_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter c_letter e_letter n_letter s_letter u_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter n_letter e_letter i_letter g_letter h_letter b_letter o_letter r_letter h_letter o_letter o_letter d_letter dot c_letter  _letter f_letter  _letter m_letter  _letter h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter d_letter y_letter n_letter a_letter m_letter i_letter c_letter dot s_letter t_letter l_letter o_letter u_letter i_letter s_letter  _letter d_letter a_letter s_letter h_letter  _letter m_letter o_letter dot g_letter o_letter v_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter c_letter e_letter n_letter s_letter u_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter n_letter e_letter i_letter g_letter h_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter c_letter o_letter m_letter p_letter dot c_letter  _letter f_letter  _letter m_letter
+3166,3,PLAIN,Eva,ToBeNormalized,e v a,Eva
+3167,6,PLAIN,evil,ToBeNormalized,e v i l,evil
+3246,4,PLAIN,valour,ToBeNormalized,vigor,valour
+3268,5,PLAIN,riA,ToBeNormalized,r i a,riA
+3268,8,PLAIN,Cha,ToBeNormalized,c h a,Cha
+3276,1,PLAIN,FUKUHARA,ToBeNormalized,f u k u h a r a,FUKUHARA
+3284,1,LETTERS,Var,RemainSelf,Var,v a r
+3285,0,PLAIN,FOCUS,ToBeNormalized,f o c u s,FOCUS
+3291,15,PLAIN,ESS,ToBeNormalized,e s s,ESS
+3302,1,PLAIN,Ur,ToBeNormalized,u r,Ur
+3311,8,CARDINAL,X,RemainSelf,X,ten
+3337,8,PLAIN,OUTSTANDING,ToBeNormalized,o u t s t a n d i n g,OUTSTANDING
+3337,10,PLAIN,IN,ToBeNormalized,i n,IN
+3337,13,PLAIN,VARIETY,ToBeNormalized,v a r i e t y,VARIETY
+3337,15,PLAIN,MUSIC,ToBeNormalized,m u s i c,MUSIC
+3340,9,PLAIN,AN,ToBeNormalized,a n,AN
+3340,18,PLAIN,RA,ToBeNormalized,r a,RA
+3343,5,PLAIN,MAR,ToBeNormalized,m a r,MAR
+3347,5,MEASURE,1/2 cc,ToBeNormalized,one  _letter d_letter a_letter s_letter h_letter  _letter t_letter w_letter o_letter  _letter o_letter,half a c c
+3347,8,PLAIN,ULTRAFINE,ToBeNormalized,u l t r a f i n e,ULTRAFINE
+3347,14,PLAIN,UltraFine,ToBeNormalized,favorite,UltraFine
+3347,16,PLAIN,SHORT,ToBeNormalized,s h o r t,SHORT
+3347,22,PLAIN,MICROFINE,ToBeNormalized,m i c r o f i n e,MICROFINE
+3350,4,PLAIN,FIN,ToBeNormalized,f i n,FIN
+3352,2,PLAIN,Aja,ToBeNormalized,a j a,Aja
+3380,15,PLAIN,SEZ,ToBeNormalized,s e z,SEZ
+3407,7,PLAIN,so,ToBeNormalized,s o,so
+3415,2,PLAIN,No,ToBeNormalized,number,No
+3415,5,PLAIN,Ads,ToBeNormalized,a d s,Ads
+3505,1,PLAIN,TeX,ToBeNormalized,t e x,TeX
+3519,21,PLAIN,Am,ToBeNormalized,a m,Am
+3549,6,PLAIN,UEFA,ToBeNormalized,u e f a,UEFA
+3555,9,VERBATIM,-,ToBeNormalized,to,-
+3562,5,ELECTRONIC,//www.mediacorp.sg/corporate-en/corporatehttp://www.ofcom.org.uk/static/archive/itc/itc_publications/codes_guidance/programme_code/section_4.asp.html,ToBeNormalized,s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter c_letter o_letter r_letter t_letter o_letter r_letter a_letter  _letter d_letter a_letter s_letter h_letter  _letter e_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter c_letter o_letter r_letter p_letter o_letter r_letter a_letter t_letter e_letter  _letter h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter a_letter r_letter c_letter h_letter i_letter v_letter e_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter i_letter t_letter c_letter h_letter i_letter t_letter c_letter u_letter p_letter u_letter r_letter t_letter i_letter c_letter a_letter t_letter i_letter o_letter n_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter i_letter t_letter,s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot m_letter e_letter d_letter i_letter a_letter c_letter o_letter r_letter p_letter dot s_letter  _letter g_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter c_letter o_letter r_letter p_letter o_letter r_letter a_letter t_letter e_letter  _letter d_letter a_letter s_letter h_letter  _letter e_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter c_letter o_letter r_letter p_letter o_letter r_letter a_letter t_letter e_letter h_letter t_letter t_letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot o_letter f_letter c_letter o_letter m_letter dot o_letter r_letter g_letter dot u_letter k_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter t_letter a_letter t_letter i_letter c_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter a_letter r_letter c_letter h_letter i_letter v_letter e_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter i_letter t_letter c_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter i_letter t_letter c_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter p_letter u_letter b_letter l_letter i_letter c_letter a_letter t_letter i_letter o_letter n_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter c_letter o_letter d_letter e_letter s_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter g_letter u_letter i_letter d_letter a_letter n_letter c_letter e_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter p_letter r_letter o_letter g_letter r_letter a_letter m_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter c_letter o_letter d_letter e_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter e_letter c_letter t_letter i_letter o_letter n_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter f_letter o_letter u_letter r_letter dot a_letter  _letter s_letter  _letter p_letter dot h_letter  _letter t_letter  _letter m_letter  _letter l_letter
+3575,20,PLAIN,AIDS,ToBeNormalized,a i d s,AIDS
+3601,2,PLAIN,DARPA,ToBeNormalized,d a r p a,DARPA
+3601,10,PLAIN,programmed,ToBeNormalized,program,programmed
+3603,1,PLAIN,CAST,ToBeNormalized,c a s t,CAST
+3659,10,PLAIN,Suwo,ToBeNormalized,s u w o,Suwo
+3661,6,PLAIN,EPs,ToBeNormalized,e p's,EPs
+3669,8,LETTERS,Uy,RemainSelf,Uy,u y
+3676,6,PUNCT,-,ToBeNormalized,to,-
+3678,6,PLAIN,Idol,ToBeNormalized,i d o l,Idol
+3736,2,PLAIN,MGR,ToBeNormalized,m g r,MGR
+3738,5,PLAIN,Chi,ToBeNormalized,c h i,Chi
+3749,13,PLAIN,VI,ToBeNormalized,the sixth,VI
+3789,8,PUNCT,-,ToBeNormalized,to,-
+3790,0,PLAIN,THE,ToBeNormalized,t h e,THE
+3808,0,PLAIN,PLoS,ToBeNormalized,p l o s,PLoS
+3907,0,PLAIN,Programmed,ToBeNormalized,program,Programmed
+3920,7,PLAIN,BOO,ToBeNormalized,b o o,BOO
+3951,2,DIGIT,126,ToBeNormalized,one hundred twenty six,one two six
+3952,6,PLAIN,Xtra,ToBeNormalized,x t r a,Xtra
+3961,8,PLAIN,rev,ToBeNormalized,r e v,rev
+3965,3,PLAIN,MARATHON,ToBeNormalized,m a r a t h o n,MARATHON
+3965,4,PLAIN,CUP,ToBeNormalized,c u p,CUP
+3976,8,PLAIN,Sept,ToBeNormalized,s e p t,Sept
+3984,21,PLAIN,stop,ToBeNormalized,s t o p,stop
+3992,9,LETTERS,Aam,RemainSelf,Aam,a a m
+4027,20,PUNCT,-,ToBeNormalized,to,-
+4034,1,PLAIN,COMPANY,ToBeNormalized,c o m p a n y,COMPANY
+4039,18,MEASURE,295 ch,ToBeNormalized,two hundred ninety five hours,two hundred ninety five chains
+4048,0,PLAIN,CAT,ToBeNormalized,c a t,CAT
+4079,8,PLAIN,XI,ToBeNormalized,eleven,XI
+4085,8,VERBATIM,Θ,ToBeNormalized,eta,theta
+4102,1,PLAIN,SM,ToBeNormalized,s m,SM
+4111,5,PLAIN,tri,ToBeNormalized,t r i,tri
+4126,5,PLAIN,SEC,ToBeNormalized,s e c,SEC
+4136,3,ELECTRONIC,http://www.jstor.org/stable/2799027;,ToBeNormalized,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot j_letter  _letter s_letter t_letter o_letter r_letter dot o_letter r_letter g_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter t_letter a_letter b_letter l_letter e_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter w_letter o_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter s_letter e_letter v_letter e_letter n_letter ,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot j_letter  _letter s_letter t_letter o_letter r_letter dot o_letter r_letter g_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter t_letter a_letter b_letter l_letter e_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter w_letter o_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter n_letter i_letter n_letter e_letter  _letter n_letter i_letter n_letter e_letter  _letter o_letter  _letter t_letter w_letter o_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter s_letter e_letter m_letter i_letter c_letter o_letter l_letter o_letter n_letter
+4139,21,PLAIN,INTERVIEW,ToBeNormalized,i n t e r v i e w,INTERVIEW
+4162,5,PLAIN,GUS,ToBeNormalized,g u s,GUS
+4171,18,PUNCT,-,ToBeNormalized,to,-
+4172,2,PUNCT,-,ToBeNormalized,to,-
+4178,5,PLAIN,VEVO,ToBeNormalized,v e v o,VEVO
+4189,6,TELEPHONE,1999-2000 BCA,ToBeNormalized,one nine nine nine sil two hundred sil b c a,one nine nine nine sil two thousand sil b c a
+4195,1,PLAIN,Dilweg,RemainSelf,Dilweg,dil weg
+4215,8,PLAIN,Li,ToBeNormalized,l i,Li
+4235,1,PLAIN,Huba,ToBeNormalized,h u b a,Huba
+4244,2,PLAIN,DIN,ToBeNormalized,d i n,DIN
+4244,12,MEASURE,2 mA,ToBeNormalized,two a m,two milli amperes
+4252,2,PLAIN,IRA,ToBeNormalized,i r a,IRA
+4272,0,PLAIN,DIC,ToBeNormalized,d i c,DIC
+4273,12,PLAIN,VIDEO,ToBeNormalized,v i d o i,VIDEO
+4276,11,PLAIN,Ajaji,ToBeNormalized,a j a j i,Ajaji
+4279,5,PLAIN,Rep,ToBeNormalized,r e p,Rep
+4307,2,PLAIN,HOWZE,ToBeNormalized,h o w z e,HOWZE
+4343,7,PLAIN,CAZy,ToBeNormalized,c a z y,CAZy
+4365,7,PLAIN,Esma,ToBeNormalized,e s m a,Esma
+4400,23,PLAIN,CEA,ToBeNormalized,c e a,CEA
+4457,3,PLAIN,Isla,ToBeNormalized,i s l a,Isla
+4458,3,PLAIN,SAT,ToBeNormalized,s a t,SAT
+4480,9,PLAIN,pro,ToBeNormalized,p r o,pro
+4480,14,LETTERS,Nea,RemainSelf,Nea,n e a
+4500,5,PLAIN,BY,ToBeNormalized,b y,BY
+4500,11,PLAIN,I,ToBeNormalized,the first,I
+4520,4,PLAIN,Esma,ToBeNormalized,e s m a,Esma
+4521,0,PLAIN,CURRICULUM,ToBeNormalized,c u r r i c u l u m,CURRICULUM
+4536,3,PLAIN,Esma,ToBeNormalized,e s m a,Esma
+4550,5,PLAIN,SA,ToBeNormalized,s a,SA
+4565,5,PLAIN,UNESCO,ToBeNormalized,u n e s c o,UNESCO
+4572,1,PUNCT,-,ToBeNormalized,to,-
+4600,1,PLAIN,Viz,ToBeNormalized,v i z,Viz
+4601,2,ELECTRONIC,www.cdc.gov/HealthyYouth/shpps/2006/factsheets/pdf/FS_Overview_SHPPS2006.pdf,ToBeNormalized,w_letter  _letter w_letter  _letter w_letter dot c_letter d_letter c_letter dot g_letter o_letter v_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter h_letter e_letter a_letter l_letter t_letter h_letter y_letter y_letter o_letter u_letter t_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter o_letter  _letter o_letter  _letter p_letter  _letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter f_letter a_letter c_letter t_letter s_letter h_letter e_letter e_letter t_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter p_letter  _letter d_letter  _letter f_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter f_letter  _letter s_letter  _letter t_letter h_letter r_letter e_letter e_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter f_letter o_letter u_letter r_letter  _letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter f_letter o_letter r_letter t_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter,w_letter  _letter w_letter  _letter w_letter dot c_letter  _letter d_letter  _letter c_letter dot g_letter o_letter v_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter h_letter e_letter a_letter l_letter t_letter h_letter y_letter y_letter o_letter u_letter t_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter  _letter h_letter  _letter p_letter  _letter p_letter  _letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter w_letter o_letter  _letter o_letter  _letter o_letter  _letter s_letter i_letter x_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter f_letter a_letter c_letter t_letter s_letter h_letter e_letter e_letter t_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter p_letter  _letter d_letter  _letter f_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter f_letter  _letter s_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter o_letter v_letter e_letter r_letter v_letter i_letter e_letter w_letter  _letter u_letter n_letter d_letter e_letter r_letter s_letter c_letter o_letter r_letter e_letter  _letter s_letter  _letter h_letter  _letter p_letter  _letter p_letter  _letter s_letter  _letter t_letter w_letter o_letter  _letter o_letter  _letter o_letter  _letter s_letter i_letter x_letter dot p_letter  _letter d_letter  _letter f_letter
+4614,9,PLAIN,FEBRUARY,ToBeNormalized,f e b r u a r y,FEBRUARY
+4618,2,PLAIN,stylised,RemainSelf,stylised,stylized
+4643,16,PLAIN,V,ToBeNormalized,the fifth,V
+4651,16,PLAIN,IA,ToBeNormalized,i a,IA
+4661,8,PLAIN,RITA,ToBeNormalized,r i t a,RITA
+4677,18,LETTERS,Lun,RemainSelf,Lun,l u n
+4680,7,PLAIN,V,ToBeNormalized,the fifth,V
+4697,3,PLAIN,SEED,ToBeNormalized,s e e d,SEED
+4704,1,PLAIN,NA's,ToBeNormalized,n a's,NA's
+4733,3,PLAIN,Us,ToBeNormalized,u s,Us
+4736,18,PLAIN,programmed,ToBeNormalized,program,programmed
+4748,15,PLAIN,PCs,ToBeNormalized,p c's,PCs
+4766,2,PLAIN,GUJARAT,ToBeNormalized,g u j a r a t,GUJARAT
+4766,3,PLAIN,LEGISLATIVE,ToBeNormalized,l e g i s l a t i v e,LEGISLATIVE
+4784,3,PLAIN,col,ToBeNormalized,colonel,col
+4816,4,PLAIN,KI,ToBeNormalized,k i,KI
+4834,9,PLAIN,LIX,ToBeNormalized,l i x,LIX
+4835,11,PLAIN,ICA,ToBeNormalized,i c a,ICA
+4850,10,PLAIN,ArmandoFabiolaJackieAlexAfter,ToBeNormalized,a r m a n d o f a b i o l a j a c k i e a l e x a x t e r,ArmandoFabiolaJackieAlexAfter
+4859,0,PLAIN,PIN,ToBeNormalized,p i n,PIN
+4885,5,PUNCT,-,ToBeNormalized,to,-
+4895,12,DIGIT,1271,ToBeNormalized,twelve seventy one,one two seven one
+4896,1,PLAIN,EL,ToBeNormalized,e l,EL
+4907,4,PLAIN,Ass,ToBeNormalized,a s s,Ass
+4911,14,PLAIN,WHOI,ToBeNormalized,w h o i,WHOI
+4918,9,PLAIN,idolised,RemainSelf,idolised,idolized
+4929,1,PLAIN,V,ToBeNormalized,five,V
+4931,17,PLAIN,nuoc,ToBeNormalized,n u o c,nuoc
+4931,18,PLAIN,ngoai,ToBeNormalized,n g o a i,ngoai
+4932,19,PLAIN,Etna,ToBeNormalized,e t n a,Etna
+4958,4,PLAIN,MIR,ToBeNormalized,m i r,MIR
+4958,15,PLAIN,miRNA,ToBeNormalized,m i r n a,miRNA
+4960,1,PLAIN,secularisation,ToBeNormalized,saint,secularization
+4997,0,PLAIN,Qui,ToBeNormalized,q u i,Qui
+4997,1,PLAIN,est,ToBeNormalized,e s t,est
+4997,2,LETTERS,Abdu'l,RemainSelf,Abdu'l,a b d u l
+5014,2,PLAIN,IRA,ToBeNormalized,i r a,IRA
+5025,6,PLAIN,Vaux,ToBeNormalized,v a u x,Vaux
+5034,0,PLAIN,Neurocomputational,ToBeNormalized,behavioral,Neurocomputational
+5039,7,PLAIN,resocialisation,ToBeNormalized,w,resocialization
+5064,9,PLAIN,ix,ToBeNormalized,i x,ix
+5071,3,PLAIN,Caichigue,ToBeNormalized,catalog,Caichigue
+5115,12,PLAIN,MIT,ToBeNormalized,m i t,MIT
+5158,4,PLAIN,BAS,ToBeNormalized,b a s,BAS
+5160,2,PLAIN,ABS,ToBeNormalized,a b s,ABS
+5166,5,PLAIN,GUS,ToBeNormalized,g u s,GUS
+5195,5,PLAIN,INTRODUCTION,ToBeNormalized,i n t r o d u c t i o n,INTRODUCTION
+5195,7,PLAIN,CADES,ToBeNormalized,c a d e s,CADES
+5195,10,PLAIN,SERVICE,ToBeNormalized,s e r v i c e,SERVICE
+5195,11,PLAIN,PROVIDERS,ToBeNormalized,p r o v i d e r s,PROVIDERS
+5196,8,PLAIN,czar,ToBeNormalized,c z a r,czar
+5236,12,PLAIN,A's,ToBeNormalized,a s's,A's
+5238,2,PLAIN,mrs,ToBeNormalized,m r s,mrs
+5253,6,PLAIN,Zuk,ToBeNormalized,z u k,Zuk
+5257,4,PLAIN,ANHYDRASE,ToBeNormalized,a n h y d r a s e,ANHYDRASE
+5277,10,PLAIN,miRNA,ToBeNormalized,m i r n a,miRNA
+5290,10,PLAIN,Lug,ToBeNormalized,l u g,Lug
+5301,0,LETTERS,Mpigi,RemainSelf,Mpigi,m p i g i
+5301,10,LETTERS,Mpigi,RemainSelf,Mpigi,m p i g i
+5315,0,PLAIN,Kroh,ToBeNormalized,k r o h,Kroh
+5316,11,LETTERS,Mpigi,RemainSelf,Mpigi,m p i g i
+5381,6,DATE,00s,ToBeNormalized,hundreds,o o
+5383,13,PLAIN,vii,ToBeNormalized,v i i,vii
+5419,0,PLAIN,Nieuw,ToBeNormalized,n i e u w,Nieuw
+5422,5,PLAIN,PANDAS,ToBeNormalized,p a n d a s,PANDAS
+5511,8,ELECTRONIC,//www.nytimes.com/2014/06/19/fashion/no-body-talk-summer-camps.html,ToBeNormalized,s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot n_letter  _letter y_letter  _letter t_letter  _letter i_letter  _letter m_letter  _letter e_letter  _letter s_letter dot c_letter o_letter m_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter w_letter o_letter  _letter o_letter  _letter o_letter n_letter e_letter  _letter o_letter n_letter e_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter o_letter  _letter s_letter i_letter x_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter o_letter  _letter s_letter i_letter x_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter o_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter f_letter o_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter f_letter o_letter u_letter r_letter  _letter o_letter n_letter e_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter,s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot n_letter y_letter t_letter i_letter m_letter e_letter s_letter dot c_letter o_letter m_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter w_letter e_letter n_letter t_letter y_letter  _letter f_letter o_letter u_letter r_letter t_letter e_letter e_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter o_letter  _letter s_letter i_letter x_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter n_letter i_letter n_letter e_letter t_letter e_letter e_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter f_letter a_letter s_letter h_letter i_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter n_letter o_letter  _letter d_letter a_letter s_letter h_letter  _letter b_letter o_letter d_letter y_letter  _letter d_letter a_letter s_letter h_letter  _letter t_letter a_letter l_letter k_letter  _letter d_letter a_letter s_letter h_letter  _letter s_letter u_letter m_letter m_letter e_letter r_letter  _letter d_letter a_letter s_letter h_letter  _letter c_letter a_letter m_letter p_letter s_letter dot h_letter  _letter t_letter  _letter m_letter  _letter l_letter
+5553,13,PLAIN,SM,ToBeNormalized,s m,SM
+5607,8,LETTERS,zvaz,RemainSelf,zvaz,z v a z
+5633,4,PLAIN,PRU,ToBeNormalized,p r u,PRU
+5633,5,PLAIN,CHA,ToBeNormalized,c h a,CHA
+5634,11,PLAIN,XI,ToBeNormalized,eleven,XI
+5634,15,PLAIN,WILD,ToBeNormalized,w i l d,WILD
+5641,9,LETTERS,Arci,RemainSelf,Arci,a r c i
+5683,3,CARDINAL,310780751,ToBeNormalized,thirty one million seventy eight thousand seventy five,three hundred ten million seven hundred eighty thousand seven hundred fifty one
+5684,4,PLAIN,ZOLaw,ToBeNormalized,z o l a w,ZOLaw
+5688,0,PLAIN,Issa,ToBeNormalized,i s s a,Issa
+5705,14,PLAIN,Rep,ToBeNormalized,r e p,Rep
+5711,7,PLAIN,mrs,ToBeNormalized,mister,mrs
+5744,0,PLAIN,NASA,ToBeNormalized,n a s a,NASA
+5746,8,LETTERS,Ilam,RemainSelf,Ilam,i l a m
+5747,6,PLAIN,PCs,ToBeNormalized,p c's,PCs
+5756,12,PLAIN,COO,ToBeNormalized,c o o,COO
+5757,8,LETTERS,Fase,RemainSelf,Fase,f a s e
+5769,6,PLAIN,Wu,ToBeNormalized,w u,Wu
+5771,9,LETTERS,OAM,RemainSelf,OAM,o a m
+5772,4,PLAIN,MAC,ToBeNormalized,m a c,MAC
+5778,2,PLAIN,Xiu,ToBeNormalized,x i u,Xiu
+5803,3,PLAIN,Isla,ToBeNormalized,i s l a,Isla
+5828,2,FRACTION,-133/94,ToBeNormalized,minus thirty three hundred ninety fourths,minus one hundred thirty three ninety fourths
+5841,2,PLAIN,Centro,ToBeNormalized,center,Centro
+5841,7,PLAIN,sul,ToBeNormalized,s u l,sul
+5848,15,PLAIN,Ach,ToBeNormalized,a c h,Ach
+5851,5,DECIMAL,.763,ToBeNormalized,seven hundred sixty three,point seven six three
+5865,3,FRACTION,⅞,ToBeNormalized,upsilon,seven eighths
+5907,2,PLAIN,Sétif,ToBeNormalized,s e acute t i f,Sétif
+5907,7,PLAIN,ES,ToBeNormalized,e s,ES
+5907,8,PLAIN,Sétif,ToBeNormalized,s e acute t i f,Sétif
+5928,11,PLAIN,DOS,ToBeNormalized,d o s,DOS
+5945,5,DIGIT,68821,ToBeNormalized,sixty eight thousand eight hundred twenty one,six eight eight two one
+5963,7,PLAIN,du,ToBeNormalized,d u,du
+5963,9,PLAIN,er,ToBeNormalized,e r,er
+5966,1,PLAIN,MIT,ToBeNormalized,m i t,MIT
+5977,9,PLAIN,SAVE,ToBeNormalized,s a v e,SAVE
+5988,6,PLAIN,OST,ToBeNormalized,o s t,OST
+5991,3,DATE,10/10/00,ToBeNormalized,ten tenth,the tenth of october o o
+5991,9,VERBATIM,-,ToBeNormalized,to,-
+6009,8,PLAIN,PAC,ToBeNormalized,p a c,PAC
+6021,12,PLAIN,andWissenschaftliche,ToBeNormalized,a_letter,andWissenschaftliche
+6043,1,PLAIN,I'm,ToBeNormalized,one meter,I'm
+6059,13,PLAIN,equalised,ToBeNormalized,e,equalized
+6063,5,PLAIN,SPIN,ToBeNormalized,s p i n,SPIN
+6079,10,ORDINAL,III,ToBeNormalized,three,the third
+6084,1,PLAIN,ORCHESTRA,ToBeNormalized,o r c h e s t r a,ORCHESTRA
+6084,3,PLAIN,SAMPLES,ToBeNormalized,s a m p l e s,SAMPLES
+6099,0,LETTERS,mr,ToBeNormalized,mister,m r
+6101,4,PLAIN,I,ToBeNormalized,the first,I
+6112,7,PLAIN,KANU,ToBeNormalized,k a n u,KANU
+6115,6,PLAIN,d'etre,ToBeNormalized,n e t r e,d'etre
+6123,5,DATE,2010,ToBeNormalized,two o one o,twenty ten
+6124,2,PLAIN,IL,ToBeNormalized,i l,IL
+6142,7,PLAIN,ne's,ToBeNormalized,n e's,ne's
+6151,1,PLAIN,neighbourhood's,ToBeNormalized,neighborhoods,neighbourhood's
+6155,21,PLAIN,fundraise,ToBeNormalized,f_letter,fundraise
+6168,4,PLAIN,AB,ToBeNormalized,a b,AB
+6206,1,LETTERS,Tou,RemainSelf,Tou,t o u
+6218,1,PLAIN,Aamir,ToBeNormalized,a a m i r,Aamir
+6235,5,LETTERS,d'Yeu,RemainSelf,d'Yeu,d y e u
+6235,15,PLAIN,V,ToBeNormalized,the fifth,V
+6258,14,PLAIN,COM,ToBeNormalized,c o m,COM
+6259,2,PLAIN,all,ToBeNormalized,a l l,all
+6261,11,ELECTRONIC,https://web.archive.org/20130716070450/http://www.warriors.co.nz:80/playerprofiledisplay/Warriors/Suaia%20Matagi/7207,ToBeNormalized,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter e_letter b_letter dot a_letter r_letter c_letter h_letter i_letter v_letter e_letter dot o_letter r_letter g_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter w_letter o_letter  _letter o_letter  _letter o_letter  _letter o_letter  _letter o_letter  _letter o_letter  _letter o_letter  _letter o_letter  _letter o_letter  _letter o_letter  _letter o_letter  _letter o_letter  _letter o_letter  _letter o_letter  _letter o_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter h_letter t_letter t_letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter s_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter e_letter b_letter dot a_letter r_letter c_letter h_letter i_letter v_letter e_letter dot o_letter r_letter g_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter t_letter w_letter o_letter  _letter o_letter  _letter o_letter n_letter e_letter  _letter t_letter h_letter r_letter e_letter e_letter  _letter o_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter o_letter n_letter e_letter  _letter s_letter i_letter x_letter  _letter o_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter o_letter  _letter f_letter o_letter u_letter r_letter  _letter f_letter i_letter v_letter e_letter  _letter o_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot w_letter a_letter r_letter r_letter i_letter o_letter r_letter s_letter dot c_letter o_letter dot n_letter  _letter z_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter e_letter i_letter g_letter h_letter t_letter y_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter p_letter l_letter a_letter y_letter e_letter r_letter p_letter r_letter o_letter f_letter i_letter l_letter e_letter d_letter i_letter s_letter p_letter l_letter a_letter y_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter a_letter r_letter r_letter i_letter o_letter r_letter s_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter u_letter a_letter i_letter a_letter  _letter p_letter e_letter r_letter c_letter e_letter n_letter t_letter  _letter t_letter w_letter e_letter n_letter t_letter y_letter  _letter m_letter a_letter t_letter a_letter g_letter i_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter e_letter v_letter e_letter n_letter  _letter t_letter w_letter o_letter  _letter o_letter  _letter s_letter e_letter v_letter e_letter n_letter
+6280,0,PLAIN,EGAN,ToBeNormalized,e g a n,EGAN
+6280,2,PLAIN,JOHN,ToBeNormalized,j o h n,JOHN
+6280,4,PLAIN,THOMAS,ToBeNormalized,t h o m a s,THOMAS
+6284,3,PLAIN,Up,ToBeNormalized,u p,Up
+6289,1,PLAIN,AS,ToBeNormalized,a s,AS
+6314,21,PLAIN,Naama,ToBeNormalized,n a a m a,Naama
+6329,4,PLAIN,Oh,ToBeNormalized,o h,Oh
+6339,2,DIGIT,2013,ToBeNormalized,twenty thirteen,two o one three
+6358,5,PLAIN,Ill,ToBeNormalized,i l l,Ill
+6365,6,DATE,2010,ToBeNormalized,two o one o,twenty ten
+6410,19,PLAIN,DID,ToBeNormalized,d i d,DID
+6431,4,PLAIN,Prus',ToBeNormalized,p r u's,Prus'
+6438,9,PLAIN,Lok,ToBeNormalized,l o k,Lok
+6473,2,PLAIN,Dev,ToBeNormalized,d e v,Dev
+6473,13,PLAIN,Dev,ToBeNormalized,d e v,Dev
+6482,4,PLAIN,Prus',ToBeNormalized,p r u's,Prus'
+6496,4,PLAIN,UCCIO,ToBeNormalized,u c c i o,UCCIO
+6496,10,PLAIN,DE,ToBeNormalized,d e,DE
+6504,6,PLAIN,revolutionise,RemainSelf,revolutionise,revolutionize
+6506,10,PLAIN,ACT,ToBeNormalized,a c t,ACT
+6524,11,PLAIN,AIDS,ToBeNormalized,a i d s,AIDS
+6577,21,PLAIN,MUN,ToBeNormalized,m u n,MUN
+6581,6,LETTERS,nul,RemainSelf,nul,n u l
+6612,5,PLAIN,DOI,ToBeNormalized,d o i,DOI
+6618,7,PLAIN,Ku,ToBeNormalized,k u,Ku
+6637,2,PLAIN,I,ToBeNormalized,the first,I
+6648,11,PLAIN,GOV,ToBeNormalized,g o v,GOV
+6711,9,PLAIN,ISO,ToBeNormalized,i s o,ISO
+6717,1,PLAIN,I,ToBeNormalized,one,I
+6743,1,PLAIN,est,ToBeNormalized,e s t,est
+6777,3,CARDINAL,V,ToBeNormalized,the fifth,five
+6800,0,PLAIN,REGIO,ToBeNormalized,r e g i o,REGIO
+6800,20,PLAIN,ACID,ToBeNormalized,a c i d,ACID
+6814,7,PLAIN,AG,ToBeNormalized,a g,AG
+6818,0,PLAIN,DAR,ToBeNormalized,d a r,DAR
+6844,1,PLAIN,Umro,ToBeNormalized,u m r o,Umro
+6856,5,PLAIN,B's,ToBeNormalized,b's,B's
+6857,9,PLAIN,Scat,ToBeNormalized,s c a t,Scat
+6874,4,PLAIN,I,ToBeNormalized,the first,I
+6878,5,PLAIN,Glas,ToBeNormalized,g l a's,Glas
+6887,18,PUNCT,-,ToBeNormalized,to,-
+6938,5,PLAIN,GUS,ToBeNormalized,g u s,GUS
+6945,1,ORDINAL,II,ToBeNormalized,two,the second
+6946,4,PLAIN,digitised,RemainSelf,digitised,digitized
+6946,11,PLAIN,Digitisation,ToBeNormalized,digitized,Digitisation
+6964,12,PLAIN,cue,ToBeNormalized,c u e,cue
+6970,3,PLAIN,GONZALES,ToBeNormalized,g o n z a l e s,GONZALES
+6972,7,PLAIN,synthestration,ToBeNormalized,s_letter,synthestration
+6978,1,PLAIN,iPad,ToBeNormalized,i p a d,iPad
+6999,4,PLAIN,Shab,ToBeNormalized,s h a b,Shab
+7012,2,ELECTRONIC,http://www.tmaxsoft.com/product/productView.do,ToBeNormalized,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot t_letter  _letter m_letter  _letter a_letter  _letter x_letter  _letter s_letter  _letter o_letter  _letter f_letter  _letter t_letter dot c_letter o_letter m_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter p_letter r_letter o_letter d_letter u_letter c_letter t_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter p_letter r_letter o_letter d_letter u_letter c_letter t_letter v_letter i_letter e_letter w_letter dot d_letter o_letter,h_letter  _letter t_letter  _letter t_letter  _letter p_letter  _letter c_letter o_letter l_letter o_letter n_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter w_letter  _letter w_letter  _letter w_letter dot t_letter m_letter a_letter x_letter s_letter o_letter f_letter t_letter dot c_letter o_letter m_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter p_letter r_letter o_letter d_letter u_letter c_letter t_letter  _letter s_letter l_letter a_letter s_letter h_letter  _letter p_letter r_letter o_letter d_letter u_letter c_letter t_letter v_letter i_letter e_letter w_letter dot d_letter o_letter
+7029,3,PLAIN,DOS,ToBeNormalized,d o s,DOS
+7031,14,PLAIN,DOS,ToBeNormalized,d o s,DOS
+7033,19,PLAIN,CASTOR,ToBeNormalized,c a s t o r,CASTOR
+7039,5,PLAIN,ab,ToBeNormalized,a b,ab
+7040,3,PLAIN,IU,ToBeNormalized,i u,IU
+7086,12,PLAIN,LIF,ToBeNormalized,l i f,LIF
+7086,21,PLAIN,STAT,ToBeNormalized,s t a t,STAT
+7088,11,PLAIN,circumcised,RemainSelf,circumcised,circumcized
+7090,6,PLAIN,GRIN,ToBeNormalized,g r i n,GRIN
+7094,0,PLAIN,HSI,ToBeNormalized,h s i,HSI
+7099,0,PUNCT,¿,ToBeNormalized,f,¿
+7109,6,PLAIN,TAP,ToBeNormalized,t a p,TAP
+7112,4,PUNCT,:,ToBeNormalized,to,:
+7113,4,LETTERS,IV,ToBeNormalized,the fourth,i v
+7123,12,LETTERS,Ssese,RemainSelf,Ssese,s s e s e
+7132,13,DATE,1991,ToBeNormalized,one thousand nine hundred ninety one,nineteen ninety one
+7180,9,LETTERS,Ald,RemainSelf,Ald,a l d
+7196,7,PLAIN,XI,ToBeNormalized,eleven,XI
+7196,10,TIME,18:00:00Z,ToBeNormalized,eighteen hours u seconds,eighteen hours zero minutes and zero seconds z
+7230,16,DATE,1968,ToBeNormalized,one thousand nine hundred sixty eight,nineteen sixty eight
+7234,4,PLAIN,ski,ToBeNormalized,s k i,ski
+7235,13,PLAIN,Lok,ToBeNormalized,l o k,Lok
+7250,3,TIME,0:02:01,ToBeNormalized,zero hours two minutes and one seconds,zero hours two minutes and one second
+7256,5,PLAIN,CAB,ToBeNormalized,c a b,CAB
+7286,4,PLAIN,ABA,ToBeNormalized,a b a,ABA
+7291,2,PLAIN,OBE,ToBeNormalized,o b e,OBE
+7295,15,PLAIN,scam,ToBeNormalized,s c a m,scam
+7298,8,PLAIN,est,ToBeNormalized,e s t,est
+7334,1,CARDINAL,1298015,ToBeNormalized,one two nine eight o one five,one million two hundred ninety eight thousand fifteen
+7354,18,PLAIN,IX,ToBeNormalized,nine,IX
+7364,11,PLAIN,Asaf,ToBeNormalized,a s a f,Asaf
+7372,6,LETTERS,Graz'zt,RemainSelf,Graz'zt,g r a z z t
+7385,1,LETTERS,Suat,RemainSelf,Suat,s u a t
+7385,4,PLAIN,odul,ToBeNormalized,o d u l,odul
+7388,20,PUNCT,-,ToBeNormalized,to,-
+7388,24,PUNCT,-,ToBeNormalized,to,-
+7392,7,PLAIN,I,ToBeNormalized,the first,I
+7409,5,PLAIN,LAN,ToBeNormalized,l a n,LAN
+7440,5,PLAIN,GO,ToBeNormalized,g o,GO
+7487,2,LETTERS,Ekow,RemainSelf,Ekow,e k o w
+7492,8,LETTERS,Lwala,RemainSelf,Lwala,l w a l a
+7495,1,PLAIN,Ski,ToBeNormalized,s k i,Ski
+7498,4,LETTERS,bd,RemainSelf,bd,b d
+7530,5,LETTERS,Smer,RemainSelf,Smer,s m e r
+7532,18,LETTERS,Mzee,RemainSelf,Mzee,m z e e

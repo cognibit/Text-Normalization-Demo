@@ -1,726 +1,665 @@
-,sentence_id,token_id,semiotic,before,class,after,truth
-19,2,0,PLAIN,D,ToBeNormalized,d_latin,d_letter_latin
-33,2,14,PLAIN,:),RemainSelf,:),улыбка sil
-94,6,6,PLAIN,Schreckensmusik,ToBeNormalized,ш_trans р_trans к_trans к_trans е_trans н_trans с_trans м_trans ь_trans ю_trans з_trans и_trans к_trans,ш_trans р_trans е_trans к_trans к_trans е_trans н_trans с_trans м_trans у_trans з_trans и_trans к_trans
-175,12,3,CARDINAL,XIV,ToBeNormalized,четырнадцати,четырнадцать
-296,22,6,PLAIN,I,ToBeNormalized,i_latin,i_letter_latin
-543,41,13,ELECTRONIC,POPmarket.ruВИНТАЖ/,ToBeNormalized,п_trans о_trans п_trans м_trans а_trans р_trans к_trans е_trans т_trans точка ру косая черта,п_trans о_trans п_trans м_trans а_trans р_trans к_trans е_trans т_trans точка ру в и н т а ж косая черта
-741,55,1,LETTERS,уезжс,RemainSelf,уезжс,у е з ж с
-817,61,2,MEASURE,23 км².,ToBeNormalized,двадцать три квадратных километра,двадцати трех квадратных километров
-952,71,4,PLAIN,Allshashki,ToBeNormalized,а_trans л_trans л_trans ш_trans е_trans ш_trans к_trans и_trans,а_trans л_trans л_trans ш_trans а_trans ш_trans к_trans и_trans
-1219,91,1,PLAIN,bicincta,ToBeNormalized,б_trans и_trans с_trans и_trans н_trans к_trans т_trans а_trans,б_trans и_trans ц_trans и_trans н_trans ц_trans т_trans а_trans
-1340,100,6,CARDINAL,5,ToBeNormalized,пять,пяти
-1345,101,1,PLAIN,pontocircassica,ToBeNormalized,п_trans о_trans н_trans т_trans о_trans с_trans е_trans р_trans к_trans а_trans с_trans с_trans и_trans к_trans а_trans,п_trans о_trans н_trans т_trans с_trans е_trans р_trans к_trans а_trans с_trans с_trans и_trans к_trans а_trans
-1400,105,8,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-1407,105,15,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-1410,105,18,CARDINAL,39,ToBeNormalized,тридцати девяти,тридцать девять
-1771,130,4,PLAIN,Sted,ToBeNormalized,с_trans т_trans и_trans д_trans,с_trans т_trans е_trans д_trans
-1775,130,8,PLAIN,i,ToBeNormalized,i_latin,i_letter_latin
-1776,130,9,PLAIN,tworczosci,ToBeNormalized,т_trans у_trans о_trans р_trans к_trans з_trans о_trans с_trans ц_trans и_trans,т_trans в_trans у_trans з_trans о_trans с_trans ц_trans и_trans
-1777,130,10,PLAIN,Edwarda,ToBeNormalized,э_trans д_trans в_trans а_trans р_trans д_trans а_trans,э_trans д_trans у_trans а_trans р_trans д_trans а_trans
-1987,146,8,MEASURE,3 м.,ToBeNormalized,трех метров,три метра
-2159,159,9,MEASURE,"0,129 км²",ToBeNormalized,нуля целых и ста двадцати девяти тысячных квадратного километра,ноль целых и сто двадцать девять тысячных квадратного километра
-2323,170,9,PLAIN,veseljak,ToBeNormalized,в_trans е_trans с_trans е_trans л_trans ж_trans а_trans к_trans,в_trans е_trans с_trans л_trans ж_trans а_trans к_trans
-2518,184,4,PLAIN,U,ToBeNormalized,u_latin,u_letter_latin
-2519,184,5,TELEPHONE,19 4-0,ToBeNormalized,девятнадцать sil четыре sil,девятнадцать sil четыре sil ноль
-2522,184,8,PLAIN,U,ToBeNormalized,u_latin,u_letter_latin
-2716,199,6,LETTERS,крррк,RemainSelf,крррк,к р р р к
-2722,199,12,LETTERS,ик,RemainSelf,ик,и к
-2749,201,10,DATE,4 октября,ToBeNormalized,четвертого октября,четвертое октября
-2917,215,5,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-2984,219,9,PLAIN,мхи,ToBeNormalized,м х и,мхи
-3088,226,10,MONEY,$1m,ToBeNormalized,один миллиард долларов сэ ш а,один миллион долларов сэ ш а
-3443,251,0,PLAIN,ОРТ,ToBeNormalized,о р т,ОРТ
-3510,256,3,PLAIN,B,ToBeNormalized,b_latin,b_letter_latin
-3574,261,4,CARDINAL,1911,ToBeNormalized,тысячи девятисот одиннадцати,тысяча девятьсот одиннадцать
-3608,263,4,PLAIN,Healthbeat,ToBeNormalized,х_trans е_trans л_trans т_trans б_trans е_trans т_trans,х_trans е_trans л_trans т_trans б_trans е_trans э_trans т_trans
-3898,288,6,PLAIN,A,ToBeNormalized,a_latin,a_letter_latin
-3983,293,11,PLAIN,C,ToBeNormalized,c_latin,c_letter_latin
-4025,296,9,PLAIN,A,ToBeNormalized,a_latin,a_letter_latin
-4114,304,0,PLAIN,Anais,ToBeNormalized,а_trans н_trans а_trans с_trans,а_trans н_trans е_trans й_trans с_trans
-4140,306,6,PLAIN,ГАБТ,ToBeNormalized,г а б т,ГАБТ
-4528,335,2,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-4534,335,8,ELECTRONIC,mightyleeds.co.uk,ToBeNormalized,м_trans а_trans й_trans т_trans и_trans л_trans и_trans д_trans с_trans точка к_trans о_trans точка u k,м_trans а_trans й_trans т_trans й_trans л_trans и_trans д_trans с_trans точка к_trans о_trans точка u k
-4881,361,8,CARDINAL,560,ToBeNormalized,пятисот шестидесяти,пятьсот шестьдесят
-5149,381,14,PLAIN,X,ToBeNormalized,x_latin,x_letter_latin
-5244,387,15,CARDINAL,8,ToBeNormalized,восьми,восемь
-5268,389,5,CARDINAL,"2,195,192",ToBeNormalized,два миллиона сто девяносто пять целых и тысяча девятьсот двадцать тысячных,два миллиона сто девяносто пять тысяч сто девяносто два
-5455,402,6,PLAIN,B,ToBeNormalized,b_latin,b_letter_latin
-5456,402,7,DIGIT,0087,ToBeNormalized,ноль ноль восемьдесят семь,ноль ноль восемь семь
-5457,402,8,PLAIN,V,ToBeNormalized,v_latin,v_letter_latin
-5459,402,10,PLAIN,NIGLuttwak,ToBeNormalized,н_trans и_trans г_trans л_trans а_trans т_trans т_trans у_trans а_trans к_trans,н_trans и_trans г_trans л_trans а_trans т_trans т_trans в_trans а_trans к_trans
-5699,422,8,LETTERS,Угме,RemainSelf,Угме,у г м е
-5733,425,0,FRACTION,1/1,ToBeNormalized,одна первое,одна первая
-5771,426,28,PLAIN,Foighil,ToBeNormalized,ф_trans о_trans й_trans а_trans й_trans л_trans,ф_trans о_trans й_trans и_trans л_trans
-5802,428,7,ELECTRONIC,russianrealty.ru,ToBeNormalized,р_trans а_trans с_trans с_trans и_trans а_trans н_trans р_trans е_trans л_trans т_trans и_trans точка р_trans у_trans,р_trans а_trans с_trans с_trans и_trans а_trans н_trans р_trans и_trans л_trans т_trans и_trans точка р_trans у_trans
-5953,438,12,CARDINAL,1,ToBeNormalized,одним,одной
-6043,446,9,TELEPHONE,978-9197189484,ToBeNormalized,девятьсот семьдесят восемь sil девятьсот девятнадцать семьсот восемнадцать девятьсот девяносто четыре,девятьсот семьдесят восемь sil девятьсот девятнадцать семьсот восемнадцать девяносто четыре восемьдесят четыре
-6137,454,8,PLAIN,Generique,ToBeNormalized,д_trans ж_trans е_trans н_trans е_trans р_trans и_trans к_trans,д_trans ж_trans е_trans н_trans р_trans и_trans к_trans
-6352,469,12,PLAIN,variant,ToBeNormalized,в_trans а_trans р_trans а_trans й_trans а_trans н_trans т_trans,в_trans а_trans р_trans и_trans а_trans н_trans т_trans
-6657,491,6,PLAIN,Lhasa,ToBeNormalized,л_trans х_trans а_trans з_trans а_trans,л_trans е_trans й_trans з_trans а_trans
-7702,569,12,LETTERS,РТКомм,RemainSelf,РТКомм,р т к о м м
-7806,577,4,MEASURE,10 484 га,ToBeNormalized,десять тысяч четыреста восемьдесят четыре гектара,десяти тысяч четырехсот восьмидесяти четырех гектаров
-7814,578,1,PLAIN,Pirincci,ToBeNormalized,п_trans и_trans р_trans и_trans н_trans с_trans и_trans,п_trans и_trans р_trans и_trans н_trans к_trans с_trans и_trans
-7844,580,8,CARDINAL,"484, 485, 520, 527",ToBeNormalized,четыреста восемьдесят четыре миллиона четыреста восемьдесят пять тысяч пятьсот двадцать два,четыреста восемьдесят четыре миллиарда четыреста восемьдесят пять миллионов пятьсот двадцать тысяч пятьсот двадцать семь
-8009,592,1,PLAIN,sarayi,ToBeNormalized,с_trans а_trans р_trans е_trans й_trans и_trans,с_trans а_trans р_trans а_trans й_trans и_trans
-8013,592,5,PLAIN,yazmalar,ToBeNormalized,й_trans а_trans з_trans м_trans а_trans л_trans а_trans р_trans,я_trans з_trans м_trans а_trans л_trans а_trans р_trans
-8078,599,3,DATE,1971 г.,ToBeNormalized,тысяча девятьсот семьдесят первым годом,тысяча девятьсот семьдесят первого года
-8080,599,5,DATE,2002 г.,ToBeNormalized,две тысячи второй год,две тысячи второму году
-8091,600,3,CARDINAL,1,ToBeNormalized,один,одной
-8097,600,9,DECIMAL,"1,3",ToBeNormalized,одну целую и три десятых,одной целой и трех десятых
-8099,600,11,CARDINAL,4,ToBeNormalized,четырех,четыре
-8275,611,3,CARDINAL,1902,ToBeNormalized,тысячью девятистах двух,тысячу девятьсот два
-8408,620,15,PUNCT,"""",ToBeNormalized,и,""""
-8493,627,8,DECIMAL,"0,2",ToBeNormalized,нуля целых и двух десятых,ноль целых и две десятых
-8895,657,1,PLAIN,a,ToBeNormalized,a_latin,a_letter_latin
-9320,691,3,PLAIN,loyalty,ToBeNormalized,л_trans о_trans й_trans а_trans л_trans т_trans и_trans,л_trans о_trans й_trans о_trans л_trans т_trans и_trans
-9383,696,15,DECIMAL,"375,02",ToBeNormalized,триста семьдесят пять тысяч два,триста семьдесят пять целых и две сотых
-9528,707,10,VERBATIM,ў,RemainSelf,ў,у
-9636,714,25,PLAIN,Zavarakatranemija,ToBeNormalized,з_trans а_trans в_trans а_trans р_trans а_trans к_trans а_trans т_trans р_trans а_trans н_trans м_trans и_trans ж_trans а_trans,з_trans а_trans в_trans а_trans р_trans а_trans к_trans а_trans т_trans р_trans а_trans н_trans е_trans м_trans и_trans ж_trans а_trans
-9903,735,2,DATE,23 ноября 2007,ToBeNormalized,двадцать третье ноября две тысячи седьмого года,двадцать третьего ноября две тысячи седьмого года
-10143,755,11,PLAIN,O,ToBeNormalized,o_latin,o_letter_latin
-10265,762,8,PLAIN,c,ToBeNormalized,c_latin,c_letter_latin
-10357,769,2,PLAIN,Cairos,ToBeNormalized,к_trans а_trans й_trans р_trans о_trans с_trans,к_trans э_trans р_trans о_trans с_trans
-10381,770,4,CARDINAL,14,ToBeNormalized,четырнадцатью,четырнадцать
-10899,807,4,PLAIN,tiblat,ToBeNormalized,т_trans и_trans б_trans л_trans а_trans т_trans,т_trans и_trans б_trans л_trans э_trans т_trans
-10998,814,0,PLAIN,Counsellor,ToBeNormalized,к_trans а_trans н_trans с_trans е_trans л_trans л_trans о_trans р_trans,к_trans а_trans у_trans н_trans с_trans е_trans л_trans л_trans о_trans р_trans
-11020,815,14,LETTERS,всп,RemainSelf,всп,в с п
-11051,818,11,FRACTION,1/8,ToBeNormalized,одной восьмой,одна восьмая
-11093,822,3,PLAIN,bookclub,ToBeNormalized,б_trans у_trans к_trans л_trans а_trans б_trans,б_trans у_trans к_trans к_trans л_trans а_trans б_trans
-11273,835,0,DATE,22 мая,ToBeNormalized,двадцать второе мая,двадцать второго мая
-11349,841,6,MEASURE,70 %,ToBeNormalized,семидесяти процентов,семьюдесятью процентами
-11381,843,16,PLAIN,T,ToBeNormalized,t_latin,t_letter_latin
-11633,862,2,PLAIN,e,ToBeNormalized,e_latin,e_letter_latin
-11638,862,7,PLAIN,i,ToBeNormalized,i_latin,i_letter_latin
-11640,862,9,PLAIN,siamo,ToBeNormalized,с_trans и_trans а_trans м_trans о_trans,с_trans а_trans й_trans м_trans о_trans
-11647,862,16,DATE,5 октября 1997,ToBeNormalized,пятое октября тысяча девятьсот девяносто седьмого года,пятого октября тысяча девятьсот девяносто седьмого года
-11832,876,11,PLAIN,Antilles,ToBeNormalized,а_trans н_trans т_trans и_trans л_trans л_trans с_trans,а_trans н_trans т_trans и_trans л_trans с_trans
-11986,887,16,CARDINAL,350500,ToBeNormalized,трехсот пятидесяти тысяч пятисот,триста пятьдесят тысяч пятьсот
-12044,892,8,PLAIN,uncinata,ToBeNormalized,а_trans н_trans с_trans и_trans н_trans а_trans т_trans а_trans,ю_trans н_trans ц_trans и_trans н_trans а_trans т_trans а_trans
-12233,904,4,LETTERS,ОАГБ,RemainSelf,ОАГБ,о а г б
-12245,904,16,PLAIN,Nestle,ToBeNormalized,н_trans е_trans с_trans т_trans л_trans,н_trans е_trans с_trans т_trans л_trans е_trans
-12342,914,8,PLAIN,Deepwater,ToBeNormalized,д_trans и_trans п_trans в_trans а_trans т_trans е_trans р_trans,д_trans и_trans п_trans у_trans о_trans т_trans е_trans р_trans
-12397,918,0,PLAIN,A,ToBeNormalized,a_latin,a_letter_latin
-13041,967,14,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-13175,975,3,ORDINAL,III,ToBeNormalized,три,третьего
-13194,978,0,ELECTRONIC,365Gay.com,ToBeNormalized,триста шестьдесят пять миллиардов й_trans точка к_trans о_trans м_trans,три шесть пять гей точка к_trans о_trans м_trans
-13691,1012,1,PLAIN,Thibaud,ToBeNormalized,т_trans и_trans б_trans о_trans д_trans,т_trans и_trans б_trans а_trans а_trans д_trans
-13693,1012,3,DATE,27 сентября 1880,ToBeNormalized,двадцать седьмого сентября тысяча восемьсот восьмидесятого года,двадцать седьмое сентября тысяча восемьсот восьмидесятого года
-13705,1013,2,PLAIN,Эн,ToBeNormalized,э н,Эн
-13721,1015,4,PLAIN,Stickam,ToBeNormalized,с_trans т_trans и_trans к_trans а_trans м_trans,с_trans т_trans и_trans к_trans э_trans м_trans
-13892,1030,1,PLAIN,Cimek,ToBeNormalized,с_trans и_trans м_trans е_trans к_trans,с_trans а_trans й_trans м_trans к_trans
-13939,1032,17,PLAIN,X,ToBeNormalized,x_latin,x_letter_latin
-14045,1039,1,CARDINAL,138,ToBeNormalized,ста тридцати восьми,сто тридцать восемь
-14440,1064,2,CARDINAL,500,ToBeNormalized,пятисот,пятьсот
-14578,1072,11,LETTERS,Бълг,RemainSelf,Бълг,б ъ л г
-14808,1090,0,DATE,23 июля,ToBeNormalized,двадцать третье июля,двадцать третьего июля
-14940,1099,3,DATE,18 февраля 1953 года,ToBeNormalized,восемнадцатое февраля тысяча девятьсот пятьдесят третьего года,восемнадцатого февраля тысяча девятьсот пятьдесят третьего года
-15005,1103,4,PLAIN,lideal,ToBeNormalized,л_trans и_trans д_trans и_trans а_trans л_trans,л_trans а_trans й_trans д_trans и_trans а_trans л_trans
-15236,1119,2,CARDINAL,2014,ToBeNormalized,двух тысяч четырнадцати,две тысячи четырнадцать
-15442,1133,10,PLAIN,Marlise,ToBeNormalized,м_trans а_trans р_trans л_trans и_trans з_trans,м_trans а_trans р_trans л_trans а_trans й_trans з_trans
-15807,1158,2,MEASURE,"4079,762 км².",ToBeNormalized,четырех тысяч семисот девяноста семи целых и шестидесяти двух тысячных квадратного километра,четырех тысяч семидесяти девяти целых и семисот шестидесяти двух тысячных квадратного километра
-15940,1168,2,PLAIN,Diopsidae,ToBeNormalized,д_trans и_trans о_trans п_trans з_trans и_trans д_trans а_trans,д_trans и_trans о_trans п_trans с_trans а_trans й_trans д_trans а_trans
-16085,1179,6,CARDINAL,41,ToBeNormalized,сорока одного,сорок одно
-16098,1180,3,CARDINAL,XVIII,ToBeNormalized,восемнадцать,восемнадцати
-17079,1248,14,PLAIN,Historys,ToBeNormalized,х_trans и_trans с_trans т_trans а_trans р_trans и_trans с_trans,х_trans и_trans с_trans т_trans о_trans р_trans и_trans с_trans
-17387,1270,10,CARDINAL,14,ToBeNormalized,четырнадцати,четырнадцать
-17570,1283,13,TELEPHONE,0-19-856837-1,ToBeNormalized,ноль sil девятнадцать sil восемьсот пятьдесят шесть восемьдесят три семьдесят семь sil один,ноль sil девятнадцать sil восемьсот пятьдесят шесть восемьсот тридцать семь sil один
-17889,1304,17,DECIMAL,"21,5 тыс.",ToBeNormalized,двадцать одна целая и пять десятых тысячи,двадцать одну целую и пять десятых тысячи
-18018,1312,22,PLAIN,P,ToBeNormalized,p_latin,p_letter_latin
-18020,1312,24,PLAIN,Neistadt,ToBeNormalized,н_trans е_trans й_trans с_trans т_trans а_trans д_trans т_trans,н_trans е_trans и_trans с_trans т_trans а_trans д_trans т_trans
-18042,1314,1,PLAIN,ОТС,ToBeNormalized,о т с,ОТС
-18461,1344,11,CARDINAL,862,ToBeNormalized,восьмисот шестидесяти двух,восемьсот шестьдесят две
-18488,1347,9,LETTERS,вдня,RemainSelf,вдня,в д н я
-18514,1349,11,PLAIN,completion,ToBeNormalized,к_trans о_trans м_trans п_trans л_trans е_trans ш_trans е_trans н_trans,к_trans о_trans м_trans п_trans л_trans ш_trans е_trans н_trans
-18541,1351,1,CARDINAL,1916,ToBeNormalized,тысяча девятьсот шестнадцать,тысячью девятистах шестнадцати
-18671,1361,12,CARDINAL,45,ToBeNormalized,сорок пять,сорока пяти
-18976,1381,7,TELEPHONE,003-97003-97,ToBeNormalized,ноль ноль три sil девять тысяч семьсот три sil девяносто семь,ноль ноль три sil девять семь ноль ноль три sil девяносто семь
-19213,1398,11,LETTERS,бъ,RemainSelf,бъ,б ъ
-19385,1408,33,CARDINAL,XXI,ToBeNormalized,двадцать первого,двадцати одной
-19448,1412,11,PLAIN,c,ToBeNormalized,c_latin,c_letter_latin
-19564,1421,19,CARDINAL,209372200,ToBeNormalized,двадцать миллионов девятьсот тридцать семь тысяч двести,двести девять миллионов триста семьдесят две тысячи двести
-19579,1422,4,CARDINAL,1941,ToBeNormalized,тысячи девятисот сорока одного,тысячи девятисот сорока одной
-19705,1431,12,VERBATIM,ў,RemainSelf,ў,у
-20067,1457,8,DATE,1 января 2012 года,ToBeNormalized,первое января две тысячи двенадцатого года,первого января две тысячи двенадцатого года
-20261,1473,7,DATE,29 апреля,ToBeNormalized,двадцать девятое апреля,двадцать девятого апреля
-20681,1504,6,DECIMAL,"49 416 925 604,00",ToBeNormalized,сорок девять миллионов четыреста шестнадцать тысяч девятьсот двадцать пять тысяч шестьсот,сорок девять миллиардов четыреста шестнадцать миллионов девятьсот двадцать пять тысяч шестьсот четыре
-20765,1510,3,DATE,4 марта 1992,ToBeNormalized,четвертого марта тысяча девятьсот девяносто второго года,четвертое марта тысяча девятьсот девяносто второго года
-20860,1516,11,LETTERS,Ае,RemainSelf,Ае,а е
-21223,1542,8,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-21682,1573,29,PLAIN,слу,ToBeNormalized,с л у,слу
-21881,1590,0,MEASURE,182об.,ToBeNormalized,сто восемьдесят две оборотов,сто восемьдесят два оборота
-22150,1608,21,PLAIN,I,ToBeNormalized,i_latin,i_letter_latin
-22231,1612,18,PLAIN,DailyHearld,ToBeNormalized,д_trans е_trans й_trans л_trans и_trans р_trans л_trans л_trans д_trans,д_trans е_trans й_trans л_trans и_trans х_trans е_trans р_trans л_trans д_trans
-22530,1634,7,CARDINAL,400,ToBeNormalized,четыреста,четырехсот
-22570,1638,3,PLAIN,Prosecuting,ToBeNormalized,п_trans р_trans о_trans з_trans к_trans ь_trans ю_trans т_trans и_trans н_trans г_trans,п_trans р_trans о_trans с_trans е_trans к_trans ь_trans ю_trans т_trans и_trans н_trans г_trans
-22675,1644,2,PLAIN,u,ToBeNormalized,u_latin,u_letter_latin
-22679,1644,6,MEASURE,8 Ks,ToBeNormalized,восемь сантиметров,восемь килосекунд
-22706,1645,18,CARDINAL,"317, 321, 324, 332, 356",ToBeNormalized,триста семнадцать миллионов триста двадцать одна тысяча триста двадцать четыре целых и триста двадцать три миллиона три тысячи пятьсот шестьдесят шесть,три один семь три два один три два четыре три три два три пять шесть
-22931,1660,5,CARDINAL,18,ToBeNormalized,восемнадцати,восемнадцать
-22999,1668,3,PLAIN,КТА,ToBeNormalized,к т а,КТА
-23195,1680,1,VERBATIM,ў,RemainSelf,ў,у
-23211,1680,17,DATE,7 декабря 1943,ToBeNormalized,седьмое декабря тысяча девятьсот сорок третьего года,седьмого декабря тысяча девятьсот сорок третьего года
-23461,1698,9,PLAIN,Ин,ToBeNormalized,и н,Ин
-23743,1719,6,PLAIN,C,ToBeNormalized,c_latin,c_letter_latin
-23783,1723,4,LETTERS,УФК,RemainSelf,УФК,у ф к
-23988,1739,4,CARDINAL,5,ToBeNormalized,пять,пяти
-24001,1740,4,PLAIN,V,ToBeNormalized,v_latin,v_letter_latin
-24297,1761,3,PLAIN,Acquire,ToBeNormalized,а_trans к_trans к_trans в_trans а_trans й_trans р_trans,а_trans к_trans к_trans и_trans р_trans
-24340,1763,7,CARDINAL,164,ToBeNormalized,сто шестьдесят четыре,ста шестидесяти четырех
-24527,1775,13,PLAIN,A,ToBeNormalized,a_latin,a_letter_latin
-24546,1777,0,PLAIN,Imprimatur,ToBeNormalized,и_trans м_trans п_trans р_trans и_trans м_trans а_trans ч_trans е_trans р_trans,и_trans м_trans п_trans р_trans а_trans й_trans м_trans а_trans т_trans у_trans р_trans
-24724,1791,6,PLAIN,E,ToBeNormalized,e_latin,e_letter_latin
-24798,1795,2,DATE,24 мая,ToBeNormalized,двадцать четвертое мая,двадцать четвертого мая
-24923,1803,1,PLAIN,Belfrage,ToBeNormalized,б_trans е_trans л_trans ф_trans р_trans а_trans д_trans ж_trans,б_trans е_trans л_trans ф_trans р_trans е_trans д_trans ж_trans
-25034,1811,11,TELEPHONE,978-0-7864-6509-5,ToBeNormalized,девятьсот семьдесят восемь sil ноль sil семьдесят восемь шестьдесят четыре sil шестьсот пятьдесят девять sil пять,девятьсот семьдесят восемь sil ноль sil семьдесят восемь шестьдесят четыре sil шесть тысяч пятьсот девять sil пять
-25196,1825,2,TELEPHONE,978-5-995-50445-0,ToBeNormalized,девятьсот семьдесят восемь sil пять sil девяносто девять пятьдесят пять сорок четыре пятьдесят sil ноль,девятьсот семьдесят восемь sil пять sil девятьсот девяносто пять sil пятьсот четыре сорок пять sil ноль
-25335,1835,4,PLAIN,Cryogenic,ToBeNormalized,к_trans р_trans и_trans о_trans д_trans ж_trans е_trans н_trans и_trans к_trans,к_trans р_trans и_trans о_trans г_trans е_trans н_trans и_trans к_trans
-25833,1867,10,ELECTRONIC,AG.ruThe,ToBeNormalized,а_trans г_trans точка р_trans а_trans т_trans,а_trans г_trans точка р_trans у_trans т_trans е_trans
-25840,1867,17,PLAIN,A,ToBeNormalized,a_latin,a_letter_latin
-25967,1876,13,PLAIN,C,ToBeNormalized,c_latin,c_letter_latin
-26025,1880,5,PLAIN,a,ToBeNormalized,a_latin,a_letter_latin
-26027,1880,7,PLAIN,C,ToBeNormalized,c_latin,c_letter_latin
-26083,1883,5,DATE,1864 г.,ToBeNormalized,тысяча восемьсот шестьдесят четвертого года,тысяча восемьсот шестьдесят четвертый год
-26274,1899,8,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-26278,1899,12,TELEPHONE,0262011212,ToBeNormalized,ноль двести шестьдесят два сто двенадцать двенадцать,ноль два шесть два ноль один один два один два
-26301,1901,9,PLAIN,desir,ToBeNormalized,д_trans е_trans с_trans е_trans р_trans,д_trans е_trans с_trans э_trans р_trans
-26722,1934,4,PLAIN,ОТР,ToBeNormalized,о т р,ОТР
-27048,1957,9,PLAIN,geantes,ToBeNormalized,д_trans ж_trans а_trans н_trans т_trans с_trans,д_trans ж_trans е_trans а_trans н_trans т_trans с_trans
-27223,1972,6,PLAIN,alternate,ToBeNormalized,а_trans л_trans т_trans е_trans р_trans н_trans а_trans т_trans,а_trans л_trans т_trans е_trans р_trans н_trans е_trans й_trans т_trans
-27291,1977,5,PLAIN,B,ToBeNormalized,b_latin,b_letter_latin
-27921,2021,3,PLAIN,C,ToBeNormalized,c_latin,c_letter_latin
-28008,2027,19,PLAIN,—,RemainSelf,—,до
-28530,2070,9,PLAIN,Konopliv,ToBeNormalized,к_trans о_trans н_trans о_trans п_trans л_trans а_trans й_trans в_trans,к_trans о_trans н_trans о_trans п_trans л_trans и_trans в_trans
-28740,2085,11,CARDINAL,822100,ToBeNormalized,восемьдесят две тысячи двести десять,восемьсот двадцать две тысячи сто
-29006,2105,8,LETTERS,Нла,RemainSelf,Нла,н л а
-29024,2106,4,PLAIN,y,ToBeNormalized,y_latin,y_letter_latin
-29028,2106,8,PLAIN,binacional,ToBeNormalized,б_trans и_trans н_trans а_trans с_trans и_trans о_trans н_trans а_trans л_trans,б_trans и_trans н_trans а_trans к_trans е_trans н_trans а_trans л_trans
-29254,2127,9,MEASURE,80 %,RemainSelf,80 %,восемьдесят процентов
-29407,2140,13,PLAIN,Isurus,ToBeNormalized,и_trans е_trans р_trans е_trans р_trans у_trans с_trans,ж_trans е_trans р_trans у_trans с_trans
-29425,2142,0,PLAIN,GOODRICH,ToBeNormalized,г_trans о_trans д_trans р_trans и_trans ч_trans,г_trans у_trans д_trans р_trans и_trans ч_trans
-29432,2142,7,PLAIN,Chaoying,ToBeNormalized,ч_trans а_trans о_trans й_trans а_trans и_trans н_trans г_trans,ч_trans а_trans о_trans а_trans и_trans н_trans г_trans
-29434,2142,9,PLAIN,a,ToBeNormalized,a_latin,a_letter_latin
-29456,2144,5,CARDINAL,III,ToBeNormalized,трех,три
-29524,2150,7,PLAIN,C,ToBeNormalized,c_latin,c_letter_latin
-29526,2150,9,PLAIN,D,ToBeNormalized,d_latin,d_letter_latin
-29566,2153,1,CARDINAL,1574,ToBeNormalized,тысяча пятьсот семьдесят четыре,тысячей пятьюстами семьюдесятью четырьмя
-29629,2156,9,ELECTRONIC,beachsports.npage.eu,ToBeNormalized,б_trans и_trans ч_trans с_trans п_trans о_trans р_trans т_trans с_trans точка н_trans е_trans д_trans ж_trans точка e u,б_trans и_trans ч_trans с_trans п_trans о_trans р_trans т_trans с_trans точка н_trans п_trans а_trans ж_trans точка e u
-29802,2173,0,DATE,12 мая 1968 год,ToBeNormalized,двенадцатого мая тысяча девятьсот шестьдесят восьмого года,двенадцатое мая тысяча девятьсот шестьдесят восьмого года
-29915,2182,7,CARDINAL,26,ToBeNormalized,двадцать шесть,двадцати шести
-29936,2184,0,PLAIN,KombatTubeHD,ToBeNormalized,к_trans о_trans м_trans б_trans а_trans т_trans т_trans у_trans б_trans е_trans х_trans д_trans,к_trans о_trans м_trans б_trans а_trans т_trans т_trans у_trans б_trans е_trans д_trans
-29998,2189,5,MEASURE,688КБ,ToBeNormalized,шестьсот восемьдесят восемь кельвин,шестьсот восемьдесят восемь килобайтов
-30046,2194,2,DATE,2011 г.,ToBeNormalized,две тысячи одиннадцать грамм,две тысячи одиннадцатый год
-30110,2199,6,PLAIN,K,ToBeNormalized,k_latin,k_letter_latin
-30165,2203,9,CARDINAL,1,ToBeNormalized,одной,один
-30192,2205,7,LETTERS,Стлб,RemainSelf,Стлб,с т л б
-30220,2207,2,DATE,18 сентября 2010,ToBeNormalized,восемнадцатого сентября две тысячи десятого года,восемнадцатое сентября две тысячи десятого года
-30332,2214,9,ORDINAL,14-я,ToBeNormalized,<UNK>,четырнадцатая
-30439,2222,11,PLAIN,blakeana,ToBeNormalized,б_trans л_trans а_trans к_trans е_trans а_trans н_trans а_trans,б_trans л_trans э_trans к_trans а_trans н_trans а_trans
-30622,2233,10,CARDINAL,33,ToBeNormalized,тридцать три,тридцатью тремя
-30824,2247,4,PLAIN,Rwamunyonyi,ToBeNormalized,р_trans у_trans а_trans м_trans у_trans н_trans й_trans о_trans н_trans и_trans и_trans,р_trans в_trans а_trans м_trans у_trans н_trans ь_trans о_trans н_trans и_trans и_trans
-31112,2269,11,PLAIN,ЮЗЕР,ToBeNormalized,ю з р,ЮЗЕР
-31241,2276,20,CARDINAL,12,ToBeNormalized,двенадцати,двенадцать
-31251,2277,2,MEASURE,33 минуты,ToBeNormalized,тридцать три минуты,тридцати трех минуты
-31322,2282,0,DATE,24 июня 2007,ToBeNormalized,двадцать четвертое июня две тысячи седьмого года,двадцать четвертого июня две тысячи седьмого года
-31373,2285,0,PLAIN,Zbylitowski,ToBeNormalized,з_trans б_trans и_trans л_trans и_trans т_trans о_trans у_trans с_trans к_trans и_trans,з_trans б_trans и_trans л_trans и_trans т_trans а_trans у_trans с_trans к_trans и_trans
-31391,2286,2,MEASURE,121 км².,ToBeNormalized,сто двадцать один квадратный километр,ста двадцати одного квадратного километра
-31564,2301,3,LETTERS,ВЮА,RemainSelf,ВЮА,в ю а
-31734,2316,3,LETTERS,ВЮА,RemainSelf,ВЮА,в ю а
-31949,2330,7,PLAIN,McCreadie,ToBeNormalized,м_trans а_trans к_trans к_trans р_trans е_trans д_trans и_trans,мак-креэди
-31954,2330,12,PLAIN,C,ToBeNormalized,c_latin,c_letter_latin
-32129,2345,9,MEASURE,16 ГБ,ToBeNormalized,шестнадцати <UNK>,шестнадцати гигабайтов
-32132,2346,0,ELECTRONIC,YouGamers.com,ToBeNormalized,й_trans о_trans г_trans а_trans м_trans е_trans р_trans с_trans точка к_trans о_trans м_trans,я_trans г_trans а_trans м_trans е_trans р_trans с_trans точка к_trans о_trans м_trans
-32139,2347,2,CARDINAL,5,ToBeNormalized,пяти,пять
-32273,2360,8,DATE,1 января 2012 года,ToBeNormalized,первое января две тысячи двенадцатого года,первого января две тысячи двенадцатого года
-33306,2435,5,CARDINAL,1 000 000,ToBeNormalized,один ноль ноль ноль ноль ноль ноль,миллион
-33354,2439,8,DATE,1 января 2012 года,ToBeNormalized,первое января две тысячи двенадцатого года,первого января две тысячи двенадцатого года
-33459,2448,6,CARDINAL,800,ToBeNormalized,восемьсот,восьмьюстами
-33805,2472,7,ELECTRONIC,2012.kevco33,ToBeNormalized,две тысячи двенадцать точка к_trans е_trans в_trans к_trans о_trans тридцать три,две тысячи двенадцать точка кевко тридцать три
-33986,2482,13,ELECTRONIC,http://bourdieu.name/,ToBeNormalized,h t t p <UNK> точка n e косая черта,h t t p бордье точка нейм косая черта
-34547,2519,16,CARDINAL,1946,ToBeNormalized,тысячи девятисот сорока шести,тысяча девятьсот сорок шесть
-34740,2534,4,PLAIN,A,ToBeNormalized,a_latin,a_letter_latin
-34904,2545,3,PLAIN,Warehouse,ToBeNormalized,у_trans о_trans р_trans х_trans а_trans у_trans с_trans,в_trans э_trans р_trans х_trans а_trans у_trans с_trans
-35131,2559,2,PLAIN,aghora,ToBeNormalized,а_trans г_trans х_trans а_trans р_trans а_trans,а_trans г_trans х_trans о_trans р_trans а_trans
-35384,2578,20,CARDINAL,15,ToBeNormalized,пятнадцати,пятнадцать
-35446,2582,11,PLAIN,A,ToBeNormalized,a_latin,a_letter_latin
-35492,2585,12,PLAIN,ПРО,ToBeNormalized,п р о,ПРО
-35519,2587,12,PLAIN,ОСиПЛ,ToBeNormalized,о с и п л,ОСиПЛ
-35570,2592,8,MEASURE,400 метров,ToBeNormalized,четыреста метров,четырехсот метров
-36388,2650,10,PLAIN,Stutz,ToBeNormalized,с_trans т_trans ь_trans ю_trans ц_trans,с_trans т_trans а_trans ц_trans
-36581,2662,16,MONEY,$0,ToBeNormalized,доллар,ноль долларов сэ ш а
-36647,2668,23,TELEPHONE,10569-007-9072,ToBeNormalized,десять пятьдесят шесть sil ноль ноль девять sil ноль ноль семь sil девятьсот двадцать два,сто пять шестьдесят девять sil ноль ноль семь sil девяносто семьдесят два
-36649,2668,25,PLAIN,y,ToBeNormalized,y_latin,y_letter_latin
-36799,2679,16,ELECTRONIC,http://www.gangseo.seoul.kr/portal/introduc/main_2_4_13.jsp,ToBeNormalized,h t t p w w w точка г_trans а_trans н_trans г_trans с_trans е_trans о_trans точка s e u косая черта <UNK> косая черта <UNK> косая черта <UNK> косая черта <UNK> косая черта <UNK> нижнее подчеркивание <UNK> точка p d f,h t t p w w w точка г_trans а_trans н_trans г_trans с_trans е_trans о_trans точка с_trans е_trans у_trans л_trans точка k r косая черта портал косая черта интродак косая черта мейн нижнее подчеркивание два нижнее подчеркивание четыре нижнее подчеркивание один три точка j s p
-36917,2687,3,PLAIN,УНР,ToBeNormalized,у н р,УНР
-37112,2704,3,CARDINAL,1990,ToBeNormalized,тысяча девятьсот девяносто,тысячу девятьсот девяносто
-37240,2713,14,VERBATIM,є,ToBeNormalized,и,е
-37338,2719,1,CARDINAL,58,ToBeNormalized,пятидесяти восьми,пятьдесят восемь
-37418,2724,1,CARDINAL,18953008,ToBeNormalized,сто восемьдесят девять миллионов пятьсот три тысячи восемь,восемнадцать миллионов девятьсот пятьдесят три тысячи восемь
-37511,2731,4,PLAIN,АДР,ToBeNormalized,а д р,АДР
-37737,2748,5,DATE,14 ноября 2014,ToBeNormalized,четырнадцатое ноября две тысячи четырнадцатого года,четырнадцатого ноября две тысячи четырнадцатого года
-37795,2753,0,LETTERS,ОНМУ,RemainSelf,ОНМУ,о н м у
-38046,2768,18,CARDINAL,3,ToBeNormalized,три,трех
-38214,2782,2,PLAIN,Pains,ToBeNormalized,п_trans е_trans й_trans н_trans с_trans,п_trans а_trans й_trans н_trans с_trans
-38349,2794,3,DECIMAL,"4,2",ToBeNormalized,четырех целых и двух десятых,четыре целых и две десятых
-38563,2807,21,VERBATIM,№,RemainSelf,№,номер
-38564,2807,22,FRACTION,1/2010,ToBeNormalized,одна две тысячи десять,одна две тысячи десятая
-38672,2817,1,CARDINAL,15,ToBeNormalized,пятнадцати,пятнадцать
-38787,2825,10,DECIMAL,10 млн,ToBeNormalized,десяти миллионов,десять миллионов
-38873,2833,7,PLAIN,gouldii,ToBeNormalized,г_trans о_trans у_trans л_trans д_trans и_trans и_trans,г_trans у_trans л_trans д_trans и_trans и_trans
-38948,2837,4,CARDINAL,40,ToBeNormalized,сорока,сорок
-39367,2866,26,LETTERS,ШОГО,RemainSelf,ШОГО,ш о г о
-39401,2869,13,CARDINAL,4,ToBeNormalized,четырех,четыре
-39533,2879,0,PLAIN,GameOn,ToBeNormalized,г_trans е_trans й_trans м_trans о_trans н_trans,г_trans а_trans м_trans е_trans о_trans н_trans
-39647,2886,8,PLAIN,Montejan,ToBeNormalized,м_trans о_trans н_trans т_trans е_trans ж_trans а_trans н_trans,м_trans о_trans н_trans т_trans е_trans я_trans н_trans
-39649,2886,10,PLAIN,Montejan,ToBeNormalized,м_trans о_trans н_trans т_trans е_trans ж_trans а_trans н_trans,м_trans о_trans н_trans т_trans е_trans я_trans н_trans
-39786,2897,0,PLAIN,O,ToBeNormalized,o_latin,o_letter_latin
-39940,2907,17,VERBATIM,Ї,RemainSelf,Ї,и
-39941,2907,18,LETTERS,нську,RemainSelf,нську,н с ь к у
-39947,2908,3,CARDINAL,5310900000,ToBeNormalized,пять миллиардов триста один миллион девятьсот тысяч,пять миллиардов триста десять миллионов девятьсот тысяч
-40113,2919,5,PLAIN,A,ToBeNormalized,a_latin,a_letter_latin
-40229,2928,3,MEASURE,22 ярда,ToBeNormalized,двадцать второе декабря,двадцать два ярда
-40862,2971,8,PLAIN,Scholem,ToBeNormalized,с_trans к_trans о_trans л_trans е_trans м_trans,ш_trans о_trans л_trans е_trans м_trans
-40896,2973,8,DATE,1 января 2012 года,ToBeNormalized,первое января две тысячи двенадцатого года,первого января две тысячи двенадцатого года
-41295,3004,0,PLAIN,Linjeflyg,ToBeNormalized,л_trans и_trans н_trans ж_trans е_trans ф_trans л_trans а_trans й_trans г_trans,л_trans и_trans н_trans д_trans ж_trans е_trans ф_trans л_trans а_trans й_trans г_trans
-41307,3004,12,PLAIN,Ahgelholm,ToBeNormalized,а_trans г_trans г_trans е_trans л_trans х_trans о_trans л_trans,а_trans г_trans е_trans л_trans е_trans м_trans
-41322,3004,27,PLAIN,AIRCRAFT,ToBeNormalized,а_trans й_trans р_trans к_trans р_trans а_trans ф_trans т_trans,э_trans й_trans р_trans к_trans р_trans а_trans ф_trans т_trans
-41413,3011,5,PLAIN,interleukin,ToBeNormalized,и_trans н_trans т_trans е_trans р_trans л_trans е_trans ю_trans к_trans и_trans н_trans,и_trans н_trans т_trans е_trans р_trans л_trans ь_trans ю_trans к_trans и_trans н_trans
-41418,3011,10,PLAIN,kinases,ToBeNormalized,к_trans и_trans н_trans а_trans с_trans с_trans,к_trans и_trans н_trans з_trans е_trans с_trans
-41570,3021,9,PLAIN,saying,ToBeNormalized,с_trans е_trans й_trans и_trans н_trans г_trans,с_trans а_trans а_trans и_trans н_trans г_trans
-41573,3021,12,PLAIN,a,ToBeNormalized,a_latin,a_letter_latin
-41659,3027,7,PLAIN,Puisi,ToBeNormalized,п_trans у_trans и_trans с_trans и_trans,п_trans и_trans з_trans и_trans
-41689,3030,0,LETTERS,Тъкач,RemainSelf,Тъкач,т ъ к а ч
-41840,3042,1,PLAIN,GroupSoftings,ToBeNormalized,г_trans р_trans у_trans п_trans с_trans о_trans ф_trans т_trans и_trans н_trans г_trans с_trans,г_trans р_trans а_trans у_trans п_trans с_trans о_trans ф_trans т_trans и_trans н_trans г_trans с_trans
-41942,3051,6,PLAIN,plutonium,ToBeNormalized,п_trans л_trans у_trans т_trans о_trans н_trans и_trans у_trans м_trans,п_trans л_trans а_trans т_trans о_trans н_trans и_trans у_trans м_trans
-41996,3054,3,PLAIN,Sigerson,ToBeNormalized,с_trans а_trans й_trans г_trans е_trans р_trans с_trans о_trans н_trans,с_trans и_trans г_trans е_trans р_trans с_trans о_trans н_trans
-42106,3062,7,DATE,1901 г.,ToBeNormalized,тысяча девятьсот первым годом,тысяча девятьсот первого года
-42706,3113,9,PLAIN,a,ToBeNormalized,a_latin,a_letter_latin
-42786,3118,9,CARDINAL,7649,ToBeNormalized,семь тысяч шестьсот сорок девять,семи тысяч шестисот сорока девяти
-42839,3122,2,MEASURE,137 ккал.,ToBeNormalized,сто тридцать семь <UNK>,сто тридцать семь килокалорий
-42840,3123,0,PLAIN,FOOTBOOM,ToBeNormalized,ф_trans о_trans т_trans б_trans о_trans м_trans м_trans,ф_trans у_trans т_trans б_trans у_trans м_trans
-42944,3130,14,CARDINAL,308,ToBeNormalized,триста восемь,трехсот восьми
-43150,3144,3,PLAIN,Tahir,ToBeNormalized,т_trans а_trans э_trans р_trans,т_trans а_trans а_trans й_trans р_trans
-43231,3151,0,ELECTRONIC,Sonymusic.com,ToBeNormalized,с_trans о_trans н_trans и_trans м_trans у_trans з_trans и_trans к_trans точка к_trans о_trans м_trans,с_trans о_trans н_trans и_trans м_trans ь_trans ю_trans з_trans и_trans к_trans точка к_trans о_trans м_trans
-43364,3161,4,LETTERS,См,RemainSelf,См,с м
-43499,3172,4,CARDINAL,1961,ToBeNormalized,тысяча девятьсот шестьдесят одна,тысяча девятьсот шестьдесят один
-43560,3177,12,CARDINAL,1693,ToBeNormalized,тысячи шестисот девяноста трех,тысяча шестьсот девяносто три
-43756,3191,12,MEASURE,"31,68 км².",ToBeNormalized,тридцать одна целая и шестьдесят восемь сотых квадратного километра,тридцати одной целой и шестидесяти восьми сотых квадратного километра
-43812,3196,6,CARDINAL,4,ToBeNormalized,четыре,четырем
-43817,3196,11,DECIMAL,"1,2 тыс.",ToBeNormalized,одной целой и двум <UNK> на десять,одну целую и две десятых тысячи
-44229,3223,9,PLAIN,I,ToBeNormalized,i_latin,i_letter_latin
-44253,3226,4,PLAIN,Ikhbariya,ToBeNormalized,а_trans й_trans к_trans б_trans а_trans р_trans и_trans я_trans,а_trans й_trans к_trans х_trans б_trans а_trans р_trans и_trans я_trans
-44306,3229,10,CARDINAL,8,ToBeNormalized,восемь,восьми
-44540,3244,6,CARDINAL,XIV,ToBeNormalized,четырнадцать,четырнадцати
-44544,3245,1,VERBATIM,Γ,ToBeNormalized,<UNK>,гамма
-44545,3245,2,VERBATIM,ε,ToBeNormalized,<UNK>,эпсилон
-44546,3245,3,VERBATIM,ω,ToBeNormalized,<UNK>,омега
-44547,3245,4,VERBATIM,ρ,ToBeNormalized,<UNK>,ро
-44548,3245,5,VERBATIM,γ,ToBeNormalized,<UNK>,гамма
-44549,3245,6,VERBATIM,ι,ToBeNormalized,<UNK>,йота
-44550,3245,7,VERBATIM,ο,ToBeNormalized,<UNK>,омикрон
-44551,3245,8,VERBATIM,ς,ToBeNormalized,<UNK>,сигма
-44552,3245,9,VERBATIM,Ρ,ToBeNormalized,<UNK>,ро
-44553,3245,10,VERBATIM,ο,ToBeNormalized,<UNK>,омикрон
-44554,3245,11,VERBATIM,υ,ToBeNormalized,<UNK>,ипсилон
-44555,3245,12,VERBATIM,σ,ToBeNormalized,<UNK>,сигма
-44556,3245,13,VERBATIM,ο,ToBeNormalized,<UNK>,омикрон
-44557,3245,14,VERBATIM,ς,ToBeNormalized,<UNK>,сигма
-44559,3245,16,VERBATIM,Τ,ToBeNormalized,<UNK>,тау
-44560,3245,17,VERBATIM,ο,ToBeNormalized,<UNK>,омикрон
-44561,3245,18,VERBATIM,Μ,ToBeNormalized,<UNK>,мю
-44562,3245,19,VERBATIM,α,ToBeNormalized,<UNK>,альфа
-44563,3245,20,VERBATIM,υ,ToBeNormalized,<UNK>,ипсилон
-44564,3245,21,VERBATIM,ρ,ToBeNormalized,<UNK>,ро
-44565,3245,22,VERBATIM,ο,ToBeNormalized,<UNK>,омикрон
-44568,3245,25,VERBATIM,Φ,ToBeNormalized,<UNK>,фи
-44569,3245,26,VERBATIM,υ,ToBeNormalized,<UNK>,ипсилон
-44570,3245,27,VERBATIM,τ,ToBeNormalized,<UNK>,тау
-44571,3245,28,VERBATIM,ρ,ToBeNormalized,<UNK>,ро
-44572,3245,29,VERBATIM,α,ToBeNormalized,<UNK>,альфа
-44573,3245,30,VERBATIM,κ,ToBeNormalized,<UNK>,каппа
-44574,3245,31,VERBATIM,η,ToBeNormalized,<UNK>,эта
-44575,3245,32,VERBATIM,ς,ToBeNormalized,<UNK>,сигма
-44578,3245,35,VERBATIM,σ,ToBeNormalized,<UNK>,сигма
-44579,3245,36,VERBATIM,ε,ToBeNormalized,<UNK>,эпсилон
-44580,3245,37,VERBATIM,λ,ToBeNormalized,<UNK>,лямбда
-44594,3247,3,PLAIN,A,ToBeNormalized,a_latin,a_letter_latin
-44677,3254,0,PLAIN,Aimons,ToBeNormalized,а_trans й_trans м_trans о_trans н_trans с_trans,а_trans и_trans м_trans о_trans н_trans с_trans
-44899,3270,10,FRACTION,1 1/2,ToBeNormalized,одну вторую,одну целую и одну вторую
-45033,3280,5,LETTERS,Лодьм,RemainSelf,Лодьм,л о д ь м
-45235,3294,3,PLAIN,R,ToBeNormalized,r_latin,r_letter_latin
-45409,3307,7,PLAIN,a,ToBeNormalized,a_latin,a_letter_latin
-45413,3307,11,PLAIN,stesso,ToBeNormalized,с_trans т_trans е_trans с_trans с_trans о_trans,с_trans т_trans и_trans с_trans о_trans
-45468,3311,3,CARDINAL,16,ToBeNormalized,шестнадцати,шестнадцать
-45654,3323,6,PLAIN,expansa,ToBeNormalized,э_trans к_trans с_trans п_trans а_trans н_trans с_trans а_trans,э_trans к_trans с_trans п_trans а_trans н_trans з_trans а_trans
-45688,3326,8,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-45811,3334,5,PLAIN,Crusades,ToBeNormalized,к_trans р_trans а_trans с_trans а_trans д_trans е_trans с_trans,к_trans р_trans у_trans с_trans а_trans д_trans е_trans с_trans
-45815,3334,9,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-45832,3334,26,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-46311,3372,2,PLAIN,A,ToBeNormalized,a_latin,a_letter_latin
-46401,3379,3,ORDINAL,19-ю,ToBeNormalized,<UNK>,девятнадцатую
-46623,3393,7,PLAIN,Maslovskiy,ToBeNormalized,м_trans а_trans с_trans л_trans о_trans в_trans с_trans к_trans и_trans и_trans,м_trans а_trans с_trans л_trans а_trans в_trans с_trans к_trans и_trans и_trans
-46875,3409,2,PLAIN,jackdaws,ToBeNormalized,д_trans ж_trans э_trans к_trans д_trans а_trans у_trans с_trans,д_trans ж_trans э_trans к_trans д_trans о_trans у_trans с_trans
-47016,3419,0,CARDINAL,2005,ToBeNormalized,две тысячи пять,двух тысяч пяти
-47108,3426,8,DATE,1 января 2012 года,ToBeNormalized,первое января две тысячи двенадцатого года,первого января две тысячи двенадцатого года
-47344,3445,4,PLAIN,I,ToBeNormalized,i_latin,i_letter_latin
-47402,3451,8,DATE,1 января 2012 года,ToBeNormalized,первое января две тысячи двенадцатого года,первого января две тысячи двенадцатого года
-47430,3454,5,VERBATIM,Θ,ToBeNormalized,<UNK>,тета
-47431,3454,6,VERBATIM,ο,ToBeNormalized,<UNK>,омикрон
-47432,3454,7,VERBATIM,υ,ToBeNormalized,<UNK>,ипсилон
-47433,3454,8,VERBATIM,λ,ToBeNormalized,<UNK>,лямбда
-47434,3454,9,VERBATIM,η,ToBeNormalized,<UNK>,эта
-47652,3470,12,VERBATIM,ў,RemainSelf,ў,у
-47744,3477,1,PLAIN,McClelland,ToBeNormalized,<UNK>,мак-клелленд
-47981,3497,5,PLAIN,Oussama,ToBeNormalized,о_trans с_trans с_trans а_trans м_trans а_trans,у_trans с_trans с_trans а_trans м_trans а_trans
-48006,3499,3,PLAIN,statham,ToBeNormalized,с_trans т_trans е_trans й_trans т_trans м_trans,с_trans т_trans а_trans т_trans а_trans м_trans
-48018,3500,5,PLAIN,a,ToBeNormalized,a_latin,a_letter_latin
-48224,3517,2,PLAIN,traced,ToBeNormalized,т_trans р_trans а_trans с_trans е_trans д_trans,т_trans р_trans е_trans й_trans с_trans е_trans д_trans
-48286,3521,8,PLAIN,A,ToBeNormalized,a_latin,a_letter_latin
-48698,3552,4,VERBATIM,Λ,ToBeNormalized,<UNK>,лямбда
-48699,3552,5,VERBATIM,ο,ToBeNormalized,<UNK>,омикрон
-48700,3552,6,VERBATIM,γ,ToBeNormalized,<UNK>,гамма
-48701,3552,7,VERBATIM,ο,ToBeNormalized,<UNK>,омикрон
-48702,3552,8,VERBATIM,θ,ToBeNormalized,<UNK>,тета
-48703,3552,9,VERBATIM,ε,ToBeNormalized,<UNK>,эпсилон
-48704,3552,10,VERBATIM,τ,ToBeNormalized,<UNK>,тау
-48705,3552,11,VERBATIM,η,ToBeNormalized,<UNK>,эта
-48706,3552,12,VERBATIM,ς,ToBeNormalized,<UNK>,сигма
-48707,3552,13,VERBATIM,τ,ToBeNormalized,<UNK>,тау
-48708,3552,14,VERBATIM,ο,ToBeNormalized,<UNK>,омикрон
-48709,3552,15,VERBATIM,υ,ToBeNormalized,<UNK>,ипсилон
-48710,3552,16,VERBATIM,δ,ToBeNormalized,<UNK>,дельта
-48711,3552,17,VERBATIM,ρ,ToBeNormalized,<UNK>,ро
-48712,3552,18,VERBATIM,ο,ToBeNormalized,<UNK>,омикрон
-48713,3552,19,VERBATIM,μ,ToBeNormalized,<UNK>,мю
-48714,3552,20,VERBATIM,ο,ToBeNormalized,<UNK>,омикрон
-48715,3552,21,VERBATIM,υ,ToBeNormalized,<UNK>,ипсилон
-49125,3584,7,CARDINAL,2009,ToBeNormalized,двух тысяч девяти,две тысячи девять
-49166,3587,1,PLAIN,r,ToBeNormalized,r_latin,r_letter_latin
-49170,3587,5,PLAIN,z,ToBeNormalized,<UNK>,z
-49172,3587,7,PLAIN,s,ToBeNormalized,с_trans,s
-49391,3599,7,PLAIN,Laughlin,ToBeNormalized,л_trans о_trans л_trans и_trans н_trans,л_trans а_trans ф_trans л_trans и_trans н_trans
-49440,3602,13,PLAIN,P,ToBeNormalized,p_latin,p_letter_latin
-49442,3602,15,PLAIN,O,ToBeNormalized,o_latin,o_letter_latin
-49587,3612,7,CARDINAL,XVI,ToBeNormalized,шестнадцать,шестнадцати
-49652,3617,5,CARDINAL,XXIII,ToBeNormalized,двадцать три,двадцати трех
-49687,3620,1,PLAIN,I,ToBeNormalized,i_latin,i_letter_latin
-49693,3621,1,MEASURE,1 км².,ToBeNormalized,один квадратный километр,одном квадратном километре
-50380,3670,16,MEASURE,173 МВт.,ToBeNormalized,сто семьдесят три мегаватта,ста семидесяти трех мегаватт
-50426,3675,19,LETTERS,ЯЗБЫ,RemainSelf,ЯЗБЫ,я з б ы
-50486,3681,0,PLAIN,B,ToBeNormalized,b_latin,b_letter_latin
-50614,3691,5,MEASURE,"0,987412 грамма",ToBeNormalized,ноль целых и девятьсот семьсот семьдесят четыре тысячных грамма,ноль целых и девятьсот восемьдесят семь тысяч четыреста двенадцать миллионных грамма
-50644,3693,5,PLAIN,Campo,ToBeNormalized,к_trans э_trans м_trans п_trans о_trans,к_trans а_trans м_trans п_trans о_trans
-50802,3704,1,DATE,1862 г.,ToBeNormalized,тысяча восемьсот шестьдесят второй год,тысяча восемьсот шестьдесят втором году
-50808,3704,7,CARDINAL,1687,ToBeNormalized,тысячи шестисот восьмидесяти семи,тысяча шестьсот восемьдесят семь
-51174,3728,11,DATE,5 апреля 1970 года,ToBeNormalized,пятого апреля тысяча девятьсот семидесятого года,пятое апреля тысяча девятьсот семидесятого года
-51201,3730,1,PLAIN,Pritschauhof,ToBeNormalized,п_trans р_trans и_trans т_trans ш_trans о_trans х_trans о_trans ф_trans о_trans ф_trans,п_trans р_trans и_trans т_trans ш_trans о_trans х_trans о_trans ф_trans
-51290,3736,13,FRACTION,2011/12,ToBeNormalized,две тысячи одиннадцать двенадцатых,двух тысяч одиннадцати двенадцатых
-51386,3744,1,TELEPHONE,985-11-0330-6 ISBN 985-11-0302-0,ToBeNormalized,девятьсот восемьдесят пять sil одиннадцать sil ноль триста тридцать sil шесть sil i s b n sil ноль два sil один,девятьсот восемьдесят пять sil одиннадцать sil ноль триста тридцать sil шесть sil i s b n sil девятьсот восемьдесят пять sil одиннадцать sil ноль триста два sil ноль
-51397,3745,1,PLAIN,WasserturmAn,ToBeNormalized,в_trans а_trans с_trans с_trans е_trans р_trans т_trans у_trans р_trans м_trans а_trans н_trans,в_trans а_trans с_trans с_trans е_trans р_trans ч_trans е_trans р_trans м_trans а_trans н_trans
-51399,3745,3,PLAIN,DankeskircheAnsbacher,ToBeNormalized,д_trans а_trans н_trans к_trans с_trans к_trans е_trans р_trans ч_trans е_trans р_trans ч_trans а_trans н_trans с_trans б_trans а_trans ч_trans е_trans р_trans,д_trans а_trans н_trans к_trans с_trans к_trans е_trans р_trans ч_trans е_trans н_trans с_trans б_trans а_trans ч_trans е_trans р_trans
-51400,3745,4,PLAIN,StrasseAugsburger,ToBeNormalized,с_trans т_trans р_trans а_trans с_trans с_trans и_trans о_trans г_trans а_trans г_trans б_trans е_trans р_trans г_trans е_trans р_trans,с_trans т_trans р_trans а_trans с_trans с_trans о_trans г_trans с_trans б_trans е_trans р_trans г_trans е_trans р_trans
-51855,3776,13,PLAIN,K,ToBeNormalized,k_latin,k_letter_latin
-51888,3778,1,LETTERS,Ингр,RemainSelf,Ингр,и н г р
-51975,3784,8,DATE,1 января 2012 года,ToBeNormalized,первое января две тысячи двенадцатого года,первого января две тысячи двенадцатого года
-52253,3804,6,PLAIN,zege,ToBeNormalized,з_trans е_trans г_trans,з_trans е_trans д_trans ж_trans
-52416,3817,0,PLAIN,ОИРУ,ToBeNormalized,о и р у,ОИРУ
-52524,3825,13,PLAIN,X,ToBeNormalized,x_latin,x_letter_latin
-52809,3844,4,PLAIN,AQUEOUS,ToBeNormalized,а_trans к_trans е_trans о_trans у_trans с_trans,а_trans к_trans в_trans е_trans а_trans у_trans с_trans
-52812,3844,7,PLAIN,SOLUTIONS,ToBeNormalized,с_trans о_trans л_trans у_trans ш_trans е_trans н_trans с_trans,с_trans о_trans л_trans ь_trans ю_trans ш_trans е_trans н_trans с_trans
-52814,3844,9,PLAIN,C,ToBeNormalized,c_latin,c_letter_latin
-52816,3844,11,PLAIN,FULLERENE,ToBeNormalized,ф_trans у_trans л_trans л_trans е_trans р_trans е_trans н_trans,ф_trans у_trans л_trans л_trans е_trans р_trans и_trans н_trans
-53254,3878,5,PLAIN,A,ToBeNormalized,a_latin,a_letter_latin
-53321,3883,13,PLAIN,Wedziagolski,ToBeNormalized,у_trans э_trans д_trans з_trans и_trans а_trans г_trans о_trans л_trans с_trans к_trans и_trans,в_trans е_trans д_trans з_trans ь_trans я_trans г_trans о_trans л_trans с_trans к_trans и_trans
-53384,3889,8,DATE,1 января 2012 года,ToBeNormalized,первое января две тысячи двенадцатого года,первого января две тысячи двенадцатого года
-53389,3890,3,CARDINAL,3,ToBeNormalized,трех,3
-53776,3916,0,PLAIN,Metroul,ToBeNormalized,м_trans е_trans т_trans р_trans у_trans л_trans,м_trans е_trans т_trans р_trans о_trans у_trans л_trans
-53820,3918,13,PLAIN,A,ToBeNormalized,a_latin,a_letter_latin
-53995,3934,0,PLAIN,Tidestromia,ToBeNormalized,т_trans и_trans д_trans е_trans с_trans т_trans р_trans о_trans м_trans и_trans я_trans,т_trans а_trans й_trans д_trans е_trans с_trans т_trans р_trans о_trans м_trans и_trans я_trans
-54133,3943,5,PLAIN,УП,ToBeNormalized,у п,УП
-54318,3954,3,CARDINAL,10,ToBeNormalized,десять,десяти
-54509,3969,14,PLAIN,importantesTidjikja,ToBeNormalized,и_trans м_trans п_trans о_trans р_trans т_trans а_trans н_trans т_trans с_trans т_trans и_trans д_trans ж_trans и_trans д_trans ж_trans а_trans й_trans д_trans ж_trans а_trans,и_trans м_trans п_trans о_trans р_trans т_trans а_trans н_trans т_trans е_trans с_trans т_trans и_trans д_trans д_trans ж_trans и_trans д_trans ж_trans а_trans
-55095,4009,12,PLAIN,Aarheus,ToBeNormalized,а_trans а_trans р_trans х_trans е_trans с_trans,а_trans э_trans р_trans х_trans е_trans у_trans с_trans
-55334,4029,2,LETTERS,ччим,RemainSelf,ччим,ч ч и м
-55373,4031,8,CARDINAL,2010,ToBeNormalized,двух тысяч десяти,две тысячи десять
-55622,4048,4,LETTERS,Дзв,RemainSelf,Дзв,д з в
-56887,4140,0,PLAIN,V,ToBeNormalized,v_latin,v_letter_latin
-57574,4192,6,PLAIN,A,ToBeNormalized,a_latin,a_letter_latin
-58263,4241,13,PLAIN,SingaporeAndreas,ToBeNormalized,с_trans и_trans н_trans г_trans а_trans п_trans о_trans р_trans и_trans н_trans д_trans р_trans е_trans а_trans с_trans,с_trans и_trans н_trans г_trans а_trans п_trans о_trans р_trans е_trans а_trans н_trans д_trans р_trans е_trans а_trans с_trans
-58275,4243,0,PLAIN,Asiatischer,ToBeNormalized,а_trans с_trans а_trans й_trans а_trans т_trans и_trans ш_trans е_trans р_trans,а_trans с_trans и_trans э_trans й_trans ш_trans е_trans ш_trans е_trans р_trans
-58282,4243,7,PLAIN,verwickelt,ToBeNormalized,в_trans е_trans р_trans у_trans и_trans к_trans е_trans л_trans т_trans,в_trans е_trans р_trans в_trans и_trans к_trans е_trans л_trans т_trans
-58468,4258,10,MEASURE,15 км,ToBeNormalized,пятнадцати километров,пятнадцать километров
-59097,4308,5,PLAIN,driugan,ToBeNormalized,д_trans р_trans и_trans у_trans г_trans а_trans н_trans,д_trans р_trans а_trans й_trans а_trans г_trans а_trans н_trans
-60308,4399,4,PLAIN,Blaise,ToBeNormalized,б_trans л_trans е_trans й_trans з_trans,б_trans л_trans е_trans й_trans с_trans
-60312,4399,8,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-60331,4400,12,PLAIN,Schrei,ToBeNormalized,ш_trans р_trans а_trans й_trans,ш_trans р_trans и_trans
-60363,4403,6,PLAIN,Pierrepoint,ToBeNormalized,п_trans и_trans р_trans р_trans е_trans п_trans о_trans й_trans н_trans т_trans,п_trans и_trans р_trans р_trans п_trans о_trans й_trans н_trans т_trans
-60365,4403,8,DATE,30 марта 1905,ToBeNormalized,тридцатое марта тысяча девятьсот пятого года,тридцатого марта тысяча девятьсот пятого года
-60457,4411,3,MEASURE,145 узлов,ToBeNormalized,ста сорока пяти <UNK>,ста сорока пяти узлов
-60481,4412,9,VERBATIM,ο,ToBeNormalized,<UNK>,омикрон
-60483,4412,11,VERBATIM,ς,ToBeNormalized,<UNK>,сигма
-60590,4421,2,ORDINAL,II,ToBeNormalized,второй,втором
-60852,4442,11,CARDINAL,XVIII,ToBeNormalized,восемнадцать,восемнадцати
-60993,4453,21,PLAIN,Ishtiaq,ToBeNormalized,и_trans ш_trans т_trans и_trans а_trans к_trans,и_trans ш_trans ш_trans е_trans к_trans
-61077,4459,7,PLAIN,pelecinid,ToBeNormalized,п_trans е_trans л_trans е_trans с_trans и_trans н_trans и_trans д_trans,п_trans е_trans л_trans е_trans ц_trans и_trans н_trans и_trans д_trans
-61086,4459,16,PLAIN,Pelecinidae,ToBeNormalized,п_trans е_trans л_trans е_trans с_trans и_trans н_trans и_trans д_trans а_trans,п_trans е_trans л_trans е_trans ц_trans и_trans н_trans и_trans д_trans а_trans
-61266,4473,10,PLAIN,Triunfo,ToBeNormalized,т_trans р_trans и_trans ю_trans н_trans ф_trans о_trans,т_trans р_trans и_trans у_trans н_trans ф_trans о_trans
-61268,4474,0,PLAIN,C,ToBeNormalized,c_latin,c_letter_latin
-61324,4478,10,DATE,1.8.566,ToBeNormalized,один точка восемь точка пять шесть шесть шесть,первое августа пятьсот шестьдесят шестого года
-61542,4494,5,PLAIN,Gladys,ToBeNormalized,г_trans л_trans е_trans й_trans д_trans и_trans с_trans,г_trans л_trans а_trans д_trans и_trans с_trans
-61577,4496,6,PLAIN,C,ToBeNormalized,c_latin,c_letter_latin
-61623,4500,12,PLAIN,atury,ToBeNormalized,а_trans т_trans е_trans р_trans и_trans,э_trans й_trans ч_trans е_trans р_trans и_trans
-61907,4518,4,MEASURE,750 вольт,ToBeNormalized,семьсот пятьдесят вольт,семисот пятидесяти вольт
-62212,4539,3,CARDINAL,3 847,ToBeNormalized,три тысячи восемьсот сорок семь,тремя тысячами восьмьюстами сорока семью
-62215,4539,6,CARDINAL,6 965,ToBeNormalized,шесть тысяч девятьсот шестьдесят пять,шестью тысячами девятьюстами шестьюдесятью пятью
-62223,4539,14,CARDINAL,23 168,ToBeNormalized,двадцать три тысячи сто шестьдесят восемь,двадцатью тремя тысячами ста шестьюдесятью восьмью
-62321,4546,8,DATE,1 января 2012 года,ToBeNormalized,первое января две тысячи двенадцатого года,первого января две тысячи двенадцатого года
-62523,4561,0,PLAIN,Ryes,ToBeNormalized,р_trans а_trans й_trans с_trans,р_trans а_trans й_trans е_trans с_trans
-62568,4563,19,LETTERS,ьськ,RemainSelf,ьськ,ь с ь к
-62727,4574,14,DATE,8 июня 1988,RemainSelf,8 июня 1988,восьмого июня тысяча девятьсот восемьдесят восьмого года
-62822,4579,10,ORDINAL,17-е,ToBeNormalized,<UNK>,семнадцатые
-62929,4587,2,MEASURE,200 метров,ToBeNormalized,двухсот метров,двести метров
-63098,4600,1,DATE,1873 г.,ToBeNormalized,тысяча восемьсот семьдесят третьего года,тысяча восемьсот семьдесят третьим годом
-63135,4602,7,DATE,1.01.2011,ToBeNormalized,первое января две тысячи одиннадцатого года,первом января две тысячи одиннадцатого года
-63222,4606,14,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-63371,4617,5,CARDINAL,400,ToBeNormalized,четыреста,четырьмястами
-63501,4627,0,PLAIN,Pietragalla,ToBeNormalized,п_trans и_trans е_trans т_trans р_trans а_trans г_trans а_trans л_trans л_trans а_trans,п_trans и_trans т_trans р_trans а_trans г_trans а_trans л_trans л_trans а_trans
-63579,4632,6,PLAIN,X,ToBeNormalized,x_latin,x_letter_latin
-63594,4634,0,DATE,3 января 1906,ToBeNormalized,третье января тысяча девятьсот шестого года,третьего января тысяча девятьсот шестого года
-63882,4656,13,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-63997,4662,1,MEASURE,268 г.,ToBeNormalized,двести шестьдесят восемь грамм,двумястами шестьюдесятью восьмью граммами
-64024,4664,10,PLAIN,Drijvers,ToBeNormalized,д_trans р_trans и_trans ж_trans в_trans е_trans р_trans с_trans,д_trans р_trans а_trans й_trans ж_trans в_trans е_trans р_trans с_trans
-64102,4670,4,LETTERS,Паньк,RemainSelf,Паньк,п а н ь к
-64193,4678,12,ELECTRONIC,www.myekaterinodar.ru/maps/kuban-area/,ToBeNormalized,w w w точка м_trans и_trans к_trans а_trans т_trans е_trans р_trans и_trans н_trans о_trans д_trans а_trans р_trans точка ру косая черта <UNK> косая черта <UNK> косая черта <UNK> косая черта <UNK> косая черта <UNK> косая черта <UNK> косая черта <UNK> косая черта <UNK> дефис <UNK> дефис <UNK> дефис <UNK>,w w w точка м_trans а_trans й_trans е_trans к_trans а_trans т_trans е_trans р_trans и_trans н_trans о_trans д_trans а_trans р_trans точка ру косая черта мапс косая черта кубан дефис арея косая черта
-64444,4694,2,VERBATIM,#,ToBeNormalized,<UNK>,решетка
-64676,4710,15,PLAIN,nadezhdata,ToBeNormalized,н_trans а_trans д_trans е_trans з_trans д_trans а_trans т_trans а_trans,н_trans а_trans д_trans е_trans с_trans д_trans а_trans т_trans а_trans
-64816,4723,7,PLAIN,c,ToBeNormalized,c_latin,c_letter_latin
-64823,4723,14,PLAIN,c,ToBeNormalized,c_latin,c_letter_latin
-64859,4725,4,DATE,2004 г.,ToBeNormalized,две тысячи четвертым годом,две тысячи четвертого года
-64884,4727,7,PLAIN,B,ToBeNormalized,b_latin,b_letter_latin
-64928,4729,3,CARDINAL,15,ToBeNormalized,пятнадцать,пятнадцати
-65020,4735,0,ELECTRONIC,TVWeek.com,ToBeNormalized,т_trans в_trans и_trans к_trans точка к_trans о_trans м_trans,т_trans в_trans у_trans и_trans к_trans точка к_trans о_trans м_trans
-65077,4738,11,ELECTRONIC,Price.ru,ToBeNormalized,п_trans р_trans и_trans с_trans точка р_trans у_trans,п_trans р_trans а_trans й_trans с_trans точка р_trans у_trans
-65186,4747,2,PLAIN,a,ToBeNormalized,a_latin,a_letter_latin
-65188,4747,4,PLAIN,Aucouturier,ToBeNormalized,о_trans к_trans а_trans у_trans ч_trans е_trans р_trans ь_trans е_trans р_trans,о_trans к_trans а_trans у_trans т_trans е_trans р_trans ь_trans е_trans р_trans
-65434,4765,22,PLAIN,Tajiki,ToBeNormalized,т_trans а_trans д_trans ж_trans и_trans к_trans и_trans,т_trans е_trans д_trans ж_trans и_trans к_trans и_trans
-65468,4767,1,PLAIN,sulphurea,ToBeNormalized,с_trans а_trans л_trans ь_trans ф_trans е_trans р_trans,с_trans а_trans л_trans ф_trans е_trans р_trans е_trans я_trans
-65474,4767,7,PLAIN,kopetdaghensis,ToBeNormalized,к_trans о_trans п_trans е_trans т_trans д_trans а_trans х_trans е_trans н_trans з_trans и_trans с_trans,к_trans о_trans п_trans е_trans т_trans д_trans а_trans г_trans е_trans н_trans з_trans и_trans с_trans
-65552,4775,1,PLAIN,Rennais,ToBeNormalized,р_trans е_trans н_trans н_trans е_trans й_trans с_trans,р_trans е_trans н_trans н_trans а_trans и_trans с_trans
-65561,4775,10,PLAIN,Roazhon,ToBeNormalized,р_trans о_trans з_trans х_trans о_trans н_trans,р_trans о_trans а_trans з_trans х_trans о_trans н_trans
-65795,4792,2,PLAIN,spectaculaire,ToBeNormalized,с_trans п_trans е_trans к_trans т_trans а_trans к_trans у_trans л_trans э_trans р_trans,с_trans п_trans е_trans к_trans т_trans а_trans к_trans у_trans л_trans е_trans р_trans
-65832,4796,5,MEASURE,60 %,ToBeNormalized,шестидесяти процентов,шестьдесят процентов
-65893,4801,7,PLAIN,x,ToBeNormalized,x_latin,на
-65894,4801,8,CARDINAL,58,ToBeNormalized,пятьдесят восемь,восемь
-65900,4801,14,CARDINAL,7,ToBeNormalized,семь,семи
-65902,4801,16,CARDINAL,1,ToBeNormalized,один,одного
-65936,4804,3,DATE,1985 г.,ToBeNormalized,тысяча девятьсот восемьдесят пятого года,тысяча девятьсот восемьдесят пятый год
-66005,4809,3,LETTERS,ФИАС,RemainSelf,ФИАС,ф и а с
-66236,4825,12,CARDINAL,-61,ToBeNormalized,минус шестьдесят один,минус шесть один
-66239,4825,15,PLAIN,U,ToBeNormalized,u_latin,u_letter_latin
-66245,4826,0,PLAIN,Druvienas,ToBeNormalized,д_trans р_trans а_trans в_trans и_trans е_trans н_trans а_trans с_trans,д_trans р_trans а_trans в_trans ь_trans е_trans н_trans а_trans с_trans
-66329,4831,6,MEASURE,220 л,ToBeNormalized,двести двадцать литров,двухсот двадцати литров
-66333,4831,10,MEASURE,162 кВт,ToBeNormalized,сто шестьдесят два <UNK>,сто шестьдесят два киловатта
-66402,4837,10,PLAIN,veut,ToBeNormalized,в_trans ь_trans ю_trans т_trans,в_trans е_trans у_trans т_trans
-66407,4837,15,PLAIN,elle,ToBeNormalized,э_trans л_trans л_trans е_trans,э_trans л_trans л_trans
-66409,4837,17,PLAIN,y,ToBeNormalized,y_latin,y_letter_latin
-66593,4854,5,CARDINAL,1992,ToBeNormalized,тысяча девятьсот девяносто два,тысячи девятисот девяноста двух
-66967,4882,11,LETTERS,тля,RemainSelf,тля,т л я
-67027,4888,1,DATE,24 июля,ToBeNormalized,двадцать четвертого июля,двадцать четвертое июля
-67206,4900,6,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-67215,4900,15,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-67219,4900,19,PLAIN,Bridenbaugh,ToBeNormalized,б_trans р_trans и_trans д_trans е_trans н_trans б_trans а_trans у_trans,б_trans р_trans и_trans д_trans е_trans н_trans б_trans о_trans
-67408,4914,1,PLAIN,Wolverhampton,ToBeNormalized,в_trans у_trans л_trans в_trans е_trans р_trans х_trans а_trans м_trans п_trans т_trans о_trans н_trans,в_trans у_trans л_trans в_trans е_trans р_trans х_trans е_trans м_trans п_trans т_trans о_trans н_trans
-67421,4914,14,TELEPHONE,1-899855-13-0,ToBeNormalized,один sil восемьсот девяносто девять восемьдесят пять sil сто тридцать sil ноль,один sil восемьсот девяносто девять восемьсот пятьдесят пять sil тринадцать sil ноль
-67527,4920,15,CARDINAL,1991,ToBeNormalized,тысячей девятьюстами девяноста одним,тысячи девятисот девяноста одного
-67677,4933,6,CARDINAL,2,ToBeNormalized,двух,два
-67988,4957,11,PLAIN,Tattooing,ToBeNormalized,т_trans а_trans т_trans т_trans у_trans и_trans н_trans г_trans,т_trans а_trans т_trans т_trans о_trans о_trans и_trans н_trans г_trans
-68003,4958,5,CARDINAL,25,ToBeNormalized,двадцать пять,двадцати пяти
-68156,4968,4,PLAIN,A,ToBeNormalized,a_latin,a_letter_latin
-68237,4973,6,PLAIN,Craven,ToBeNormalized,к_trans р_trans а_trans в_trans е_trans н_trans,к_trans р_trans е_trans й_trans в_trans е_trans н_trans
-68444,4987,13,ELECTRONIC,bikeforums.net,ToBeNormalized,б_trans и_trans к_trans ф_trans о_trans р_trans о_trans р_trans у_trans м_trans с_trans точка н_trans е_trans т_trans,б_trans а_trans й_trans к_trans ф_trans о_trans р_trans у_trans м_trans с_trans точка н_trans е_trans т_trans
-68450,4987,19,ELECTRONIC,rec.bicycles.tech,ToBeNormalized,р_trans е_trans к_trans точка б_trans и_trans с_trans и_trans с_trans точка t e t c,р_trans е_trans к_trans точка б_trans и_trans с_trans и_trans к_trans л_trans с_trans точка т_trans е_trans к_trans
-68548,4995,18,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-68760,5009,12,MEASURE,"0,9 км².",ToBeNormalized,нуля целых и девяти десятых квадратного километра,ноль целых и девять десятых квадратного километра
-68871,5017,16,CARDINAL,800,ToBeNormalized,восемьсот,восьмистам
-68960,5023,18,PLAIN,I,ToBeNormalized,i_latin,i_letter_latin
-69370,5050,0,PLAIN,Mulichak,ToBeNormalized,м_trans у_trans л_trans и_trans ч_trans а_trans к_trans,м_trans а_trans л_trans и_trans ч_trans а_trans к_trans
-69374,5050,4,PLAIN,W,ToBeNormalized,w,W
-69392,5051,3,PLAIN,e,ToBeNormalized,e_latin,e_letter_latin
-69631,5070,15,PLAIN,I,ToBeNormalized,i_latin,i_letter_latin
-70075,5098,11,CARDINAL,25,ToBeNormalized,двадцать пять,двадцати пяти
-70433,5127,5,PLAIN,Pennywises,ToBeNormalized,п_trans е_trans н_trans н_trans и_trans в_trans и_trans с_trans е_trans с_trans,п_trans е_trans н_trans н_trans и_trans в_trans а_trans й_trans з_trans е_trans с_trans
-70666,5144,11,PLAIN,y,ToBeNormalized,y_latin,y_letter_latin
-70686,5145,15,CARDINAL,III,ToBeNormalized,три,трех
-70989,5168,8,PLAIN,F,ToBeNormalized,f_latin,f_letter_latin
-70994,5169,0,PLAIN,Berillo,ToBeNormalized,б_trans е_trans р_trans и_trans л_trans л_trans о_trans,б_trans е_trans р_trans и_trans л_trans ь_trans о_trans
-71024,5172,4,DECIMAL,"13,625",ToBeNormalized,тринадцать целых и шестьсот двадцать пять тысячных,тринадцати целых и шестисот двадцати пяти тысячных
-71274,5192,4,DATE,5 сентября 2008,ToBeNormalized,пятое сентября две тысячи восьмого года,пятого сентября две тысячи восьмого года
-71592,5216,5,PLAIN,Stachelhaus,ToBeNormalized,с_trans т_trans а_trans ч_trans е_trans л_trans х_trans а_trans у_trans с_trans,с_trans т_trans е_trans й_trans ч_trans е_trans л_trans х_trans а_trans у_trans с_trans
-71667,5221,2,PLAIN,y,ToBeNormalized,y_latin,y_letter_latin
-71671,5221,6,PLAIN,estaciones,ToBeNormalized,э_trans с_trans т_trans а_trans с_trans и_trans о_trans н_trans с_trans,э_trans с_trans т_trans е_trans й_trans с_trans е_trans н_trans с_trans
-71690,5222,15,PLAIN,Cervejaria,ToBeNormalized,с_trans е_trans р_trans в_trans е_trans ж_trans а_trans р_trans и_trans я_trans,с_trans е_trans р_trans в_trans д_trans ж_trans а_trans р_trans и_trans я_trans
-71694,5223,0,PLAIN,SoundsXP,ToBeNormalized,с_trans а_trans у_trans н_trans д_trans с_trans ж_trans п_trans,с_trans а_trans у_trans н_trans д_trans с_trans к_trans с_trans п_trans
-71900,5239,5,DATE,1 января 2014 года,ToBeNormalized,первое января две тысячи четырнадцатого года,первого января две тысячи четырнадцатого года
-71989,5248,13,LETTERS,Крку,RemainSelf,Крку,к р к у
-72032,5251,6,PLAIN,NeesEragrostis,ToBeNormalized,н_trans и_trans с_trans е_trans р_trans а_trans г_trans р_trans о_trans с_trans т_trans и_trans с_trans,н_trans и_trans з_trans е_trans р_trans а_trans г_trans р_trans о_trans с_trans т_trans и_trans с_trans
-72038,5252,2,PLAIN,RendleEragrostis,ToBeNormalized,р_trans е_trans н_trans д_trans л_trans е_trans р_trans а_trans г_trans р_trans о_trans с_trans т_trans и_trans с_trans,р_trans е_trans н_trans д_trans л_trans и_trans р_trans а_trans г_trans р_trans о_trans с_trans т_trans и_trans с_trans
-72214,5263,1,PLAIN,F,ToBeNormalized,f_latin,f_letter_latin
-72534,5286,5,PLAIN,y,ToBeNormalized,y_latin,y_letter_latin
-72595,5291,3,PLAIN,Ricj,ToBeNormalized,р_trans и_trans к_trans ж_trans,р_trans и_trans ч_trans ж_trans
-72803,5307,5,CARDINAL,VII,ToBeNormalized,семь,семи
-72906,5313,1,PLAIN,UNTAES,ToBeNormalized,ю_trans н_trans т_trans а_trans с_trans,а_trans н_trans т_trans а_trans с_trans
-73037,5324,18,LETTERS,Цны,RemainSelf,Цны,ц н ы
-73669,5373,9,PLAIN,O,ToBeNormalized,o_latin,o_letter_latin
-73709,5375,8,VERBATIM,Є,RemainSelf,Є,е
-73794,5380,8,PLAIN,Vaidila,ToBeNormalized,в_trans а_trans и_trans д_trans и_trans л_trans а_trans,в_trans е_trans й_trans д_trans и_trans л_trans а_trans
-73827,5384,2,PLAIN,Эн,ToBeNormalized,э н,Эн
-74051,5402,1,DATE,1800 г.,ToBeNormalized,тысяча восьмисотом годом,тысяча восьмисотом году
-74381,5427,8,PLAIN,U,ToBeNormalized,u_latin,u_letter_latin
-74418,5429,3,CARDINAL,21,ToBeNormalized,двадцать один,двадцати одного
-74589,5445,4,PLAIN,Satura,ToBeNormalized,с_trans а_trans ч_trans у_trans р_trans а_trans,с_trans а_trans т_trans у_trans р_trans а_trans
-74595,5446,4,LETTERS,йка,RemainSelf,йка,й к а
-74731,5458,3,PLAIN,Rosalba,ToBeNormalized,р_trans о_trans з_trans а_trans л_trans б_trans а_trans,р_trans о_trans з_trans а_trans л_trans ь_trans б_trans а_trans
-74753,5461,3,PLAIN,Iceland,ToBeNormalized,и_trans с_trans е_trans л_trans а_trans н_trans д_trans,а_trans й_trans с_trans л_trans а_trans н_trans д_trans
-74979,5478,4,CARDINAL,-32,ToBeNormalized,минус тридцать два,минус три два
-74983,5478,8,PLAIN,C,ToBeNormalized,c_latin,c_letter_latin
-75002,5479,3,PLAIN,B,ToBeNormalized,b_latin,b_letter_latin
-75070,5485,0,PLAIN,Rosalba,ToBeNormalized,р_trans о_trans з_trans а_trans л_trans б_trans а_trans,р_trans о_trans з_trans а_trans л_trans ь_trans б_trans а_trans
-75075,5485,5,PLAIN,Rosalba,ToBeNormalized,р_trans о_trans з_trans а_trans л_trans б_trans а_trans,р_trans о_trans з_trans а_trans л_trans ь_trans б_trans а_trans
-75237,5495,18,ORDINAL,III,ToBeNormalized,трех,третьего
-75388,5508,11,CARDINAL,1,ToBeNormalized,одно,одна
-75406,5510,4,PLAIN,jos,ToBeNormalized,д_trans ж_trans о_trans с_trans,д_trans ж_trans о_trans з_trans
-75550,5521,1,TELEPHONE,978-0-8103-5487-6,ToBeNormalized,девятьсот семьдесят восемь sil ноль sil восемь один ноль три sil пятьсот сорок восемь семьдесят семь sil шесть,девятьсот семьдесят восемь sil ноль sil восемь тысяч сто три sil пятьдесят четыре восемьдесят семь sil шесть
-75793,5538,9,MEASURE,21 узел.,ToBeNormalized,двадцати одного <UNK>,двадцать один узел
-75814,5540,7,PLAIN,a,ToBeNormalized,a_latin,a_letter_latin
-75892,5545,3,PLAIN,tvirtove,ToBeNormalized,т_trans в_trans и_trans р_trans т_trans о_trans в_trans,т_trans в_trans и_trans р_trans т_trans а_trans в_trans
-75910,5547,2,CARDINAL,10,ToBeNormalized,десять,десяти
-76014,5555,2,TELEPHONE,5-02-008500-6,ToBeNormalized,пять sil ноль два sil ноль ноль восемьдесят пять sil шесть,пять sil ноль два sil ноль ноль восемь тысяч пятьсот sil шесть
-76046,5557,10,CARDINAL,-31,ToBeNormalized,минус тридцать один,минус три один
-76180,5571,10,VERBATIM,&,ToBeNormalized,<UNK>,и
-76185,5571,15,PLAIN,felgenhaueri,ToBeNormalized,ф_trans е_trans л_trans д_trans ж_trans е_trans н_trans х_trans а_trans у_trans э_trans р_trans и_trans,ф_trans е_trans л_trans г_trans е_trans н_trans х_trans а_trans у_trans э_trans р_trans и_trans
-76261,5578,7,PLAIN,h,ToBeNormalized,h_latin,h_letter_latin
-76449,5591,1,LETTERS,Сзнек,RemainSelf,Сзнек,с з н е к
-76480,5594,2,CARDINAL,1,ToBeNormalized,одного,1
-76519,5597,2,PLAIN,отс,ToBeNormalized,о т с,отс
-76628,5606,12,PLAIN,I,ToBeNormalized,i_latin,i_letter_latin
-76633,5607,2,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-76641,5607,10,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-76670,5611,1,LETTERS,Пьо,RemainSelf,Пьо,п ь о
-76760,5620,2,PLAIN,I,ToBeNormalized,i_latin,i_letter_latin
-76816,5624,5,LETTERS,църква,RemainSelf,църква,ц ъ р к в а
-77103,5644,13,CARDINAL,30,ToBeNormalized,тридцати,тридцать
-77202,5652,0,PLAIN,Ghorgor,ToBeNormalized,г_trans о_trans р_trans г_trans о_trans р_trans,г_trans х_trans о_trans р_trans г_trans о_trans р_trans
-77255,5656,5,PLAIN,AtmosFear,ToBeNormalized,а_trans т_trans м_trans о_trans с_trans ф_trans и_trans р_trans,а_trans т_trans м_trans о_trans с_trans ф_trans е_trans р_trans
-77487,5672,5,VERBATIM,Η,RemainSelf,Η,эта
-77553,5676,15,PLAIN,Assunzione,ToBeNormalized,а_trans с_trans с_trans а_trans н_trans с_trans и_trans о_trans н_trans,а_trans с_trans с_trans у_trans н_trans с_trans и_trans о_trans н_trans
-77561,5677,3,PLAIN,A,ToBeNormalized,a_latin,a_letter_latin
-78079,5713,6,TELEPHONE,50696-2006,ToBeNormalized,пятьсот шестьдесят девять sil две тысячи шесть тысяч шесть,пятьсот шесть девяносто шесть sil две тысячи шесть
-78097,5714,9,LETTERS,XX,ToBeNormalized,двадцати девяти,x x
-78175,5720,4,MEASURE,15 м/с,ToBeNormalized,пятнадцати метров,пятнадцати метров в секунду
-78303,5730,2,PLAIN,O,ToBeNormalized,o_latin,o_letter_latin
-78519,5746,1,PLAIN,Pachymeris,ToBeNormalized,п_trans а_trans ч_trans и_trans м_trans е_trans р_trans и_trans с_trans,п_trans а_trans ч_trans й_trans м_trans е_trans р_trans и_trans с_trans
-78522,5746,4,PLAIN,Michaelle,ToBeNormalized,м_trans а_trans й_trans к_trans л_trans,м_trans а_trans й_trans к_trans л_trans ь_trans
-78526,5746,8,PLAIN,I,ToBeNormalized,i_latin,i_letter_latin
-78530,5746,12,PLAIN,Bonnae,ToBeNormalized,б_trans о_trans н_trans н_trans а_trans,б_trans о_trans н_trans н_trans
-78534,5746,16,VERBATIM,σ,ToBeNormalized,<UNK>,сигма
-78535,5746,17,VERBATIM,ε,ToBeNormalized,<UNK>,эпсилон
-78536,5746,18,VERBATIM,λ,ToBeNormalized,<UNK>,лямбда
-78845,5772,8,PLAIN,items,ToBeNormalized,и_trans т_trans е_trans м_trans с_trans,а_trans й_trans т_trans м_trans с_trans
-78910,5778,7,ELECTRONIC,acms.sl.nsw.gov.au,ToBeNormalized,а_trans к_trans м_trans с_trans точка с_trans л_trans точка n s точка г_trans о_trans в_trans точка a u,а_trans к_trans м_trans с_trans точка s l точка n s w точка г_trans о_trans в_trans точка a u
-79435,5814,13,PLAIN,Dubois,ToBeNormalized,д_trans у_trans б_trans у_trans а_trans,д_trans ю_trans б_trans у_trans а_trans
-79856,5844,2,CARDINAL,1904,ToBeNormalized,тысячи девятисот четырех,тысяча девятьсот четыре
-80073,5859,8,DATE,6 июня,ToBeNormalized,шестого июня,шестое июня
-80277,5872,10,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-80507,5886,0,FRACTION,839/841,ToBeNormalized,восемьсот тридцать девять восемьдесят четвертых,восемьсот тридцать девять восемьсот сорок первых
-80709,5898,2,CARDINAL,XIV,ToBeNormalized,четырнадцать,четырнадцати
-80760,5903,9,PLAIN,K,ToBeNormalized,k_latin,k_letter_latin
-80981,5922,0,PLAIN,ИЛ,ToBeNormalized,и л,ИЛ
-81038,5925,7,VERBATIM,Π,ToBeNormalized,<UNK>,пи
-81039,5925,8,VERBATIM,α,ToBeNormalized,<UNK>,альфа
-81040,5925,9,VERBATIM,ν,ToBeNormalized,<UNK>,ню
-81058,5926,5,CARDINAL,6,ToBeNormalized,шесть,шести
-81716,5974,12,LETTERS,ппс,RemainSelf,ппс,п п с
-81744,5975,22,ORDINAL,20,ToBeNormalized,два ноль,двадцатом
-81745,5975,23,ORDINAL,-21,ToBeNormalized,минус двадцать один,двадцать первом
-81746,5975,24,VERBATIM,%,RemainSelf,%,процент
-82184,6008,3,PLAIN,K,ToBeNormalized,k_latin,k_letter_latin
-82204,6009,12,CARDINAL,2012,ToBeNormalized,две тысячи двенадцать,двух тысяч двенадцати
-82212,6009,20,PLAIN,K,ToBeNormalized,k_latin,k_letter_latin
-82538,6031,10,CARDINAL,XVII,ToBeNormalized,семьюдесятью,семнадцатью
-82789,6052,4,PLAIN,insufficiency,ToBeNormalized,и_trans н_trans с_trans а_trans ф_trans и_trans с_trans и_trans е_trans н_trans с_trans и_trans,и_trans н_trans с_trans а_trans ф_trans и_trans с_trans а_trans й_trans е_trans н_trans с_trans и_trans
-83059,6073,3,CARDINAL,1000,ToBeNormalized,тысячи,тысяче
-83327,6093,3,CARDINAL,1953,ToBeNormalized,тысяче девятистам пятидесяти трем,тысяча девятьсот пятьдесят три
-83468,6102,12,PLAIN,X,ToBeNormalized,x_latin,x_letter_latin
-83777,6127,1,PLAIN,Sauvignon,ToBeNormalized,с_trans о_trans в_trans и_trans г_trans н_trans о_trans н_trans,с_trans о_trans в_trans н_trans о_trans н_trans
-83854,6133,10,CARDINAL,1,ToBeNormalized,один,одному
-83859,6133,15,PLAIN,A,ToBeNormalized,a_latin,a_letter_latin
-83877,6134,8,DATE,1 января 2012 года,ToBeNormalized,первое января две тысячи двенадцатого года,первого января две тысячи двенадцатого года
-83988,6140,12,MEASURE,"1,104 км².",ToBeNormalized,одна целая тысячи ста четырех квадратных километров,одна целая и сто четыре тысячных квадратного километра
-84071,6146,12,PLAIN,Schilddruse,ToBeNormalized,ш_trans и_trans л_trans д_trans д_trans р_trans ю_trans с_trans,с_trans ч_trans а_trans й_trans л_trans д_trans д_trans р_trans а_trans с_trans
-84164,6153,9,PLAIN,Ejecutese,ToBeNormalized,э_trans д_trans ж_trans е_trans к_trans ь_trans ю_trans т_trans е_trans с_trans,э_trans д_trans ж_trans е_trans к_trans ь_trans ю_trans т_trans с_trans
-84256,6159,5,PLAIN,—,RemainSelf,—,до
-84543,6179,10,ORDINAL,XVIII,ToBeNormalized,восемнадцати,восемнадцатому
-84619,6186,2,VERBATIM,є,RemainSelf,є,е
-84844,6203,3,PLAIN,Kollewyn,ToBeNormalized,к_trans о_trans л_trans л_trans и_trans н_trans,к_trans о_trans л_trans л_trans в_trans и_trans н_trans
-84948,6208,3,DATE,14 января 2002,ToBeNormalized,четырнадцатого января две тысячи второго года,четырнадцатое января две тысячи второго года
-85013,6212,8,PLAIN,cyaneus,ToBeNormalized,с_trans а_trans й_trans а_trans н_trans у_trans с_trans,к_trans я_trans н_trans у_trans с_trans
-85099,6218,9,MEASURE,1 700 000 м³.,ToBeNormalized,сто семь тысяч кубических метров,миллион семьсот тысяч кубических метров
-85201,6225,3,PLAIN,n,ToBeNormalized,н_trans,n
-85342,6233,20,PLAIN,T,ToBeNormalized,t_latin,t_letter_latin
-85346,6233,24,PLAIN,T,ToBeNormalized,t_latin,t_letter_latin
-85357,6234,5,CARDINAL,2,ToBeNormalized,двух,два
-85439,6240,4,FRACTION,11/24,ToBeNormalized,одну сто двадцать четвертых,одиннадцать двадцать четвертых
-85482,6244,15,PLAIN,C,ToBeNormalized,c_latin,c_letter_latin
-85686,6259,1,PLAIN,ЖКИ,ToBeNormalized,ж к и,ЖКИ
-85765,6263,9,PLAIN,JAMSTEC,ToBeNormalized,д_trans ж_trans а_trans м_trans с_trans т_trans е_trans к_trans,д_trans ж_trans е_trans й_trans м_trans с_trans т_trans е_trans к_trans
-85814,6268,0,PLAIN,Nucleosides,ToBeNormalized,н_trans а_trans к_trans л_trans е_trans о_trans з_trans и_trans д_trans с_trans,н_trans а_trans к_trans л_trans е_trans о_trans с_trans а_trans й_trans д_trans с_trans
-85821,6268,7,CARDINAL,279,ToBeNormalized,двухсот семидесяти девяти,двести семьдесят девять
-86018,6282,7,PLAIN,a,ToBeNormalized,a_latin,a_letter_latin
-86077,6285,10,CARDINAL,1992,ToBeNormalized,тысячи девятисот девяноста двух,тысяча девятьсот девяносто два
-86218,6294,11,CARDINAL,529,ToBeNormalized,пятьсот двадцать девять,пятисот двадцати девяти
-86286,6297,13,PLAIN,Renfrewshire,ToBeNormalized,р_trans е_trans н_trans ф_trans р_trans у_trans ш_trans и_trans р_trans,р_trans е_trans н_trans ф_trans р_trans ю_trans ш_trans и_trans р_trans
-86617,6321,0,DATE,30 декабря,ToBeNormalized,тридцатого декабря,тридцатое декабря
-87446,6382,5,VERBATIM,ў,RemainSelf,ў,у
-87501,6386,2,MEASURE,"608,505км².",ToBeNormalized,шестьсот восемь целых и пятьсот тысячных квадратного километра,шестисот восьми целых и пятисот пяти тысячных квадратного километра
-87551,6390,0,DATE,12 мая 1919,ToBeNormalized,двенадцатого мая тысяча девятьсот девятнадцатого года,двенадцатое мая тысяча девятьсот девятнадцатого года
-87574,6392,1,PLAIN,GAIETY,ToBeNormalized,г_trans а_trans и_trans т_trans и_trans,г_trans е_trans й_trans е_trans т_trans и_trans
-87683,6398,2,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-87928,6415,7,CARDINAL,2,ToBeNormalized,два,двух
-88486,6461,2,TELEPHONE,978-5-488-02609-4,ToBeNormalized,девятьсот семьдесят восемь sil пять sil четыреста восемьдесят восемь sil ноль двадцать шесть sil четыре,девятьсот семьдесят восемь sil пять sil четыреста восемьдесят восемь sil ноль две тысячи шестьсот девять sil четыре
-88512,6463,2,MEASURE,"2321,454 км².",ToBeNormalized,две тысячи триста двадцать одна целая и четыреста пятьдесят четыре тысячных квадратного километра,две тысячи триста двадцать одну целую и четыреста пятьдесят четыре тысячных квадратного километра
-88565,6467,6,PLAIN,a,ToBeNormalized,a_latin,a_letter_latin
-88787,6485,11,ELECTRONIC,.xls,ToBeNormalized,точка x l s, точка x l s
-88898,6491,18,MEASURE,60 узлов.,ToBeNormalized,шестидесяти <UNK>,шестидесяти узлов
-89221,6515,5,DATE,27 октября 1998 г.,ToBeNormalized,двадцать седьмого октября тысяча девятьсот девяносто восьмого года,двадцать седьмое октября тысяча девятьсот девяносто восьмого года
-89372,6530,2,PLAIN,отс,ToBeNormalized,о т с,отс
-89472,6539,2,PLAIN,Prussicarum,ToBeNormalized,п_trans р_trans а_trans с_trans с_trans и_trans к_trans а_trans р_trans у_trans м_trans,п_trans р_trans о_trans с_trans с_trans и_trans к_trans а_trans р_trans у_trans м_trans
-89898,6572,6,PLAIN,ИРБ,ToBeNormalized,и р б,ИРБ
-89956,6575,21,PLAIN,X,ToBeNormalized,x_latin,x_letter_latin
-89997,6578,3,PLAIN,Nachtrag,ToBeNormalized,н_trans а_trans ч_trans т_trans р_trans а_trans г_trans,н_trans ч_trans т_trans р_trans а_trans г_trans
-90000,6578,6,PLAIN,einzelner,ToBeNormalized,э_trans й_trans н_trans ц_trans е_trans л_trans н_trans е_trans р_trans,э_trans й_trans н_trans з_trans е_trans л_trans н_trans е_trans р_trans
-90001,6578,7,PLAIN,Ansichten,ToBeNormalized,а_trans н_trans с_trans и_trans ч_trans т_trans е_trans н_trans,а_trans н_trans ж_trans т_trans е_trans н_trans
-90004,6578,10,PLAIN,Gemalde,ToBeNormalized,д_trans ж_trans е_trans м_trans а_trans л_trans д_trans,д_trans ж_trans е_trans м_trans о_trans л_trans д_trans
-90008,6578,14,PLAIN,einzelne,ToBeNormalized,э_trans й_trans н_trans ц_trans е_trans л_trans н_trans,э_trans й_trans н_trans з_trans е_trans л_trans н_trans
-90027,6579,9,CARDINAL,402,ToBeNormalized,четыреста два,четырехсот двух
-90213,6594,3,DATE,1997 году,ToBeNormalized,тысяча девятьсот девяносто седьмой год,тысяча девятьсот девяносто седьмом году
-90241,6597,7,MEASURE,70 градусами.,ToBeNormalized,семидесяти градусов,семьюдесятью градусами
-90430,6611,8,CARDINAL,1973,ToBeNormalized,тысячью девятистах семидесяти трех,тысячу девятьсот семьдесят три
-90718,6630,15,PLAIN,F,ToBeNormalized,f_latin,f_letter_latin
-90748,6633,3,ELECTRONIC,www.cichlids.ruwww.cichlid.ru,ToBeNormalized,w w w точка ц_trans и_trans ч_trans л_trans и_trans д_trans с_trans точка р_trans у_trans у_trans точка c z,w w w точка с_trans и_trans ч_trans л_trans и_trans д_trans с_trans точка р_trans а_trans у_trans у_trans точка с_trans и_trans ч_trans л_trans и_trans д_trans точка р_trans у_trans
-90872,6642,23,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-90894,6642,45,PLAIN,p,ToBeNormalized,p_latin,p_letter_latin
-91151,6661,21,CARDINAL,16,ToBeNormalized,шестнадцати,шестнадцать
-91155,6662,0,PLAIN,Altira,ToBeNormalized,а_trans л_trans т_trans и_trans р_trans а_trans,а_trans л_trans ш_trans е_trans р_trans а_trans
-91672,6699,12,PLAIN,Ltd,ToBeNormalized,л_trans т_trans д_trans,Ltd
-91682,6700,7,PLAIN,Brahmajala,ToBeNormalized,б_trans р_trans а_trans м_trans а_trans д_trans ж_trans а_trans л_trans а_trans,б_trans р_trans а_trans м_trans а_trans ж_trans а_trans л_trans а_trans
-91697,6702,0,PLAIN,H,ToBeNormalized,h_latin,h_letter_latin
-92123,6730,8,CARDINAL,1872,ToBeNormalized,тысячу восемьсот семьдесят два,тысячью восьмистах семидесяти двух
-92134,6730,19,CARDINAL,1903,ToBeNormalized,тысячью девятистах трех,тысячей девятьюстами тремя
-92454,6756,4,MEASURE,37 с.,ToBeNormalized,тридцати семи секунд,37 с.
-92594,6766,4,PLAIN,NLPub,ToBeNormalized,н_trans л_trans а_trans б_trans,н_trans л_trans п_trans а_trans б_trans
-92598,6766,8,PLAIN,MystemPaice,ToBeNormalized,м_trans и_trans с_trans т_trans е_trans м_trans п_trans е_trans й_trans с_trans,м_trans и_trans с_trans т_trans е_trans м_trans п_trans а_trans и_trans с_trans
-92601,6766,11,PLAIN,Baeza,ToBeNormalized,б_trans а_trans з_trans а_trans,б_trans а_trans е_trans з_trans а_trans
-92812,6777,10,DATE,11 сентября,ToBeNormalized,одиннадцатого сентября,одиннадцатое сентября
-92884,6783,5,PLAIN,I,ToBeNormalized,i_latin,i_letter_latin
-92964,6789,6,PLAIN,Hephaestus,ToBeNormalized,х_trans е_trans ф_trans а_trans э_trans с_trans т_trans у_trans с_trans,х_trans е_trans ф_trans е_trans с_trans т_trans у_trans с_trans
-93119,6803,2,DATE,19 июля 2012,ToBeNormalized,девятнадцатого июля две тысячи двенадцатого года,девятнадцатое июля две тысячи двенадцатого года
+sentence_id,token_id,semiotic,before,class,after,truth
+5,6,PLAIN,Rinehart,ToBeNormalized,р_trans и_trans н_trans х_trans а_trans р_trans т_trans,р_trans а_trans й_trans н_trans х_trans а_trans р_trans т_trans
+6,6,PLAIN,Schreckensmusik,ToBeNormalized,ш_trans р_trans е_trans к_trans е_trans н_trans с_trans м_trans а_trans с_trans и_trans к_trans,ш_trans р_trans е_trans к_trans к_trans е_trans н_trans с_trans м_trans у_trans з_trans и_trans к_trans
+6,30,PLAIN,Gedicht,ToBeNormalized,д_trans ж_trans е_trans д_trans и_trans ч_trans т_trans,д_trans ж_trans е_trans д_trans ж_trans т_trans
+35,13,MEASURE,80 %,ToBeNormalized,восемьдесят процентов,восьмидесяти процентов
+37,5,PLAIN,conchiologia,ToBeNormalized,к_trans о_trans н_trans ч_trans а_trans й_trans о_trans л_trans о_trans д_trans ж_trans и_trans я_trans,к_trans о_trans н_trans ч_trans и_trans о_trans л_trans о_trans д_trans ж_trans и_trans я_trans
+41,13,ELECTRONIC,POPmarket.ruВИНТАЖ/,ToBeNormalized,п_trans о_trans п_trans м_trans а_trans р_trans к_trans е_trans т_trans точка р_trans у_trans д_trans и к_trans косая черта,п_trans о_trans п_trans м_trans а_trans р_trans к_trans е_trans т_trans точка ру в и н т а ж косая черта
+50,1,MEASURE,4 т.,ToBeNormalized,четыре тонны,четырех тоннах
+55,1,LETTERS,уезжс,RemainSelf,уезжс,у е з ж с
+59,4,PLAIN,Bjelosevac,ToBeNormalized,б_trans ж_trans е_trans л_trans о_trans с_trans е_trans в_trans а_trans к_trans,б_trans ж_trans е_trans л_trans о_trans з_trans в_trans а_trans к_trans
+91,1,PLAIN,bicincta,ToBeNormalized,б_trans и_trans с_trans и_trans н_trans к_trans т_trans а_trans,б_trans и_trans ц_trans и_trans н_trans ц_trans т_trans а_trans
+91,3,PLAIN,Kuster,ToBeNormalized,к_trans у_trans с_trans т_trans е_trans р_trans,к_trans а_trans с_trans т_trans е_trans р_trans
+101,1,PLAIN,pontocircassica,ToBeNormalized,п_trans о_trans н_trans т_trans о_trans с_trans и_trans р_trans к_trans а_trans с_trans с_trans и_trans к_trans а_trans,п_trans о_trans н_trans т_trans с_trans е_trans р_trans к_trans а_trans с_trans с_trans и_trans к_trans а_trans
+105,18,CARDINAL,39,ToBeNormalized,тридцати девяти,тридцать девять
+117,0,ELECTRONIC,Cfcnet.co.uk,ToBeNormalized,c f c n точка т_trans точка к_trans о_trans точка u k,к_trans ф_trans к_trans н_trans е_trans т_trans точка к_trans о_trans точка u k
+122,3,PLAIN,Plant,ToBeNormalized,л_trans а_trans н_trans т_trans,п_trans л_trans а_trans н_trans т_trans
+126,2,TIME,00:02:43,ToBeNormalized,ноль часов двадцать минут сорок минут,00:02:43
+130,9,PLAIN,tworczosci,ToBeNormalized,т_trans в_trans о_trans р_trans к_trans з_trans о_trans с_trans ц_trans и_trans,т_trans в_trans у_trans з_trans о_trans с_trans ц_trans и_trans
+130,10,PLAIN,Edwarda,ToBeNormalized,э_trans д_trans в_trans а_trans р_trans д_trans а_trans,э_trans д_trans у_trans а_trans р_trans д_trans а_trans
+145,3,PLAIN,Dupin,ToBeNormalized,д_trans а_trans п_trans и_trans н_trans,д_trans ю_trans п_trans и_trans н_trans
+155,14,PLAIN,TibetИ,ToBeNormalized,т_trans и_trans б_trans е_trans т_trans д_trans,TibetИ
+170,9,PLAIN,veseljak,ToBeNormalized,в_trans е_trans с_trans е_trans л_trans ь_trans я_trans к_trans,в_trans е_trans с_trans л_trans ж_trans а_trans к_trans
+178,5,PLAIN,Ап,ToBeNormalized,а п,Ап
+199,12,LETTERS,ик,RemainSelf,ик,и к
+201,10,DATE,4 октября,ToBeNormalized,четвертого октября,четвертое октября
+208,2,PLAIN,Alsek,ToBeNormalized,а_trans л_trans з_trans е_trans к_trans,а_trans л_trans с_trans е_trans к_trans
+219,9,PLAIN,мхи,ToBeNormalized,м х и,мхи
+226,10,MONEY,$1m,ToBeNormalized,одиннадцать долларов сэ ш а,один миллион долларов сэ ш а
+229,1,PLAIN,Duane,ToBeNormalized,д_trans а_trans н_trans,д_trans у_trans э_trans й_trans н_trans
+238,3,PLAIN,Problem,ToBeNormalized,п_trans р_trans о_trans б_trans л_trans м_trans,п_trans р_trans о_trans б_trans л_trans е_trans м_trans
+241,3,PLAIN,Андр,ToBeNormalized,а н д р,Андр
+251,0,PLAIN,ОРТ,ToBeNormalized,о р т,ОРТ
+261,4,CARDINAL,1911,ToBeNormalized,тысячи девятисот одиннадцати,тысяча девятьсот одиннадцать
+277,5,PLAIN,Genrebilder,ToBeNormalized,д_trans ж_trans е_trans н_trans р_trans е_trans б_trans и_trans л_trans д_trans е_trans р_trans,д_trans ж_trans е_trans н_trans р_trans б_trans и_trans л_trans д_trans е_trans р_trans
+296,1,PLAIN,Ruined,ToBeNormalized,р_trans а_trans й_trans н_trans е_trans д_trans,р_trans у_trans и_trans н_trans е_trans д_trans
+296,3,PLAIN,Borlands,ToBeNormalized,б_trans о_trans р_trans л_trans а_trans н_trans д_trans с_trans,б_trans о_trans р_trans л_trans е_trans н_trans д_trans с_trans
+306,6,PLAIN,ГАБТ,ToBeNormalized,г а б т,ГАБТ
+334,6,PLAIN,ВО,ToBeNormalized,в о,ВО
+335,8,ELECTRONIC,mightyleeds.co.uk,ToBeNormalized,м_trans а_trans й_trans т_trans и_trans л_trans и_trans д_trans с_trans точка к_trans о_trans точка u k,м_trans а_trans й_trans т_trans й_trans л_trans и_trans д_trans с_trans точка к_trans о_trans точка u k
+344,0,PLAIN,Masaya,ToBeNormalized,м_trans е_trans й_trans с_trans а_trans й_trans я_trans,м_trans а_trans с_trans а_trans й_trans я_trans
+378,8,PLAIN,Pylnianka,ToBeNormalized,п_trans и_trans л_trans н_trans и_trans а_trans н_trans к_trans а_trans,п_trans а_trans й_trans л_trans н_trans и_trans а_trans н_trans к_trans а_trans
+389,5,CARDINAL,"2,195,192",ToBeNormalized,две целых и сто девяносто пять тысячных миллиарда девятьсот двадцать вторая,два миллиона сто девяносто пять тысяч сто девяносто два
+402,10,PLAIN,NIGLuttwak,ToBeNormalized,н_trans и_trans г_trans л_trans у_trans т_trans у_trans о_trans к_trans,н_trans и_trans г_trans л_trans а_trans т_trans т_trans в_trans а_trans к_trans
+414,1,DATE,1998 г.,ToBeNormalized,тысяча девятьсот девяносто восьмой год,тысяча девятьсот девяносто восьмого года
+422,8,LETTERS,Угме,RemainSelf,Угме,у г м е
+425,0,FRACTION,1/1,ToBeNormalized,одна десятая,одна первая
+426,28,PLAIN,Foighil,ToBeNormalized,ф_trans о_trans й_trans г_trans и_trans л_trans,ф_trans о_trans й_trans и_trans л_trans
+428,7,ELECTRONIC,russianrealty.ru,ToBeNormalized,р_trans а_trans с_trans с_trans и_trans а_trans н_trans р_trans е_trans л_trans т_trans и_trans точка р_trans у_trans,р_trans а_trans с_trans с_trans и_trans а_trans н_trans р_trans и_trans л_trans т_trans и_trans точка р_trans у_trans
+438,12,CARDINAL,1,ToBeNormalized,одним,одной
+446,9,TELEPHONE,978-9197189484,ToBeNormalized,девятьсот семьдесят восемь sil девятьсот девятнадцать семьсот восемнадцать девяносто четыре восемьсот сорок четыре,девятьсот семьдесят восемь sil девятьсот девятнадцать семьсот восемнадцать девяносто четыре восемьдесят четыре
+454,5,PLAIN,Fontanges,ToBeNormalized,ф_trans о_trans н_trans т_trans е_trans й_trans н_trans д_trans ж_trans е_trans с_trans,ф_trans о_trans н_trans т_trans а_trans н_trans д_trans ж_trans е_trans с_trans
+454,8,PLAIN,Generique,ToBeNormalized,д_trans ж_trans е_trans н_trans е_trans р_trans и_trans к_trans,д_trans ж_trans е_trans н_trans р_trans и_trans к_trans
+457,11,PLAIN,FireWire,ToBeNormalized,ф_trans а_trans й_trans е_trans р_trans у_trans э_trans р_trans,ф_trans а_trans й_trans е_trans р_trans ю_trans е_trans р_trans
+468,2,CARDINAL,8,ToBeNormalized,восьми,восьмью
+469,12,PLAIN,variant,ToBeNormalized,в_trans а_trans р_trans а_trans й_trans а_trans н_trans т_trans,в_trans а_trans р_trans и_trans а_trans н_trans т_trans
+469,13,PLAIN,angina,ToBeNormalized,а_trans н_trans г_trans и_trans н_trans а_trans,а_trans н_trans д_trans ж_trans и_trans н_trans а_trans
+491,6,PLAIN,Lhasa,ToBeNormalized,л_trans х_trans а_trans с_trans а_trans,л_trans е_trans й_trans з_trans а_trans
+496,10,CARDINAL,37,ToBeNormalized,тридцати семи,тридцать семь
+569,12,LETTERS,РТКомм,RemainSelf,РТКомм,р т к о м м
+569,14,PLAIN,РУ,ToBeNormalized,р у,РУ
+574,3,PLAIN,Chairmans,ToBeNormalized,ч_trans а_trans й_trans р_trans м_trans а_trans н_trans с_trans,ч_trans е_trans й_trans р_trans м_trans а_trans н_trans с_trans
+577,4,MEASURE,10 484 га,ToBeNormalized,десять тысяч четыреста восемьдесят четыре гектара,десяти тысяч четырехсот восьмидесяти четырех гектаров
+578,1,PLAIN,Pirincci,ToBeNormalized,п_trans и_trans р_trans и_trans н_trans к_trans ц_trans и_trans,п_trans и_trans р_trans и_trans н_trans к_trans с_trans и_trans
+580,8,CARDINAL,"484, 485, 520, 527",ToBeNormalized,четыреста восемьдесят четыре миллиона восемьсот сорок пять тысяч пятьсот двадцать тысяч пятьсот двадцать семь,четыреста восемьдесят четыре миллиарда четыреста восемьдесят пять миллионов пятьсот двадцать тысяч пятьсот двадцать семь
+583,6,PLAIN,Falun,ToBeNormalized,ф_trans а_trans л_trans у_trans н_trans,ф_trans о_trans л_trans а_trans н_trans
+592,1,PLAIN,sarayi,ToBeNormalized,с_trans а_trans р_trans е_trans й_trans и_trans,с_trans а_trans р_trans а_trans й_trans и_trans
+592,3,PLAIN,kutuphanesi,ToBeNormalized,к_trans у_trans т_trans у_trans ф_trans а_trans н_trans з_trans и_trans,к_trans у_trans т_trans у_trans ф_trans а_trans н_trans е_trans с_trans и_trans
+599,3,DATE,1971 г.,ToBeNormalized,тысяча девятьсот семьдесят первым годом,тысяча девятьсот семьдесят первого года
+599,5,DATE,2002 г.,ToBeNormalized,две тысячи вторым годом,две тысячи второму году
+599,10,CARDINAL,40,ToBeNormalized,сорока,сорок
+600,3,CARDINAL,1,ToBeNormalized,одном,одной
+600,9,DECIMAL,"1,3",ToBeNormalized,одну целую и три десятых,одной целой и трех десятых
+600,11,CARDINAL,4,ToBeNormalized,четырех,четыре
+611,3,CARDINAL,1902,ToBeNormalized,тысячью девятистах двух,тысячу девятьсот два
+613,10,PLAIN,Miljonprogrammet,ToBeNormalized,м_trans и_trans л_trans х_trans о_trans н_trans п_trans р_trans о_trans г_trans р_trans а_trans м_trans м_trans е_trans т_trans,м_trans и_trans л_trans д_trans ж_trans о_trans н_trans п_trans р_trans о_trans г_trans р_trans а_trans м_trans м_trans е_trans т_trans
+620,8,PLAIN,Foulques,ToBeNormalized,ф_trans о_trans л_trans к_trans е_trans с_trans,ф_trans о_trans л_trans к_trans в_trans е_trans с_trans
+641,5,PLAIN,ПРЕСС,ToBeNormalized,п р е с с,ПРЕСС
+691,3,PLAIN,loyalty,ToBeNormalized,л_trans о_trans й_trans а_trans л_trans т_trans и_trans,л_trans о_trans й_trans о_trans л_trans т_trans и_trans
+730,3,PLAIN,Sugiyama,ToBeNormalized,с_trans а_trans г_trans и_trans я_trans м_trans а_trans,с_trans а_trans г_trans ь_trans я_trans м_trans а_trans
+769,2,PLAIN,Cairos,ToBeNormalized,к_trans а_trans й_trans р_trans о_trans с_trans,к_trans э_trans р_trans о_trans с_trans
+769,3,PLAIN,strikeout,ToBeNormalized,с_trans т_trans р_trans и_trans к_trans е_trans а_trans у_trans т_trans,с_trans т_trans р_trans и_trans к_trans а_trans у_trans т_trans
+770,4,CARDINAL,14,ToBeNormalized,четырнадцатью,четырнадцать
+790,5,ORDINAL,III,ToBeNormalized,три,третий
+807,0,PLAIN,ед,ToBeNormalized,е д,ед
+823,15,PLAIN,Avenger,ToBeNormalized,а_trans в_trans е_trans н_trans д_trans ж_trans е_trans р_trans,а_trans в_trans е_trans н_trans г_trans е_trans р_trans
+835,0,DATE,22 мая,ToBeNormalized,двадцать второе мая,двадцать второго мая
+841,6,MEASURE,70 %,ToBeNormalized,семьдесят процентов,семьюдесятью процентами
+862,5,PLAIN,uscita,ToBeNormalized,у_trans с_trans ц_trans и_trans т_trans а_trans,у_trans ш_trans и_trans т_trans а_trans
+862,9,PLAIN,siamo,ToBeNormalized,с_trans и_trans а_trans м_trans о_trans,с_trans а_trans й_trans м_trans о_trans
+887,16,CARDINAL,350500,ToBeNormalized,трехсот пятидесяти тысяч пятисот,триста пятьдесят тысяч пятьсот
+892,8,PLAIN,uncinata,ToBeNormalized,ю_trans н_trans с_trans и_trans н_trans а_trans т_trans а_trans,ю_trans н_trans ц_trans и_trans н_trans а_trans т_trans а_trans
+904,16,PLAIN,Nestle,ToBeNormalized,н_trans е_trans с_trans т_trans л_trans,н_trans е_trans с_trans т_trans л_trans е_trans
+914,8,PLAIN,Deepwater,ToBeNormalized,д_trans и_trans п_trans в_trans а_trans т_trans е_trans р_trans,д_trans и_trans п_trans у_trans о_trans т_trans е_trans р_trans
+934,0,PLAIN,Vauchonvilliers,ToBeNormalized,в_trans о_trans ч_trans о_trans н_trans в_trans и_trans л_trans л_trans и_trans е_trans р_trans с_trans,в_trans о_trans ш_trans о_trans н_trans в_trans и_trans л_trans ь_trans е_trans р_trans с_trans
+967,18,TELEPHONE,2-911621-94-8,ToBeNormalized,два sil девятьсот одиннадцать шестьсот двадцать один sil девятьсот сорок четыре sil восемь,два sil девятьсот одиннадцать шестьсот двадцать один sil девяносто четыре sil восемь
+973,5,PLAIN,Saladin,ToBeNormalized,с_trans а_trans л_trans е_trans й_trans д_trans и_trans н_trans,с_trans а_trans л_trans а_trans д_trans и_trans н_trans
+978,0,ELECTRONIC,365Gay.com,ToBeNormalized,три миллиарда шестьсот пятьдесят пять точка к_trans о_trans м_trans,три шесть пять гей точка к_trans о_trans м_trans
+1011,14,PLAIN,Эх,ToBeNormalized,э х,Эх
+1012,1,PLAIN,Thibaud,ToBeNormalized,т_trans и_trans б_trans а_trans у_trans д_trans,т_trans и_trans б_trans а_trans а_trans д_trans
+1012,3,DATE,27 сентября 1880,ToBeNormalized,двадцать седьмого сентября тысяча восемьсот восьмидесятого года,двадцать седьмое сентября тысяча восемьсот восьмидесятого года
+1013,2,PLAIN,Эн,ToBeNormalized,э н,Эн
+1015,4,PLAIN,Stickam,ToBeNormalized,с_trans т_trans и_trans к_trans а_trans м_trans,с_trans т_trans и_trans к_trans э_trans м_trans
+1015,6,PLAIN,Ustream,ToBeNormalized,у_trans с_trans т_trans р_trans и_trans м_trans,а_trans с_trans т_trans р_trans и_trans м_trans
+1026,16,CARDINAL,XIII,ToBeNormalized,тринадцатый,тринадцать
+1030,1,PLAIN,Cimek,ToBeNormalized,с_trans и_trans м_trans е_trans к_trans,с_trans а_trans й_trans м_trans к_trans
+1039,1,CARDINAL,138,ToBeNormalized,ста тридцати восьми,сто тридцать восемь
+1040,18,ELECTRONIC,www.mumiytroll.com/,ToBeNormalized,w w w точка м_trans у_trans м_trans и_trans и_trans т_trans р_trans о_trans л_trans л_trans точка c косая черта,w w w точка м_trans а_trans м_trans и_trans и_trans т_trans р_trans о_trans л_trans л_trans точка ком косая черта
+1061,5,PLAIN,Problem,ToBeNormalized,п_trans р_trans о_trans б_trans л_trans м_trans,п_trans р_trans о_trans б_trans л_trans е_trans м_trans
+1061,11,PLAIN,Hewitt,ToBeNormalized,х_trans ь_trans ю_trans и_trans т_trans т_trans,х_trans е_trans в_trans и_trans т_trans т_trans
+1064,2,CARDINAL,500,ToBeNormalized,пятисот,пятьсот
+1069,16,CARDINAL,XIV,ToBeNormalized,четырнадцать,четырнадцати
+1070,3,MEASURE,30 минут,ToBeNormalized,тридцати минут,тридцать минут
+1080,5,VERBATIM,-,ToBeNormalized,до,-
+1090,0,DATE,23 июля,ToBeNormalized,двадцать третье июля,двадцать третьего июля
+1099,3,DATE,18 февраля 1953 года,ToBeNormalized,восемнадцатое февраля тысяча девятьсот пятьдесят третьего года,восемнадцатого февраля тысяча девятьсот пятьдесят третьего года
+1103,4,PLAIN,lideal,ToBeNormalized,л_trans и_trans д_trans е_trans л_trans,л_trans а_trans й_trans д_trans и_trans а_trans л_trans
+1133,15,PLAIN,Celebrating,ToBeNormalized,с_trans е_trans л_trans б_trans р_trans а_trans т_trans и_trans н_trans г_trans,с_trans е_trans л_trans е_trans б_trans р_trans а_trans т_trans и_trans н_trans г_trans
+1144,2,ORDINAL,II,ToBeNormalized,два,второй
+1158,2,MEASURE,"4079,762 км².",ToBeNormalized,четыре тысячи семьдесят девять целых и семьсот шестьдесят две тысячных квадратного километра,четырех тысяч семидесяти девяти целых и семисот шестидесяти двух тысячных квадратного километра
+1161,0,CARDINAL,1831,ToBeNormalized,тысяча восемьсот тридцать один,тысяча восемьсот тридцать одно
+1180,3,CARDINAL,XVIII,ToBeNormalized,восемнадцать,восемнадцати
+1248,0,PLAIN,Stall,ToBeNormalized,с_trans т_trans а_trans л_trans л_trans,с_trans т_trans о_trans л_trans л_trans
+1248,14,PLAIN,Historys,ToBeNormalized,х_trans и_trans с_trans т_trans а_trans р_trans и_trans с_trans,х_trans и_trans с_trans т_trans о_trans р_trans и_trans с_trans
+1248,17,PLAIN,Felines,ToBeNormalized,ф_trans е_trans л_trans и_trans н_trans с_trans,ф_trans е_trans л_trans а_trans й_trans н_trans с_trans
+1268,2,MEASURE,16 см,ToBeNormalized,шестнадцать сантиметров,шестнадцати сантиметров
+1268,10,CARDINAL,45,ToBeNormalized,сорока пяти,четыре пять
+1268,12,MEASURE,50 %,ToBeNormalized,пятидесяти процентов,50 %
+1270,10,CARDINAL,14,ToBeNormalized,четырнадцати,четырнадцать
+1273,0,DATE,22 июля,ToBeNormalized,двадцать второго июля,двадцать второе июля
+1277,11,CARDINAL,7,ToBeNormalized,семь,семи
+1283,15,PLAIN,Willacy,ToBeNormalized,у_trans и_trans л_trans л_trans е_trans с_trans и_trans,у_trans и_trans л_trans л_trans а_trans с_trans и_trans
+1296,2,MEASURE,"416,035км².",ToBeNormalized,четыреста шестнадцать целых и тридцать пять тысячных квадратного километра,четырехсот шестнадцати целых и тридцати пяти тысячных квадратного километра
+1304,17,DECIMAL,"21,5 тыс.",ToBeNormalized,двадцать одна целая и пять десятых тысячи,двадцать одну целую и пять десятых тысячи
+1312,24,PLAIN,Neistadt,ToBeNormalized,н_trans е_trans й_trans с_trans т_trans а_trans д_trans т_trans,н_trans е_trans и_trans с_trans т_trans а_trans д_trans т_trans
+1314,1,PLAIN,ОТС,ToBeNormalized,о т с,ОТС
+1333,5,PLAIN,Ryun,ToBeNormalized,р_trans а_trans й_trans у_trans н_trans,р_trans а_trans й_trans а_trans н_trans
+1338,22,PLAIN,myrmekophilen,ToBeNormalized,м_trans и_trans р_trans м_trans е_trans к_trans о_trans ф_trans и_trans л_trans е_trans н_trans,м_trans и_trans р_trans м_trans к_trans о_trans ф_trans и_trans л_trans е_trans н_trans
+1344,11,CARDINAL,862,ToBeNormalized,восьмисот шестидесяти двух,восемьсот шестьдесят две
+1351,1,CARDINAL,1916,ToBeNormalized,тысяча девятьсот шестнадцать,тысячью девятистах шестнадцати
+1354,11,PLAIN,Panha,ToBeNormalized,п_trans а_trans н_trans а_trans,п_trans а_trans н_trans х_trans а_trans
+1361,2,CARDINAL,4,ToBeNormalized,четырех,четыре
+1361,12,CARDINAL,45,ToBeNormalized,сорок пять,сорока пяти
+1376,5,PLAIN,peoples,ToBeNormalized,п_trans и_trans п_trans л_trans с_trans,п_trans е_trans о_trans п_trans л_trans с_trans
+1381,1,TELEPHONE,11-974217,ToBeNormalized,одиннадцать sil девяносто семь сорок два семнадцать,одиннадцать sil девятьсот семьдесят четыре двести семнадцать
+1381,4,PLAIN,ИСО,ToBeNormalized,и с о,ИСО
+1381,7,TELEPHONE,003-97003-97,ToBeNormalized,ноль ноль три sil девятьсот семьдесят тридцать sil девяносто семь,ноль ноль три sil девять семь ноль ноль три sil девяносто семь
+1387,4,ORDINAL,I,ToBeNormalized,i_letter_latin,первому
+1391,2,CARDINAL,1935,ToBeNormalized,тысяча девятьсот тридцать пять,тысячи девятисот тридцати пяти
+1408,23,PLAIN,дна,ToBeNormalized,д н а,дна
+1408,33,CARDINAL,XXI,ToBeNormalized,двадцать один,двадцати одной
+1421,19,CARDINAL,209372200,ToBeNormalized,два миллиарда девяносто три миллиона семьсот двадцать две тысячи,двести девять миллионов триста семьдесят две тысячи двести
+1422,4,CARDINAL,1941,ToBeNormalized,тысяча девятьсот сорок один,тысячи девятисот сорока одной
+1434,4,CARDINAL,76,ToBeNormalized,семьдесят шесть,семидесяти шести
+1434,10,FRACTION,1914/15,ToBeNormalized,тысяча девятьсот четырнадцать пятнадцатых,тысячи девятисот четырнадцати пятнадцатых
+1473,7,DATE,29 апреля,ToBeNormalized,двадцать девятое апреля,двадцать девятого апреля
+1475,4,CARDINAL,30,ToBeNormalized,тридцати,тридцать
+1492,0,PLAIN,Fusignano,ToBeNormalized,ф_trans у_trans с_trans а_trans й_trans н_trans а_trans н_trans о_trans,ф_trans у_trans с_trans и_trans г_trans н_trans а_trans н_trans о_trans
+1504,6,DECIMAL,"49 416 925 604,00",ToBeNormalized,сорок девять миллионов четыреста сорок шесть тысяч девятьсот двадцать пять тысяч шестьсот четыре,сорок девять миллиардов четыреста шестнадцать миллионов девятьсот двадцать пять тысяч шестьсот четыре
+1516,11,LETTERS,Ае,RemainSelf,Ае,а е
+1535,2,PLAIN,Тхэян,ToBeNormalized,т х э я н,Тхэян
+1535,10,PLAIN,Wheesung,ToBeNormalized,у_trans и_trans с_trans а_trans н_trans г_trans,у_trans и_trans с_trans у_trans н_trans г_trans
+1535,13,PLAIN,Player,ToBeNormalized,п_trans л_trans а_trans й_trans е_trans р_trans,п_trans л_trans е_trans е_trans р_trans
+1548,19,PLAIN,Missions,ToBeNormalized,м_trans и_trans ш_trans е_trans н_trans с_trans,м_trans и_trans с_trans с_trans и_trans о_trans н_trans с_trans
+1590,0,MEASURE,182об.,ToBeNormalized,сто восемьдесят два в_trans,сто восемьдесят два оборота
+1612,6,PLAIN,halt,ToBeNormalized,х_trans о_trans л_trans т_trans,х_trans а_trans л_trans т_trans
+1616,10,CARDINAL,2,ToBeNormalized,два,две
+1622,7,DATE,8 Марта,ToBeNormalized,восемь п_trans,восьмого марта
+1634,7,CARDINAL,400,ToBeNormalized,четыреста,четырехсот
+1638,3,PLAIN,Prosecuting,ToBeNormalized,п_trans р_trans о_trans з_trans к_trans а_trans т_trans и_trans н_trans г_trans,п_trans р_trans о_trans с_trans е_trans к_trans ь_trans ю_trans т_trans и_trans н_trans г_trans
+1644,6,MEASURE,8 Ks,ToBeNormalized,восемь часов сэ ш а,восемь килосекунд
+1644,7,FRACTION,1/75,ToBeNormalized,одна семьдесят пятых,одна семьдесят пятая
+1645,18,CARDINAL,"317, 321, 324, 332, 356",ToBeNormalized,триста семнадцать миллионов триста двадцать одна тысяча триста двадцать четыре тридцать два,три один семь три два один три два четыре три три два три пять шесть
+1660,5,CARDINAL,18,ToBeNormalized,восемнадцати,восемнадцать
+1661,5,PLAIN,ОП,ToBeNormalized,о п,ОП
+1668,3,PLAIN,КТА,ToBeNormalized,к т а,КТА
+1680,13,DATE,7 июня,ToBeNormalized,седьмое июня,седьмого июня
+1680,17,DATE,7 декабря 1943,ToBeNormalized,седьмое декабря тысяча девятьсот сорок третьего года,седьмого декабря тысяча девятьсот сорок третьего года
+1685,4,CARDINAL,540,ToBeNormalized,пятисот сорока,пятьсот сорок
+1698,9,PLAIN,Ин,ToBeNormalized,и н,Ин
+1718,6,PLAIN,СПАЛ,ToBeNormalized,с п а л,СПАЛ
+1723,14,CARDINAL,4,ToBeNormalized,четыре,четырех
+1724,6,CARDINAL,400,ToBeNormalized,четыреста,четырехсот
+1739,4,CARDINAL,5,ToBeNormalized,пять,пяти
+1759,8,PLAIN,Capped,ToBeNormalized,к_trans э_trans п_trans п_trans е_trans д_trans,к_trans а_trans п_trans п_trans е_trans д_trans
+1760,5,PLAIN,Exene,ToBeNormalized,э_trans к_trans з_trans е_trans н_trans,э_trans к_trans с_trans е_trans н_trans
+1763,7,CARDINAL,164,ToBeNormalized,сто шестьдесят четыре,ста шестидесяти четырех
+1774,2,PLAIN,ОДА,ToBeNormalized,о д а,ОДА
+1777,0,PLAIN,Imprimatur,ToBeNormalized,и_trans м_trans п_trans р_trans и_trans м_trans а_trans т_trans у_trans р_trans,и_trans м_trans п_trans р_trans а_trans й_trans м_trans а_trans т_trans у_trans р_trans
+1785,0,ORDINAL,400-й,ToBeNormalized,четыреста,четырехсотый
+1803,0,PLAIN,Cedric,ToBeNormalized,с_trans и_trans д_trans р_trans и_trans к_trans,с_trans е_trans д_trans р_trans и_trans к_trans
+1811,11,TELEPHONE,978-0-7864-6509-5,ToBeNormalized,девятьсот семьдесят восемь sil ноль sil семьдесят восемь шестьдесят четыре sil шестьсот пятьдесят девяносто девять sil пять,девятьсот семьдесят восемь sil ноль sil семьдесят восемь шестьдесят четыре sil шесть тысяч пятьсот девять sil пять
+1825,2,TELEPHONE,978-5-995-50445-0,ToBeNormalized,девятьсот семьдесят восемь sil пять sil девяносто девять пятьдесят sil пятьсот четыре сорок пять sil ноль,девятьсот семьдесят восемь sil пять sil девятьсот девяносто пять sil пятьсот четыре сорок пять sil ноль
+1835,4,PLAIN,Cryogenic,ToBeNormalized,к_trans р_trans а_trans й_trans о_trans д_trans ж_trans е_trans н_trans и_trans к_trans,к_trans р_trans и_trans о_trans г_trans е_trans н_trans и_trans к_trans
+1867,10,ELECTRONIC,AG.ruThe,ToBeNormalized,а_trans г_trans точка р_trans у_trans т_trans,а_trans г_trans точка р_trans у_trans т_trans е_trans
+1880,9,PLAIN,Hercules,ToBeNormalized,х_trans е_trans р_trans к_trans у_trans л_trans е_trans с_trans,г_trans е_trans р_trans к_trans у_trans л_trans е_trans с_trans
+1899,12,TELEPHONE,0262011212,ToBeNormalized,ноль двести шестьдесят два одиннадцать двенадцать,ноль два шесть два ноль один один два один два
+1901,9,PLAIN,desir,ToBeNormalized,д_trans е_trans с_trans е_trans р_trans,д_trans е_trans с_trans э_trans р_trans
+1934,4,PLAIN,ОТР,ToBeNormalized,о т р,ОТР
+1948,2,PLAIN,Ouest,ToBeNormalized,о_trans у_trans с_trans т_trans,о_trans е_trans с_trans т_trans
+1957,6,PLAIN,glace,ToBeNormalized,г_trans л_trans е_trans й_trans с_trans,г_trans л_trans а_trans с_trans
+1957,9,PLAIN,geantes,ToBeNormalized,д_trans ж_trans и_trans н_trans т_trans с_trans,д_trans ж_trans е_trans а_trans н_trans т_trans с_trans
+1972,6,PLAIN,alternate,ToBeNormalized,а_trans л_trans т_trans е_trans р_trans н_trans а_trans т_trans,а_trans л_trans т_trans е_trans р_trans н_trans е_trans й_trans т_trans
+2027,14,MEASURE,300 литров,ToBeNormalized,триста литров,трехсот литров
+2040,14,PLAIN,ОАГ,ToBeNormalized,о а г,ОАГ
+2055,2,PLAIN,САПР,ToBeNormalized,с а п р,САПР
+2070,15,PLAIN,Carranza,ToBeNormalized,к_trans а_trans р_trans р_trans а_trans н_trans з_trans а_trans,к_trans а_trans р_trans р_trans а_trans н_trans с_trans а_trans
+2078,18,CARDINAL,III,ToBeNormalized,третий,три
+2101,19,PLAIN,privatrechtlicher,ToBeNormalized,п_trans р_trans а_trans й_trans в_trans а_trans т_trans р_trans ч_trans ч_trans ч_trans е_trans р_trans,п_trans р_trans а_trans й_trans в_trans а_trans т_trans р_trans ч_trans т_trans л_trans и_trans ч_trans е_trans р_trans
+2105,8,LETTERS,Нла,RemainSelf,Нла,н л а
+2106,8,PLAIN,binacional,ToBeNormalized,б_trans и_trans н_trans а_trans с_trans и_trans о_trans н_trans а_trans л_trans,б_trans и_trans н_trans а_trans к_trans е_trans н_trans а_trans л_trans
+2127,9,MEASURE,80 %,ToBeNormalized,восьмидесяти процентов,восемьдесят процентов
+2140,13,PLAIN,Isurus,ToBeNormalized,и_trans е_trans р_trans у_trans с_trans,ж_trans е_trans р_trans у_trans с_trans
+2142,0,PLAIN,GOODRICH,ToBeNormalized,г_trans о_trans о_trans д_trans р_trans и_trans ч_trans,г_trans у_trans д_trans р_trans и_trans ч_trans
+2142,7,PLAIN,Chaoying,ToBeNormalized,ч_trans а_trans о_trans й_trans и_trans н_trans г_trans,ч_trans а_trans о_trans а_trans и_trans н_trans г_trans
+2146,0,TELEPHONE,030503,ToBeNormalized,ноль три ноль пять три,ноль три ноль пять ноль три
+2151,4,PLAIN,Chaoying,ToBeNormalized,ч_trans а_trans о_trans й_trans и_trans н_trans г_trans,ч_trans а_trans о_trans а_trans и_trans н_trans г_trans
+2153,1,CARDINAL,1574,ToBeNormalized,тысяча пятьсот семьдесят четыре,тысячей пятьюстами семьюдесятью четырьмя
+2154,4,PLAIN,ПРООН,ToBeNormalized,п р о о н,ПРООН
+2156,9,ELECTRONIC,beachsports.npage.eu,ToBeNormalized,б_trans е_trans ч_trans с_trans п_trans о_trans р_trans т_trans с_trans точка n e,б_trans и_trans ч_trans с_trans п_trans о_trans р_trans т_trans с_trans точка н_trans п_trans а_trans ж_trans точка e u
+2163,2,MEASURE,"15,5 мм.",ToBeNormalized,пятнадцать целых и пять десятых миллиметра,пятнадцати целых и пяти десятых миллиметра
+2173,0,DATE,12 мая 1968 год,ToBeNormalized,двенадцатого мая тысяча девятьсот шестьдесят восьмого года,двенадцатое мая тысяча девятьсот шестьдесят восьмого года
+2203,6,CARDINAL,22,ToBeNormalized,двадцать два,двадцати двух
+2203,9,CARDINAL,1,ToBeNormalized,одна,один
+2207,2,DATE,18 сентября 2010,ToBeNormalized,восемнадцатого сентября две тысячи десятого года,восемнадцатое сентября две тысячи десятого года
+2222,11,PLAIN,blakeana,ToBeNormalized,б_trans л_trans э_trans к_trans и_trans н_trans а_trans,б_trans л_trans э_trans к_trans а_trans н_trans а_trans
+2233,10,CARDINAL,33,ToBeNormalized,тридцать три,тридцатью тремя
+2247,4,PLAIN,Rwamunyonyi,ToBeNormalized,р_trans в_trans а_trans м_trans у_trans н_trans и_trans о_trans н_trans и_trans а_trans й_trans,р_trans в_trans а_trans м_trans у_trans н_trans ь_trans о_trans н_trans и_trans и_trans
+2252,9,PLAIN,CONFEDERATE,ToBeNormalized,к_trans о_trans н_trans ф_trans е_trans д_trans е_trans р_trans е_trans й_trans т_trans,к_trans о_trans н_trans ф_trans е_trans д_trans е_trans р_trans а_trans т_trans
+2276,6,CARDINAL,61,ToBeNormalized,шестьдесят одна,шестьдесят один
+2276,20,CARDINAL,12,ToBeNormalized,двенадцати,двенадцать
+2277,2,MEASURE,33 минуты,ToBeNormalized,тридцать три минуты,тридцати трех минуты
+2282,0,DATE,24 июня 2007,ToBeNormalized,двадцать четвертое июня две тысячи седьмого года,двадцать четвертого июня две тысячи седьмого года
+2286,2,MEASURE,121 км².,ToBeNormalized,сто двадцать один квадратный километр,ста двадцати одного квадратного километра
+2318,5,PLAIN,СОГАЗ,ToBeNormalized,с о г а з,СОГАЗ
+2330,7,PLAIN,McCreadie,ToBeNormalized,м_trans а_trans к_trans к_trans р_trans е_trans д_trans ь_trans,мак-креэди
+2347,2,CARDINAL,5,ToBeNormalized,пятью,пять
+2358,3,CARDINAL,8124,ToBeNormalized,восьми тысяч ста двадцати четырех,восемь тысяч сто двадцать четыре
+2412,16,PLAIN,Flieger,ToBeNormalized,ф_trans л_trans и_trans е_trans г_trans е_trans р_trans,ф_trans л_trans а_trans й_trans е_trans г_trans е_trans р_trans
+2425,15,CARDINAL,3,ToBeNormalized,три,трех
+2435,5,CARDINAL,1 000 000,ToBeNormalized,миллион ноль ноль ноль ноль ноль,миллион
+2448,6,CARDINAL,800,ToBeNormalized,восьмисот,восьмьюстами
+2472,7,ELECTRONIC,2012.kevco33,ToBeNormalized,две тысячи двенадцать точка к_trans е_trans в_trans к_trans о_trans тридцать три,две тысячи двенадцать точка кевко тридцать три
+2482,13,ELECTRONIC,http://bourdieu.name/,ToBeNormalized,h t t p w дефис ю_trans б_trans и_trans у_trans точка ру косая черта,h t t p бордье точка нейм косая черта
+2527,5,DATE,10 ноября 2011,ToBeNormalized,десятого ноября две тысячи одиннадцатого года,десятое ноября две тысячи одиннадцатого года
+2539,5,PLAIN,Warehouse,ToBeNormalized,у_trans о_trans р_trans х_trans а_trans у_trans с_trans,в_trans э_trans р_trans х_trans а_trans у_trans с_trans
+2545,3,PLAIN,Warehouse,ToBeNormalized,у_trans о_trans р_trans х_trans а_trans у_trans с_trans,в_trans э_trans р_trans х_trans а_trans у_trans с_trans
+2545,15,PLAIN,Warehouse,ToBeNormalized,у_trans о_trans р_trans х_trans а_trans у_trans с_trans,в_trans э_trans р_trans х_trans а_trans у_trans с_trans
+2554,9,PLAIN,Warehouse,ToBeNormalized,у_trans о_trans р_trans х_trans а_trans у_trans с_trans,в_trans э_trans р_trans х_trans а_trans у_trans с_trans
+2559,2,PLAIN,aghora,ToBeNormalized,а_trans г_trans о_trans р_trans а_trans,а_trans г_trans х_trans о_trans р_trans а_trans
+2578,20,CARDINAL,15,ToBeNormalized,пятнадцати,пятнадцать
+2582,2,CARDINAL,-1,ToBeNormalized,минус один,минус одна
+2585,12,PLAIN,ПРО,ToBeNormalized,п р о,ПРО
+2587,12,PLAIN,ОСиПЛ,ToBeNormalized,о с и п л,ОСиПЛ
+2592,8,MEASURE,400 метров,ToBeNormalized,четыреста метров,четырехсот метров
+2604,5,PLAIN,Exc,ToBeNormalized,э_trans к_trans с_trans к_trans,э_trans к_trans с_trans
+2615,1,CARDINAL,2,ToBeNormalized,два,две
+2655,8,PLAIN,Heinz,ToBeNormalized,х_trans е_trans й_trans н_trans с_trans,х_trans а_trans й_trans н_trans с_trans
+2662,16,MONEY,$0,ToBeNormalized,долларов сэ ш а,ноль долларов сэ ш а
+2668,23,TELEPHONE,10569-007-9072,ToBeNormalized,тысяча пятьдесят шесть девяносто sil ноль ноль семь sil двадцать семь,сто пять шестьдесят девять sil ноль ноль семь sil девяносто семьдесят два
+2678,0,DATE,22 июля,ToBeNormalized,двадцать второго июля,двадцать второе июля
+2679,16,ELECTRONIC,http://www.gangseo.seoul.kr/portal/introduc/main_2_4_13.jsp,ToBeNormalized,h t t p w w w точка г_trans а_trans н_trans г_trans з_trans о_trans точка к_trans о_trans м_trans,h t t p w w w точка г_trans а_trans н_trans г_trans с_trans е_trans о_trans точка с_trans е_trans у_trans л_trans точка k r косая черта портал косая черта интродак косая черта мейн нижнее подчеркивание два нижнее подчеркивание четыре нижнее подчеркивание один три точка j s p
+2687,3,PLAIN,УНР,ToBeNormalized,у н р,УНР
+2704,1,CARDINAL,1,ToBeNormalized,одна,один
+2704,3,CARDINAL,1990,ToBeNormalized,тысяча девятьсот девяносто,тысячу девятьсот девяносто
+2713,9,PLAIN,дник,ToBeNormalized,д н и к,дник
+2713,13,PLAIN,кра,ToBeNormalized,к р а,кра
+2713,15,PLAIN,знавц,ToBeNormalized,з н а в ц,знавц
+2731,4,PLAIN,АДР,ToBeNormalized,а д р,АДР
+2748,5,DATE,14 ноября 2014,ToBeNormalized,четырнадцатое ноября две тысячи четырнадцатого года,четырнадцатого ноября две тысячи четырнадцатого года
+2765,17,PLAIN,ОАГ,ToBeNormalized,о а г,ОАГ
+2782,2,PLAIN,Pains,ToBeNormalized,п_trans е_trans й_trans н_trans с_trans,п_trans а_trans й_trans н_trans с_trans
+2807,22,FRACTION,1/2010,ToBeNormalized,одна две тысячи десятых,одна две тысячи десятая
+2825,10,DECIMAL,10 млн,ToBeNormalized,десяти миллионов,десять миллионов
+2833,7,PLAIN,gouldii,ToBeNormalized,г_trans о_trans у_trans л_trans д_trans и_trans и_trans,г_trans у_trans л_trans д_trans и_trans и_trans
+2837,19,MEASURE,40mm.,ToBeNormalized,сорок m,сорок миллиметров
+2866,22,PLAIN,КОНЦЕ,ToBeNormalized,к о н ц е,КОНЦЕ
+2866,26,LETTERS,ШОГО,RemainSelf,ШОГО,ш о г о
+2869,8,CARDINAL,4,ToBeNormalized,четыре,четырех
+2869,13,CARDINAL,4,ToBeNormalized,четырех,четыре
+2870,6,PLAIN,Bufotenine,ToBeNormalized,б_trans а_trans ф_trans о_trans т_trans е_trans н_trans а_trans й_trans н_trans,б_trans у_trans ф_trans о_trans т_trans е_trans н_trans и_trans н_trans
+2879,0,PLAIN,GameOn,ToBeNormalized,г_trans е_trans й_trans м_trans о_trans н_trans,г_trans а_trans м_trans е_trans о_trans н_trans
+2886,8,PLAIN,Montejan,ToBeNormalized,м_trans о_trans н_trans т_trans е_trans ж_trans а_trans н_trans,м_trans о_trans н_trans т_trans е_trans я_trans н_trans
+2886,10,PLAIN,Montejan,ToBeNormalized,м_trans о_trans н_trans т_trans е_trans ж_trans а_trans н_trans,м_trans о_trans н_trans т_trans е_trans я_trans н_trans
+2891,4,PLAIN,Ея,ToBeNormalized,x я,Ея
+2894,11,PLAIN,Ея,ToBeNormalized,x я,Ея
+2907,17,VERBATIM,Ї,ToBeNormalized,н,и
+2921,9,CARDINAL,1944,ToBeNormalized,тысячу девятьсот сорок четыре,тысячью девятистах сорока четырех
+2922,8,CARDINAL,14,ToBeNormalized,четырнадцать,четырнадцати
+2928,3,MEASURE,22 ярда,ToBeNormalized,двадцать второе рода,двадцать два ярда
+2998,2,CARDINAL,1,ToBeNormalized,одна,один
+3004,0,PLAIN,Linjeflyg,ToBeNormalized,л_trans и_trans н_trans ж_trans е_trans ф_trans л_trans а_trans й_trans г_trans,л_trans и_trans н_trans д_trans ж_trans е_trans ф_trans л_trans а_trans й_trans г_trans
+3004,4,FRACTION,340/440,ToBeNormalized,триста сорок сорок четвертых,триста сорок четыреста сороковых
+3004,12,PLAIN,Ahgelholm,ToBeNormalized,а_trans г_trans е_trans л_trans х_trans о_trans л_trans м_trans,а_trans г_trans е_trans л_trans е_trans м_trans
+3004,27,PLAIN,AIRCRAFT,ToBeNormalized,а_trans й_trans р_trans к_trans р_trans а_trans ф_trans т_trans,э_trans й_trans р_trans к_trans р_trans а_trans ф_trans т_trans
+3004,29,PLAIN,DIGEST,ToBeNormalized,д_trans и_trans д_trans ж_trans е_trans с_trans т_trans,д_trans и_trans г_trans е_trans с_trans т_trans
+3011,5,PLAIN,interleukin,ToBeNormalized,и_trans н_trans т_trans е_trans р_trans л_trans е_trans к_trans и_trans н_trans,и_trans н_trans т_trans е_trans р_trans л_trans ь_trans ю_trans к_trans и_trans н_trans
+3011,10,PLAIN,kinases,ToBeNormalized,к_trans и_trans н_trans а_trans с_trans е_trans с_trans,к_trans и_trans н_trans з_trans е_trans с_trans
+3011,17,PLAIN,networks,ToBeNormalized,н_trans е_trans т_trans в_trans о_trans р_trans к_trans с_trans,н_trans е_trans т_trans у_trans о_trans р_trans к_trans с_trans
+3021,9,PLAIN,saying,ToBeNormalized,с_trans е_trans й_trans и_trans н_trans г_trans,с_trans а_trans а_trans и_trans н_trans г_trans
+3027,7,PLAIN,Puisi,ToBeNormalized,п_trans у_trans и_trans з_trans и_trans,п_trans и_trans з_trans и_trans
+3062,7,DATE,1901 г.,ToBeNormalized,тысяча девятьсот первым годом,тысяча девятьсот первого года
+3080,2,PLAIN,Schnittstellen,ToBeNormalized,ш_trans н_trans и_trans т_trans т_trans с_trans т_trans е_trans л_trans л_trans е_trans н_trans,ш_trans н_trans и_trans т_trans с_trans т_trans е_trans л_trans л_trans е_trans н_trans
+3113,6,PLAIN,Conservatism,ToBeNormalized,к_trans о_trans н_trans с_trans е_trans р_trans в_trans е_trans й_trans т_trans и_trans с_trans м_trans,к_trans о_trans н_trans с_trans е_trans р_trans в_trans е_trans й_trans ш_trans е_trans с_trans м_trans
+3118,9,CARDINAL,7649,ToBeNormalized,семь тысяч шестьсот сорок девять,семи тысяч шестисот сорока девяти
+3122,2,MEASURE,137 ккал.,ToBeNormalized,сто тридцать семь километров,сто тридцать семь килокалорий
+3123,0,PLAIN,FOOTBOOM,ToBeNormalized,ф_trans о_trans о_trans т_trans б_trans о_trans о_trans м_trans,ф_trans у_trans т_trans б_trans у_trans м_trans
+3126,13,PLAIN,ГАБТа,ToBeNormalized,г а б т а,ГАБТа
+3130,14,CARDINAL,308,ToBeNormalized,триста восемь,трехсот восьми
+3131,15,PLAIN,ЖПУЖД,ToBeNormalized,ж п у ж д,ЖПУЖД
+3144,3,PLAIN,Tahir,ToBeNormalized,т_trans а_trans х_trans а_trans й_trans р_trans,т_trans а_trans а_trans й_trans р_trans
+3151,0,ELECTRONIC,Sonymusic.com,ToBeNormalized,с_trans о_trans н_trans и_trans м_trans у_trans з_trans и_trans к_trans точка к_trans о_trans м_trans,с_trans о_trans н_trans и_trans м_trans ь_trans ю_trans з_trans и_trans к_trans точка к_trans о_trans м_trans
+3161,4,LETTERS,См,RemainSelf,См,с м
+3165,6,ORDINAL,II,ToBeNormalized,два,второму
+3170,4,ORDINAL,406-м,ToBeNormalized,четыреста i_letter_latin,четыреста шестой
+3177,3,DATE,31 марта 2012,ToBeNormalized,тридцать первого марта две тысячи двенадцатого года,тридцать первое марта две тысячи двенадцатого года
+3177,12,CARDINAL,1693,ToBeNormalized,тысячу шестьсот девяносто три,тысяча шестьсот девяносто три
+3196,6,CARDINAL,4,ToBeNormalized,четыре,четырем
+3196,11,DECIMAL,"1,2 тыс.",ToBeNormalized,одной целой и двух десятых тысячи,одну целую и две десятых тысячи
+3229,10,CARDINAL,8,ToBeNormalized,восемь,восьми
+3254,0,PLAIN,Aimons,ToBeNormalized,а_trans й_trans м_trans о_trans н_trans с_trans,а_trans и_trans м_trans о_trans н_trans с_trans
+3270,10,FRACTION,1 1/2,ToBeNormalized,одну сто двадцать,одну целую и одну вторую
+3279,7,PLAIN,АБА,ToBeNormalized,а б а,АБА
+3280,5,LETTERS,Лодьм,RemainSelf,Лодьм,л о д ь м
+3307,11,PLAIN,stesso,ToBeNormalized,с_trans т_trans е_trans с_trans с_trans о_trans,с_trans т_trans и_trans с_trans о_trans
+3323,5,PLAIN,Moniezia,ToBeNormalized,м_trans о_trans н_trans ь_trans е_trans з_trans и_trans я_trans,м_trans о_trans н_trans и_trans з_trans и_trans я_trans
+3323,6,PLAIN,expansa,ToBeNormalized,э_trans к_trans с_trans п_trans а_trans н_trans с_trans а_trans,э_trans к_trans с_trans п_trans а_trans н_trans з_trans а_trans
+3334,2,PLAIN,Cyprus,ToBeNormalized,с_trans а_trans й_trans п_trans р_trans у_trans с_trans,с_trans а_trans й_trans п_trans р_trans е_trans с_trans
+3334,5,PLAIN,Crusades,ToBeNormalized,к_trans р_trans а_trans с_trans е_trans й_trans д_trans с_trans,к_trans р_trans у_trans с_trans а_trans д_trans е_trans с_trans
+3334,29,PLAIN,ffЦит,ToBeNormalized,ф_trans ф_trans ц и т,ffЦит
+3379,3,ORDINAL,19-ю,ToBeNormalized,ж_trans,девятнадцатую
+3381,16,PLAIN,pg,ToBeNormalized,п_trans г_trans,pg
+3393,7,PLAIN,Maslovskiy,ToBeNormalized,м_trans а_trans с_trans л_trans о_trans в_trans с_trans к_trans и_trans и_trans,м_trans а_trans с_trans л_trans а_trans в_trans с_trans к_trans и_trans и_trans
+3409,2,PLAIN,jackdaws,ToBeNormalized,д_trans ж_trans э_trans к_trans д_trans о_trans с_trans,д_trans ж_trans э_trans к_trans д_trans о_trans у_trans с_trans
+3410,13,ORDINAL,II,ToBeNormalized,вторым,второму
+3419,0,CARDINAL,2005,ToBeNormalized,две тысячи пять,двух тысяч пяти
+3423,4,ORDINAL,XII,ToBeNormalized,двенадцатого,двенадцатом
+3477,1,PLAIN,McClelland,ToBeNormalized,мак-фарленд,мак-клелленд
+3497,5,PLAIN,Oussama,ToBeNormalized,о_trans а_trans с_trans с_trans а_trans м_trans а_trans,у_trans с_trans с_trans а_trans м_trans а_trans
+3499,3,PLAIN,statham,ToBeNormalized,с_trans т_trans е_trans й_trans т_trans м_trans е_trans м_trans,с_trans т_trans а_trans т_trans а_trans м_trans
+3500,9,PLAIN,Dinosauria,ToBeNormalized,д_trans и_trans н_trans о_trans с_trans а_trans е_trans р_trans и_trans я_trans,д_trans и_trans н_trans о_trans с_trans о_trans р_trans и_trans я_trans
+3517,2,PLAIN,traced,ToBeNormalized,т_trans р_trans а_trans с_trans е_trans д_trans,т_trans р_trans е_trans й_trans с_trans е_trans д_trans
+3587,3,PLAIN,rz,ToBeNormalized,р_trans ц_trans,р_trans с_trans
+3587,5,PLAIN,z,ToBeNormalized,з_trans,z
+3599,7,PLAIN,Laughlin,ToBeNormalized,л_trans о_trans л_trans и_trans н_trans,л_trans а_trans ф_trans л_trans и_trans н_trans
+3602,22,PLAIN,Сl,ToBeNormalized,с л_trans,Сl
+3670,16,MEASURE,173 МВт.,ToBeNormalized,сто семьдесят три мегаватта,ста семидесяти трех мегаватт
+3675,19,LETTERS,ЯЗБЫ,ToBeNormalized,а_trans в_trans с_trans т_trans,я з б ы
+3691,5,MEASURE,"0,987412 грамма",ToBeNormalized,ноль целых и девятьсот восемьдесят семь тысячных сто двести двенадцатых тысячных грамма и_trans д_trans и_trans,ноль целых и девятьсот восемьдесят семь тысяч четыреста двенадцать миллионных грамма
+3693,5,PLAIN,Campo,ToBeNormalized,к_trans э_trans м_trans п_trans о_trans,к_trans а_trans м_trans п_trans о_trans
+3719,6,PLAIN,сне,ToBeNormalized,с н е,сне
+3723,1,PLAIN,alcaeus,ToBeNormalized,а_trans л_trans к_trans а_trans е_trans у_trans с_trans,а_trans л_trans к_trans а_trans у_trans с_trans
+3728,11,DATE,5 апреля 1970 года,ToBeNormalized,пятого апреля тысяча девятьсот семидесятого года,пятое апреля тысяча девятьсот семидесятого года
+3730,1,PLAIN,Pritschauhof,ToBeNormalized,п_trans р_trans и_trans т_trans ш_trans о_trans х_trans о_trans о_trans ф_trans,п_trans р_trans и_trans т_trans ш_trans о_trans х_trans о_trans ф_trans
+3736,13,FRACTION,2011/12,ToBeNormalized,две тысячи одиннадцать двенадцатых,двух тысяч одиннадцати двенадцатых
+3744,1,TELEPHONE,985-11-0330-6 ISBN 985-11-0302-0,ToBeNormalized,девятьсот восемьдесят пять sil одиннадцать sil ноль триста тридцать sil шесть sil двадцать один sil s i n sil n b n sil n s i n b sil s i n b sil s i n,девятьсот восемьдесят пять sil одиннадцать sil ноль триста тридцать sil шесть sil i s b n sil девятьсот восемьдесят пять sil одиннадцать sil ноль триста два sil ноль
+3745,1,PLAIN,WasserturmAn,ToBeNormalized,у_trans о_trans с_trans с_trans е_trans р_trans ч_trans е_trans р_trans м_trans а_trans н_trans,в_trans а_trans с_trans с_trans е_trans р_trans ч_trans е_trans р_trans м_trans а_trans н_trans
+3745,3,PLAIN,DankeskircheAnsbacher,ToBeNormalized,д_trans а_trans н_trans к_trans е_trans с_trans к_trans е_trans р_trans ч_trans е_trans н_trans с_trans б_trans а_trans ш_trans е_trans р_trans,д_trans а_trans н_trans к_trans с_trans к_trans е_trans р_trans ч_trans е_trans н_trans с_trans б_trans а_trans ч_trans е_trans р_trans
+3745,4,PLAIN,StrasseAugsburger,ToBeNormalized,с_trans т_trans р_trans а_trans с_trans с_trans и_trans о_trans г_trans б_trans е_trans р_trans г_trans е_trans р_trans,с_trans т_trans р_trans а_trans с_trans с_trans о_trans г_trans с_trans б_trans е_trans р_trans г_trans е_trans р_trans
+3747,0,DATE,13 сентября,ToBeNormalized,тринадцатое сентября,тринадцатого сентября
+3778,1,LETTERS,Ингр,RemainSelf,Ингр,и н г р
+3789,3,PLAIN,Pleurodema,ToBeNormalized,п_trans л_trans е_trans е_trans р_trans о_trans д_trans м_trans а_trans,п_trans л_trans е_trans е_trans р_trans о_trans д_trans е_trans м_trans а_trans
+3804,6,PLAIN,zege,ToBeNormalized,з_trans е_trans г_trans,з_trans е_trans д_trans ж_trans
+3817,19,CARDINAL,XVIII,ToBeNormalized,восемнадцать,восемнадцати
+3832,10,PLAIN,осбр,ToBeNormalized,о с б р,осбр
+3839,1,PUNCT,—,ToBeNormalized,до,—
+3844,4,PLAIN,AQUEOUS,ToBeNormalized,а_trans к_trans у_trans о_trans л_trans с_trans,а_trans к_trans в_trans е_trans а_trans у_trans с_trans
+3844,7,PLAIN,SOLUTIONS,ToBeNormalized,с_trans о_trans л_trans у_trans т_trans и_trans о_trans н_trans с_trans,с_trans о_trans л_trans ь_trans ю_trans ш_trans е_trans н_trans с_trans
+3844,11,PLAIN,FULLERENE,ToBeNormalized,ф_trans у_trans л_trans л_trans е_trans р_trans е_trans н_trans,ф_trans у_trans л_trans л_trans е_trans р_trans и_trans н_trans
+3871,2,CARDINAL,1964,ToBeNormalized,тысяча девятьсот шестьдесят четыре,тысячи девятисот шестидесяти четырех
+3883,13,PLAIN,Wedziagolski,ToBeNormalized,у_trans э_trans д_trans з_trans и_trans а_trans г_trans о_trans л_trans с_trans к_trans и_trans,в_trans е_trans д_trans з_trans ь_trans я_trans г_trans о_trans л_trans с_trans к_trans и_trans
+3885,15,ORDINAL,II,ToBeNormalized,второй,второму
+3890,3,CARDINAL,3,ToBeNormalized,трех,3
+3890,5,MEASURE,6 недель.,ToBeNormalized,шести недель,6 недель.
+3904,2,PLAIN,Deutsche,ToBeNormalized,д_trans е_trans у_trans т_trans ш_trans,д_trans о_trans й_trans ч_trans е_trans
+3916,0,PLAIN,Metroul,ToBeNormalized,м_trans е_trans т_trans р_trans о_trans л_trans,м_trans е_trans т_trans р_trans о_trans у_trans л_trans
+3918,1,PLAIN,Kontyu,ToBeNormalized,к_trans о_trans н_trans т_trans и_trans у_trans,к_trans о_trans н_trans т_trans ю_trans
+3918,8,PLAIN,Kamijo,ToBeNormalized,к_trans а_trans м_trans и_trans д_trans ж_trans о_trans,к_trans а_trans м_trans и_trans х_trans о_trans
+3943,5,PLAIN,УП,ToBeNormalized,у п,УП
+3953,8,ORDINAL,II,ToBeNormalized,два,второго
+3954,3,CARDINAL,10,ToBeNormalized,десять,десяти
+3969,14,PLAIN,importantesTidjikja,ToBeNormalized,и_trans м_trans п_trans о_trans р_trans т_trans а_trans н_trans т_trans е_trans с_trans т_trans и_trans д_trans д_trans ж_trans и_trans к_trans а_trans,и_trans м_trans п_trans о_trans р_trans т_trans а_trans н_trans т_trans е_trans с_trans т_trans и_trans д_trans д_trans ж_trans и_trans д_trans ж_trans а_trans
+4006,1,CARDINAL,1993,ToBeNormalized,тысячью девятистах девяноста трех,тысячей девятьюстами девяноста тремя
+4009,12,PLAIN,Aarheus,ToBeNormalized,а_trans а_trans р_trans х_trans е_trans у_trans с_trans,а_trans э_trans р_trans х_trans е_trans у_trans с_trans
+4014,6,PLAIN,АН,ToBeNormalized,а н,АН
+4020,13,CARDINAL,8449317975,ToBeNormalized,восемь миллиардов четыреста сорок девять миллионов триста семнадцать тысяч семьсот девяносто пять,восемь миллиардов четыреста сорок девять миллионов триста семнадцать тысяч девятьсот семьдесят пять
+4029,2,LETTERS,ччим,RemainSelf,ччим,ч ч и м
+4031,8,CARDINAL,2010,ToBeNormalized,двух тысяч десяти,две тысячи десять
+4047,14,PLAIN,МО,ToBeNormalized,м о,МО
+4065,14,CARDINAL,2,ToBeNormalized,два,двух
+4095,6,PLAIN,Reptile,ToBeNormalized,р_trans е_trans п_trans т_trans а_trans й_trans л_trans,р_trans е_trans п_trans т_trans и_trans л_trans
+4107,6,PLAIN,Рю,ToBeNormalized,р ю,Рю
+4109,7,PLAIN,PSXextreme,ToBeNormalized,п_trans с_trans к_trans с_trans к_trans с_trans т_trans р_trans е_trans м_trans,п_trans с_trans к_trans с_trans е_trans к_trans с_trans т_trans р_trans е_trans м_trans
+4139,19,CARDINAL,II,ToBeNormalized,два,двух
+4184,12,CARDINAL,26,ToBeNormalized,двадцать шесть,двадцати шести
+4188,10,CARDINAL,48,ToBeNormalized,сорока восьми,четыре восемь
+4188,12,MEASURE,80 км,ToBeNormalized,восьмидесяти километров,80 км
+4207,6,ORDINAL,60-я,ToBeNormalized,шестидесяти,шестидесятая
+4241,13,PLAIN,SingaporeAndreas,ToBeNormalized,с_trans и_trans н_trans г_trans а_trans п_trans у_trans р_trans е_trans н_trans д_trans р_trans и_trans с_trans,с_trans и_trans н_trans г_trans а_trans п_trans о_trans р_trans е_trans а_trans н_trans д_trans р_trans е_trans а_trans с_trans
+4243,0,PLAIN,Asiatischer,ToBeNormalized,а_trans с_trans а_trans й_trans а_trans т_trans и_trans ш_trans е_trans р_trans,а_trans с_trans и_trans э_trans й_trans ш_trans е_trans ш_trans е_trans р_trans
+4255,4,PLAIN,Cyprus,ToBeNormalized,с_trans а_trans й_trans п_trans р_trans а_trans с_trans,с_trans а_trans й_trans п_trans р_trans е_trans с_trans
+4258,10,MEASURE,15 км,ToBeNormalized,пятнадцати километров,пятнадцать километров
+4259,11,PLAIN,Эл,ToBeNormalized,э л,Эл
+4278,6,PLAIN,уцур,ToBeNormalized,у ц у р,уцур
+4308,5,PLAIN,driugan,ToBeNormalized,д_trans р_trans и_trans а_trans г_trans а_trans н_trans,д_trans р_trans а_trans й_trans а_trans г_trans а_trans н_trans
+4321,2,PLAIN,Community,ToBeNormalized,к_trans о_trans м_trans м_trans у_trans н_trans и_trans т_trans и_trans,к_trans о_trans м_trans м_trans ь_trans ю_trans н_trans и_trans т_trans и_trans
+4347,16,CARDINAL,XVIII,ToBeNormalized,восемнадцать,восемнадцати
+4355,2,PLAIN,soars,ToBeNormalized,с_trans о_trans а_trans р_trans с_trans,с_trans о_trans р_trans с_trans
+4400,12,PLAIN,Schrei,ToBeNormalized,ш_trans р_trans а_trans й_trans,ш_trans р_trans и_trans
+4403,6,PLAIN,Pierrepoint,ToBeNormalized,п_trans и_trans р_trans р_trans е_trans п_trans о_trans й_trans н_trans т_trans,п_trans и_trans р_trans р_trans п_trans о_trans й_trans н_trans т_trans
+4421,2,ORDINAL,II,ToBeNormalized,двух,втором
+4442,11,CARDINAL,XVIII,ToBeNormalized,восемнадцать,восемнадцати
+4453,21,PLAIN,Ishtiaq,ToBeNormalized,и_trans ш_trans и_trans к_trans,и_trans ш_trans ш_trans е_trans к_trans
+4453,23,PLAIN,Asad,ToBeNormalized,а_trans с_trans а_trans д_trans,а_trans с_trans е_trans д_trans
+4459,7,PLAIN,pelecinid,ToBeNormalized,п_trans е_trans л_trans е_trans с_trans и_trans н_trans и_trans д_trans,п_trans е_trans л_trans е_trans ц_trans и_trans н_trans и_trans д_trans
+4459,16,PLAIN,Pelecinidae,ToBeNormalized,п_trans е_trans л_trans е_trans с_trans и_trans н_trans и_trans д_trans а_trans,п_trans е_trans л_trans е_trans ц_trans и_trans н_trans и_trans д_trans а_trans
+4467,8,MEASURE,1л.,ToBeNormalized,один,один литр
+4470,5,PLAIN,ФРГ,ToBeNormalized,ф р г,ФРГ
+4473,10,PLAIN,Triunfo,ToBeNormalized,т_trans р_trans и_trans а_trans н_trans ф_trans о_trans,т_trans р_trans и_trans у_trans н_trans ф_trans о_trans
+4478,10,DATE,1.8.566,ToBeNormalized,первое августа пятьдесят шестого года,первое августа пятьсот шестьдесят шестого года
+4494,5,PLAIN,Gladys,ToBeNormalized,г_trans л_trans е_trans д_trans и_trans с_trans,г_trans л_trans а_trans д_trans и_trans с_trans
+4500,12,PLAIN,atury,ToBeNormalized,а_trans т_trans е_trans р_trans и_trans,э_trans й_trans ч_trans е_trans р_trans и_trans
+4507,4,PLAIN,ВВА,ToBeNormalized,в в а,ВВА
+4510,3,PLAIN,riding,ToBeNormalized,р_trans и_trans д_trans и_trans н_trans г_trans,р_trans а_trans й_trans д_trans и_trans н_trans г_trans
+4510,11,PLAIN,thingamajigs,ToBeNormalized,т_trans и_trans н_trans г_trans а_trans м_trans а_trans д_trans ж_trans и_trans с_trans,т_trans и_trans н_trans г_trans а_trans м_trans а_trans д_trans ж_trans и_trans г_trans с_trans
+4513,14,PLAIN,СНиП,ToBeNormalized,с н и п,СНиП
+4518,4,MEASURE,750 вольт,ToBeNormalized,семьсот пятьдесят вольт,семисот пятидесяти вольт
+4535,7,PLAIN,ВИ,ToBeNormalized,в и,ВИ
+4539,3,CARDINAL,3 847,ToBeNormalized,три тысячи восемьсот сорок семь,тремя тысячами восьмьюстами сорока семью
+4539,6,CARDINAL,6 965,ToBeNormalized,шесть тысяч девятьсот шестьдесят пять,шестью тысячами девятьюстами шестьюдесятью пятью
+4539,11,CARDINAL,20 376,ToBeNormalized,двадцать тысяч триста семьдесят шесть,двадцатью тысячами тремястами семьюдесятью шестью
+4539,14,CARDINAL,23 168,ToBeNormalized,двадцать три тысячи сто шестьдесят восемь,двадцатью тремя тысячами ста шестьюдесятью восьмью
+4563,12,PLAIN,Horyzonty,ToBeNormalized,х_trans о_trans р_trans а_trans й_trans з_trans о_trans н_trans т_trans и_trans,х_trans о_trans р_trans и_trans з_trans о_trans н_trans т_trans и_trans
+4565,7,PLAIN,Hayit,ToBeNormalized,х_trans а_trans й_trans и_trans т_trans,х_trans е_trans й_trans и_trans т_trans
+4569,5,ORDINAL,II,ToBeNormalized,два,второй
+4575,2,TELEPHONE,5-900829-19-7,ToBeNormalized,пять sil девятьсот тысяч восемьсот двадцать девять sil девятнадцать sil семь,пять sil девятьсот восемьсот двадцать девять sil девятнадцать sil семь
+4589,9,PLAIN,Уч,ToBeNormalized,у ч,Уч
+4595,9,ORDINAL,IV,ToBeNormalized,i v,четвертого
+4600,1,DATE,1873 г.,ToBeNormalized,тысяча восемьсот семьдесят третий год,тысяча восемьсот семьдесят третьим годом
+4602,7,DATE,1.01.2011,ToBeNormalized,первое января две тысячи одиннадцатого года,первом января две тысячи одиннадцатого года
+4617,5,CARDINAL,400,ToBeNormalized,четыреста,четырьмястами
+4620,4,ORDINAL,3-м,ToBeNormalized,третий,третьим
+4627,0,PLAIN,Pietragalla,ToBeNormalized,п_trans и_trans е_trans т_trans р_trans а_trans г_trans а_trans л_trans л_trans а_trans,п_trans и_trans т_trans р_trans а_trans г_trans а_trans л_trans л_trans а_trans
+4662,1,MEASURE,268 г.,ToBeNormalized,двести шестьдесят восемь грамм,двумястами шестьюдесятью восьмью граммами
+4664,10,PLAIN,Drijvers,ToBeNormalized,д_trans р_trans и_trans ж_trans в_trans е_trans р_trans с_trans,д_trans р_trans а_trans й_trans ж_trans в_trans е_trans р_trans с_trans
+4670,4,LETTERS,Паньк,RemainSelf,Паньк,п а н ь к
+4678,12,ELECTRONIC,www.myekaterinodar.ru/maps/kuban-area/,ToBeNormalized,w w w точка м_trans а_trans й_trans к_trans а_trans т_trans р_trans и_trans н_trans о_trans д_trans р_trans а_trans точка ру косая черта ру косая черта a косая черта ноль косая черта четыре косая черта три косая черта четыре три четыре три дефис четыре косая черта три дефис четыре косая черта три дефис четыре косая черта три дефис четыре косая черта три дефис четыре косая черта три дефис четыре косая черта три дефис четыре косая черта три дефис четыре косая черта три дефис четыре косая черта три дефис четыре косая черта три дефис четыре косая черта три дефис четыре косая черта три дефис четыре косая черта три дефис четыре косая черта три дефис четыре косая черта три дефис четыре косая черта три дефис четыре точка u косая черта три косая черта три косая черта три дефис четыре косая черта три дефис четыре косая черта три дефис четыре косая черта три дефис четыре,w w w точка м_trans а_trans й_trans е_trans к_trans а_trans т_trans е_trans р_trans и_trans н_trans о_trans д_trans а_trans р_trans точка ру косая черта мапс косая черта кубан дефис арея косая черта
+4710,15,PLAIN,nadezhdata,ToBeNormalized,н_trans е_trans й_trans д_trans е_trans с_trans д_trans а_trans т_trans а_trans,н_trans а_trans д_trans е_trans с_trans д_trans а_trans т_trans а_trans
+4729,3,CARDINAL,15,ToBeNormalized,пятнадцать,пятнадцати
+4747,0,PLAIN,Melanges,ToBeNormalized,м_trans е_trans л_trans а_trans н_trans г_trans е_trans с_trans,м_trans е_trans л_trans а_trans н_trans д_trans ж_trans е_trans с_trans
+4747,4,PLAIN,Aucouturier,ToBeNormalized,о_trans к_trans а_trans у_trans ч_trans е_trans р_trans ь_trans е_trans р_trans,о_trans к_trans а_trans у_trans т_trans е_trans р_trans ь_trans е_trans р_trans
+4761,4,PLAIN,Monknewton,ToBeNormalized,м_trans о_trans н_trans к_trans н_trans е_trans в_trans т_trans о_trans н_trans,м_trans о_trans н_trans к_trans н_trans ь_trans ю_trans т_trans о_trans н_trans
+4765,22,PLAIN,Tajiki,ToBeNormalized,т_trans а_trans д_trans ж_trans и_trans к_trans и_trans,т_trans е_trans д_trans ж_trans и_trans к_trans и_trans
+4775,1,PLAIN,Rennais,ToBeNormalized,р_trans е_trans н_trans н_trans е_trans й_trans с_trans,р_trans е_trans н_trans н_trans а_trans и_trans с_trans
+4775,6,PLAIN,Officiel,ToBeNormalized,о_trans ф_trans ф_trans и_trans с_trans и_trans е_trans л_trans,о_trans ф_trans и_trans с_trans и_trans е_trans л_trans
+4775,10,PLAIN,Roazhon,ToBeNormalized,р_trans о_trans з_trans х_trans о_trans н_trans,р_trans о_trans а_trans з_trans х_trans о_trans н_trans
+4792,2,PLAIN,spectaculaire,ToBeNormalized,с_trans п_trans е_trans к_trans т_trans а_trans к_trans у_trans л_trans е_trans й_trans р_trans,с_trans п_trans е_trans к_trans т_trans а_trans к_trans у_trans л_trans е_trans р_trans
+4801,7,PLAIN,x,ToBeNormalized,x_letter_latin,на
+4801,8,CARDINAL,58,ToBeNormalized,пятьдесят восемь,восемь
+4801,14,CARDINAL,7,ToBeNormalized,семь,семи
+4801,16,CARDINAL,1,ToBeNormalized,один,одного
+4804,3,DATE,1985 г.,ToBeNormalized,тысяча девятьсот восемьдесят пятого года,тысяча девятьсот восемьдесят пятый год
+4809,1,PLAIN,КЛАДР,ToBeNormalized,к л а д р,КЛАДР
+4825,11,CARDINAL,-8,ToBeNormalized,минус восемь,-8
+4825,12,CARDINAL,-61,ToBeNormalized,минус шестьдесят один,минус шесть один
+4831,10,MEASURE,162 кВт,ToBeNormalized,сто шестьдесят два киловатт,сто шестьдесят два киловатта
+4837,10,PLAIN,veut,ToBeNormalized,в_trans ь_trans ю_trans т_trans,в_trans е_trans у_trans т_trans
+4854,5,CARDINAL,1992,ToBeNormalized,тысяча девятьсот девяносто два,тысячи девятисот девяноста двух
+4882,11,LETTERS,тля,RemainSelf,тля,т л я
+4888,1,DATE,24 июля,ToBeNormalized,двадцать четвертого июля,двадцать четвертое июля
+4898,18,PLAIN,Svapnavasavadatta,ToBeNormalized,с_trans в_trans а_trans п_trans н_trans а_trans в_trans а_trans с_trans а_trans в_trans а_trans д_trans а_trans т_trans а_trans т_trans а_trans,с_trans в_trans а_trans п_trans н_trans а_trans в_trans а_trans с_trans а_trans в_trans а_trans д_trans а_trans т_trans т_trans а_trans
+4908,5,DATE,14 апреля 2007 года,ToBeNormalized,четырнадцатого апреля две тысячи седьмого года,четырнадцатое апреля две тысячи седьмого года
+4914,14,TELEPHONE,1-899855-13-0,ToBeNormalized,один sil восемьсот девяносто девять восемьсот пятьдесят пять sil сто тридцать sil ноль,один sil восемьсот девяносто девять восемьсот пятьдесят пять sil тринадцать sil ноль
+4920,15,CARDINAL,1991,ToBeNormalized,тысячей девятьюстами девяноста одним,тысячи девятисот девяноста одного
+4933,6,CARDINAL,2,ToBeNormalized,двух,два
+4957,11,PLAIN,Tattooing,ToBeNormalized,т_trans а_trans т_trans т_trans у_trans и_trans н_trans г_trans,т_trans а_trans т_trans т_trans о_trans о_trans и_trans н_trans г_trans
+4958,5,CARDINAL,25,ToBeNormalized,двадцать пять,двадцати пяти
+4973,6,PLAIN,Craven,ToBeNormalized,к_trans р_trans а_trans в_trans е_trans н_trans,к_trans р_trans е_trans й_trans в_trans е_trans н_trans
+4987,13,ELECTRONIC,bikeforums.net,ToBeNormalized,б_trans и_trans к_trans ф_trans о_trans р_trans у_trans м_trans с_trans точка н_trans е_trans т_trans,б_trans а_trans й_trans к_trans ф_trans о_trans р_trans у_trans м_trans с_trans точка н_trans е_trans т_trans
+4987,19,ELECTRONIC,rec.bicycles.tech,ToBeNormalized,r е_trans с_trans точка б_trans и_trans с_trans и_trans к_trans л_trans с_trans точка т_trans e,р_trans е_trans к_trans точка б_trans и_trans с_trans и_trans к_trans л_trans с_trans точка т_trans е_trans к_trans
+5017,5,PLAIN,ГРЭС,ToBeNormalized,г р э с,ГРЭС
+5017,16,CARDINAL,800,ToBeNormalized,восьмисот,восьмистам
+5045,8,PLAIN,ФРГ,ToBeNormalized,ф р г,ФРГ
+5050,4,PLAIN,W,ToBeNormalized,w,W
+5050,6,PLAIN,Losey,ToBeNormalized,л_trans о_trans з_trans и_trans,л_trans о_trans с_trans и_trans
+5098,11,CARDINAL,25,ToBeNormalized,двадцать пять,двадцати пяти
+5127,5,PLAIN,Pennywises,ToBeNormalized,п_trans е_trans н_trans н_trans и_trans в_trans и_trans з_trans е_trans с_trans,п_trans е_trans н_trans н_trans и_trans в_trans а_trans й_trans з_trans е_trans с_trans
+5145,15,CARDINAL,III,ToBeNormalized,три,трех
+5156,9,ORDINAL,—960,ToBeNormalized,девятьсот шестидесятом,девятьсот шестидесятого
+5159,0,PLAIN,Being,ToBeNormalized,б_trans е_trans й_trans н_trans г_trans,б_trans е_trans и_trans н_trans г_trans
+5169,0,PLAIN,Berillo,ToBeNormalized,б_trans е_trans р_trans и_trans л_trans л_trans о_trans,б_trans е_trans р_trans и_trans л_trans ь_trans о_trans
+5172,4,DECIMAL,"13,625",ToBeNormalized,тринадцать целых и шестьсот двадцать пять тысячных,тринадцати целых и шестисот двадцати пяти тысячных
+5188,0,PLAIN,Thorbecke,ToBeNormalized,т_trans о_trans р_trans б_trans е_trans к_trans к_trans,т_trans о_trans р_trans б_trans е_trans к_trans е_trans
+5204,7,PLAIN,tiyin,ToBeNormalized,т_trans и_trans а_trans й_trans и_trans н_trans,т_trans и_trans а_trans и_trans н_trans
+5216,5,PLAIN,Stachelhaus,ToBeNormalized,с_trans т_trans а_trans ч_trans е_trans л_trans х_trans а_trans у_trans с_trans,с_trans т_trans е_trans й_trans ч_trans е_trans л_trans х_trans а_trans у_trans с_trans
+5216,10,PLAIN,Mootz,ToBeNormalized,м_trans у_trans т_trans с_trans,м_trans у_trans ц_trans
+5221,6,PLAIN,estaciones,ToBeNormalized,э_trans с_trans т_trans а_trans с_trans и_trans о_trans н_trans с_trans,э_trans с_trans т_trans е_trans й_trans с_trans е_trans н_trans с_trans
+5222,15,PLAIN,Cervejaria,ToBeNormalized,с_trans е_trans р_trans в_trans е_trans д_trans ж_trans а_trans р_trans и_trans я_trans,с_trans е_trans р_trans в_trans д_trans ж_trans а_trans р_trans и_trans я_trans
+5223,0,PLAIN,SoundsXP,ToBeNormalized,с_trans а_trans у_trans н_trans д_trans с_trans п_trans,с_trans а_trans у_trans н_trans д_trans с_trans к_trans с_trans п_trans
+5248,13,LETTERS,Крку,RemainSelf,Крку,к р к у
+5251,6,PLAIN,NeesEragrostis,ToBeNormalized,н_trans и_trans с_trans е_trans р_trans а_trans г_trans р_trans о_trans с_trans т_trans и_trans с_trans,н_trans и_trans з_trans е_trans р_trans а_trans г_trans р_trans о_trans с_trans т_trans и_trans с_trans
+5252,2,PLAIN,RendleEragrostis,ToBeNormalized,р_trans е_trans н_trans д_trans л_trans е_trans р_trans а_trans г_trans р_trans о_trans с_trans т_trans и_trans с_trans,р_trans е_trans н_trans д_trans л_trans и_trans р_trans а_trans г_trans р_trans о_trans с_trans т_trans и_trans с_trans
+5286,4,PLAIN,Brenhinedd,ToBeNormalized,б_trans р_trans е_trans н_trans х_trans и_trans н_trans е_trans д_trans д_trans,б_trans р_trans е_trans н_trans а_trans й_trans н_trans е_trans д_trans д_trans
+5286,6,PLAIN,Saeson,ToBeNormalized,с_trans а_trans с_trans о_trans н_trans,с_trans а_trans е_trans с_trans о_trans н_trans
+5291,3,PLAIN,Ricj,ToBeNormalized,р_trans и_trans к_trans ж_trans,р_trans и_trans ч_trans ж_trans
+5297,4,CARDINAL,3,ToBeNormalized,трех,три
+5312,8,ORDINAL,1944,ToBeNormalized,тысяча девятьсот сорок четвертого,тысяча девятьсот сорок четвертом
+5313,1,PLAIN,UNTAES,ToBeNormalized,ю_trans н_trans т_trans е_trans й_trans т_trans с_trans,а_trans н_trans т_trans а_trans с_trans
+5380,8,PLAIN,Vaidila,ToBeNormalized,в_trans а_trans и_trans д_trans и_trans л_trans а_trans,в_trans е_trans й_trans д_trans и_trans л_trans а_trans
+5381,3,PLAIN,Gallery,ToBeNormalized,г_trans а_trans л_trans л_trans е_trans р_trans и_trans,г_trans а_trans л_trans е_trans р_trans и_trans
+5384,2,PLAIN,Эн,ToBeNormalized,э н,Эн
+5395,10,MEASURE,"1,1 км.",ToBeNormalized,одна целая и одна десятая километра,одной целой и одной десятой километра
+5403,0,PLAIN,ОТУ,ToBeNormalized,о т у,ОТУ
+5414,1,PLAIN,Пьи,ToBeNormalized,п ь и,Пьи
+5429,3,CARDINAL,21,ToBeNormalized,двадцать одно,двадцати одного
+5429,7,DATE,9 июля,ToBeNormalized,девятое июля,девятого июля
+5445,1,PLAIN,Aufrichtigen,ToBeNormalized,о_trans ф_trans р_trans а_trans й_trans ч_trans т_trans и_trans г_trans е_trans н_trans,о_trans ф_trans р_trans и_trans ч_trans т_trans и_trans г_trans е_trans н_trans
+5445,4,PLAIN,Satura,ToBeNormalized,с_trans а_trans ч_trans е_trans р_trans а_trans,с_trans а_trans т_trans у_trans р_trans а_trans
+5446,2,PLAIN,Льонос,ToBeNormalized,л ь о н о с,Льонос
+5458,3,PLAIN,Rosalba,ToBeNormalized,р_trans о_trans з_trans а_trans л_trans б_trans а_trans,р_trans о_trans з_trans а_trans л_trans ь_trans б_trans а_trans
+5461,3,PLAIN,Iceland,ToBeNormalized,и_trans с_trans е_trans л_trans а_trans н_trans д_trans,а_trans й_trans с_trans л_trans а_trans н_trans д_trans
+5470,8,PLAIN,ИАП,ToBeNormalized,и а п,ИАП
+5470,10,PLAIN,ИАД,ToBeNormalized,и а д,ИАД
+5478,3,CARDINAL,-9,ToBeNormalized,минус девять,-9
+5485,0,PLAIN,Rosalba,ToBeNormalized,р_trans о_trans з_trans а_trans л_trans б_trans а_trans,р_trans о_trans з_trans а_trans л_trans ь_trans б_trans а_trans
+5485,3,PLAIN,BiographyTribute,ToBeNormalized,б_trans а_trans й_trans о_trans г_trans р_trans а_trans ф_trans и_trans р_trans б_trans и_trans б_trans у_trans т_trans,б_trans а_trans й_trans о_trans г_trans р_trans а_trans ф_trans и_trans т_trans р_trans и_trans б_trans у_trans т_trans
+5485,5,PLAIN,Rosalba,ToBeNormalized,р_trans о_trans з_trans а_trans л_trans б_trans а_trans,р_trans о_trans з_trans а_trans л_trans ь_trans б_trans а_trans
+5508,11,CARDINAL,1,ToBeNormalized,один,одна
+5510,2,PLAIN,formavimosi,ToBeNormalized,ф_trans о_trans р_trans м_trans а_trans в_trans и_trans м_trans о_trans з_trans и_trans,ф_trans о_trans р_trans м_trans а_trans в_trans и_trans м_trans о_trans с_trans и_trans
+5510,4,PLAIN,jos,ToBeNormalized,д_trans ж_trans о_trans с_trans,д_trans ж_trans о_trans з_trans
+5521,1,TELEPHONE,978-0-8103-5487-6,ToBeNormalized,девятьсот семьдесят восемь sil ноль sil восемьсот десять триста сорок восемь семьдесят семь sil шесть,девятьсот семьдесят восемь sil ноль sil восемь тысяч сто три sil пятьдесят четыре восемьдесят семь sil шесть
+5532,10,PLAIN,ВНИИФТРИ,ToBeNormalized,в н и и ф т р и,ВНИИФТРИ
+5538,9,MEASURE,21 узел.,ToBeNormalized,двадцать один квадратный,двадцать один узел
+5545,3,PLAIN,tvirtove,ToBeNormalized,т_trans в_trans и_trans р_trans т_trans о_trans в_trans,т_trans в_trans и_trans р_trans т_trans а_trans в_trans
+5546,1,PLAIN,Honesty,ToBeNormalized,х_trans а_trans н_trans е_trans с_trans т_trans и_trans,х_trans о_trans н_trans е_trans с_trans т_trans и_trans
+5547,2,CARDINAL,10,ToBeNormalized,десять,десяти
+5555,2,TELEPHONE,5-02-008500-6,ToBeNormalized,пять sil ноль два sil ноль ноль восемьдесят пять sil шесть,пять sil ноль два sil ноль ноль восемь тысяч пятьсот sil шесть
+5557,9,CARDINAL,-9,ToBeNormalized,минус девять,-9
+5557,10,CARDINAL,-31,ToBeNormalized,минус тридцать один,минус три один
+5571,15,PLAIN,felgenhaueri,ToBeNormalized,ф_trans е_trans л_trans д_trans ж_trans е_trans н_trans а_trans у_trans э_trans р_trans и_trans,ф_trans е_trans л_trans г_trans е_trans н_trans х_trans а_trans у_trans э_trans р_trans и_trans
+5578,4,PLAIN,g,ToBeNormalized,г_trans,g
+5591,1,LETTERS,Сзнек,RemainSelf,Сзнек,с з н е к
+5594,2,CARDINAL,1,ToBeNormalized,одного,1
+5594,4,MEASURE,"1,5 мм",ToBeNormalized,одной целой и пяти десятых миллиметра,"1,5 мм"
+5605,1,ORDINAL,III,ToBeNormalized,три,третий
+5613,0,PLAIN,Meloisey,ToBeNormalized,м_trans е_trans л_trans о_trans й_trans з_trans и_trans,м_trans е_trans л_trans о_trans й_trans с_trans и_trans
+5616,3,PLAIN,Protection,ToBeNormalized,п_trans р_trans а_trans т_trans е_trans к_trans ш_trans е_trans н_trans,п_trans р_trans о_trans т_trans е_trans к_trans ш_trans е_trans н_trans
+5622,5,DATE,1681 году,ToBeNormalized,тысяча шестьсот восемьдесят первому году,тысяча шестьсот восемьдесят первом году
+5640,8,PLAIN,Peirson,ToBeNormalized,п_trans е_trans й_trans р_trans с_trans о_trans н_trans,п_trans е_trans е_trans р_trans с_trans о_trans н_trans
+5644,13,CARDINAL,30,ToBeNormalized,тридцати,тридцать
+5652,0,PLAIN,Ghorgor,ToBeNormalized,г_trans о_trans р_trans г_trans о_trans р_trans,г_trans х_trans о_trans р_trans г_trans о_trans р_trans
+5654,11,PLAIN,problem,ToBeNormalized,п_trans р_trans о_trans б_trans л_trans м_trans,п_trans р_trans о_trans б_trans л_trans е_trans м_trans
+5713,6,TELEPHONE,50696-2006,ToBeNormalized,пятьсот шесть девять шесть sil две тысячи шесть,пятьсот шесть девяносто шесть sil две тысячи шесть
+5714,9,LETTERS,XX,ToBeNormalized,двадцатого,x x
+5718,4,TELEPHONE,2014-08-16,ToBeNormalized,двести один четыре sil ноль восемь sil шестнадцать,двадцать четырнадцать sil ноль восемь sil шестнадцать
+5720,4,MEASURE,15 м/с,ToBeNormalized,пятнадцать сантиметров в секунду,пятнадцати метров в секунду
+5746,1,PLAIN,Pachymeris,ToBeNormalized,п_trans а_trans ч_trans и_trans м_trans е_trans р_trans и_trans с_trans,п_trans а_trans ч_trans й_trans м_trans е_trans р_trans и_trans с_trans
+5746,4,PLAIN,Michaelle,ToBeNormalized,м_trans а_trans й_trans к_trans л_trans,м_trans а_trans й_trans к_trans л_trans ь_trans
+5746,12,PLAIN,Bonnae,ToBeNormalized,б_trans о_trans н_trans н_trans а_trans,б_trans о_trans н_trans н_trans
+5772,8,PLAIN,items,ToBeNormalized,и_trans т_trans е_trans м_trans с_trans,а_trans й_trans т_trans м_trans с_trans
+5778,7,ELECTRONIC,acms.sl.nsw.gov.au,ToBeNormalized,а_trans к_trans м_trans с_trans точка s l точка n s,а_trans к_trans м_trans с_trans точка s l точка n s w точка г_trans о_trans в_trans точка a u
+5796,13,PLAIN,НУМ,ToBeNormalized,н у м,НУМ
+5808,12,PLAIN,Evolucion,ToBeNormalized,э_trans в_trans о_trans л_trans а_trans с_trans и_trans о_trans н_trans,э_trans в_trans о_trans л_trans а_trans к_trans е_trans н_trans
+5813,4,PLAIN,Edelaraudtee,ToBeNormalized,э_trans д_trans е_trans л_trans а_trans р_trans а_trans у_trans д_trans т_trans и_trans,э_trans д_trans е_trans л_trans а_trans р_trans о_trans д_trans т_trans и_trans
+5814,13,PLAIN,Dubois,ToBeNormalized,д_trans а_trans б_trans о_trans й_trans с_trans,д_trans ю_trans б_trans у_trans а_trans
+5859,8,DATE,6 июня,ToBeNormalized,шестого июня,шестое июня
+5872,14,PLAIN,l,ToBeNormalized,тета,l
+5884,10,CARDINAL,7,ToBeNormalized,семи,семь
+5890,5,CARDINAL,1956,ToBeNormalized,тысяча девятьсот пятьдесят шесть,тысячи девятисот пятидесяти шести
+5898,2,CARDINAL,XIV,ToBeNormalized,четырнадцать,четырнадцати
+5922,0,PLAIN,ИЛ,ToBeNormalized,и л,ИЛ
+5926,5,CARDINAL,6,ToBeNormalized,шесть,шести
+5974,7,PLAIN,Уайлд,ToBeNormalized,у а й л д,Уайлд
+5975,19,MEASURE,80 %,ToBeNormalized,восьмидесяти процентов,80 %
+5975,22,ORDINAL,20,ToBeNormalized,двадцать,двадцатом
+5975,23,ORDINAL,-21,ToBeNormalized,минус двадцать один,двадцать первом
+6009,12,CARDINAL,2012,ToBeNormalized,две тысячи двенадцать,двух тысяч двенадцати
+6031,10,CARDINAL,XVII,ToBeNormalized,семнадцать,семнадцатью
+6033,3,CARDINAL,20,ToBeNormalized,двадцать,двадцати
+6052,3,PLAIN,venous,ToBeNormalized,в_trans е_trans н_trans у_trans с_trans,в_trans е_trans н_trans а_trans у_trans с_trans
+6052,4,PLAIN,insufficiency,ToBeNormalized,и_trans н_trans с_trans у_trans ф_trans ф_trans и_trans с_trans и_trans е_trans н_trans с_trans и_trans,и_trans н_trans с_trans а_trans ф_trans и_trans с_trans а_trans й_trans е_trans н_trans с_trans и_trans
+6073,3,CARDINAL,1000,ToBeNormalized,тысячи,тысяче
+6099,4,PLAIN,х,ToBeNormalized,на,х
+6099,5,MEASURE,17 мм.,ToBeNormalized,семнадцати миллиметров,семнадцать миллиметров
+6106,1,CARDINAL,1215,ToBeNormalized,тысяча двести пятнадцать,тысячей двумястами пятнадцатью
+6127,1,PLAIN,Sauvignon,ToBeNormalized,с_trans о_trans в_trans и_trans г_trans н_trans о_trans н_trans,с_trans о_trans в_trans н_trans о_trans н_trans
+6133,10,CARDINAL,1,ToBeNormalized,один,одному
+6146,12,PLAIN,Schilddruse,ToBeNormalized,ш_trans и_trans л_trans д_trans д_trans р_trans а_trans с_trans,с_trans ч_trans а_trans й_trans л_trans д_trans д_trans р_trans а_trans с_trans
+6153,9,PLAIN,Ejecutese,ToBeNormalized,э_trans д_trans ж_trans е_trans к_trans ь_trans ю_trans т_trans з_trans,э_trans д_trans ж_trans е_trans к_trans ь_trans ю_trans т_trans с_trans
+6159,5,PLAIN,—,RemainSelf,—,до
+6169,0,PUNCT,--,ToBeNormalized,минус дефис,--
+6169,7,PUNCT,--,ToBeNormalized,минус,--
+6175,18,PLAIN,azuolas,ToBeNormalized,а_trans с_trans у_trans о_trans л_trans а_trans с_trans,а_trans з_trans у_trans о_trans л_trans а_trans с_trans
+6179,10,ORDINAL,XVIII,ToBeNormalized,восемнадцать,восемнадцатому
+6199,2,PLAIN,Buchenwald,ToBeNormalized,б_trans а_trans к_trans е_trans н_trans в_trans о_trans л_trans д_trans,б_trans а_trans ч_trans е_trans н_trans у_trans о_trans л_trans д_trans
+6199,4,PLAIN,Mittelbau,ToBeNormalized,м_trans и_trans т_trans т_trans е_trans л_trans б_trans о_trans,м_trans и_trans т_trans т_trans е_trans л_trans б_trans а_trans у_trans
+6208,3,DATE,14 января 2002,ToBeNormalized,четырнадцатого января две тысячи второго года,четырнадцатое января две тысячи второго года
+6210,5,CARDINAL,II,ToBeNormalized,два,двух
+6212,8,PLAIN,cyaneus,ToBeNormalized,с_trans а_trans й_trans а_trans н_trans у_trans с_trans,к_trans я_trans н_trans у_trans с_trans
+6218,5,MEASURE,10 %,ToBeNormalized,десяти процентов,десять процентов
+6218,9,MEASURE,1 700 000 м³.,ToBeNormalized,миллион семьсот миллионов кубических метров,миллион семьсот тысяч кубических метров
+6231,6,PLAIN,Graden,ToBeNormalized,г_trans р_trans е_trans й_trans д_trans е_trans н_trans,г_trans р_trans а_trans д_trans е_trans н_trans
+6234,5,CARDINAL,2,ToBeNormalized,двух,два
+6240,4,FRACTION,11/24,ToBeNormalized,одиннадцать целых и двадцать сотых,одиннадцать двадцать четвертых
+6240,7,FRACTION,11/16,ToBeNormalized,одиннадцать шестнадцатых,одиннадцати шестнадцатых
+6259,1,PLAIN,ЖКИ,ToBeNormalized,ж к и,ЖКИ
+6261,14,PLAIN,Гальгалацruen,ToBeNormalized,г а л ь а а л а ц р_trans е_trans н_trans,Гальгалацruen
+6263,9,PLAIN,JAMSTEC,ToBeNormalized,д_trans ж_trans а_trans м_trans с_trans т_trans е_trans к_trans,д_trans ж_trans е_trans й_trans м_trans с_trans т_trans е_trans к_trans
+6264,8,PLAIN,Rulz,ToBeNormalized,р_trans а_trans л_trans с_trans,р_trans у_trans л_trans с_trans
+6267,8,PLAIN,Schoeps,ToBeNormalized,ш_trans е_trans е_trans п_trans с_trans,с_trans к_trans и_trans п_trans с_trans
+6267,11,PLAIN,ungeliebte,ToBeNormalized,ю_trans н_trans г_trans е_trans л_trans и_trans б_trans т_trans,ю_trans н_trans д_trans ж_trans е_trans л_trans и_trans б_trans т_trans
+6267,12,PLAIN,Aussenseiter,ToBeNormalized,о_trans с_trans с_trans е_trans н_trans с_trans а_trans й_trans т_trans е_trans р_trans,о_trans с_trans с_trans е_trans н_trans с_trans е_trans й_trans т_trans е_trans р_trans
+6268,7,CARDINAL,279,ToBeNormalized,двухсот семидесяти девяти,двести семьдесят девять
+6271,18,PLAIN,смМultyfarnham,ToBeNormalized,с м м у_trans л_trans т_trans и_trans ф_trans а_trans р_trans н_trans х_trans э_trans м_trans,смМultyfarnham
+6294,11,CARDINAL,529,ToBeNormalized,пятьюстами двадцатью девятью,пятисот двадцати девяти
+6306,15,CARDINAL,1719310,ToBeNormalized,сто семьдесят одна тысяча девятьсот тридцать десять,миллион семьсот девятнадцать тысяч триста десять
+6318,9,CARDINAL,1972,ToBeNormalized,тысяча девятьсот семьдесят два,тысячей девятьюстами семьюдесятью двумя
+6321,0,DATE,30 декабря,ToBeNormalized,тридцатого декабря,тридцатое декабря
+6365,5,CARDINAL,20000,ToBeNormalized,двадцати тысяч,двадцать тысяч
+6386,2,MEASURE,"608,505км².",ToBeNormalized,шестисот восьми целых и пятисот пятидесяти тысячных квадратного километра,шестисот восьми целых и пятисот пяти тысячных квадратного километра
+6395,11,ORDINAL,II,ToBeNormalized,два,второй
+6399,0,CARDINAL,1,ToBeNormalized,один,одна
+6403,20,PLAIN,Situation,ToBeNormalized,с_trans и_trans ч_trans у_trans е_trans й_trans ш_trans е_trans н_trans,с_trans и_trans т_trans у_trans е_trans й_trans ш_trans е_trans н_trans
+6415,7,CARDINAL,2,ToBeNormalized,два,двух
+6463,2,MEASURE,"2321,454 км².",ToBeNormalized,две тысячи триста двадцать одна целая и четыреста пятьдесят четыре тысячных квадратного километра,две тысячи триста двадцать одну целую и четыреста пятьдесят четыре тысячных квадратного километра
+6477,18,CARDINAL,3,ToBeNormalized,трех,три
+6483,1,PLAIN,Conformational,ToBeNormalized,к_trans о_trans н_trans ф_trans о_trans р_trans м_trans е_trans й_trans ш_trans е_trans н_trans а_trans л_trans,к_trans о_trans н_trans ф_trans о_trans р_trans м_trans е_trans ш_trans н_trans е_trans л_trans
+6484,3,CARDINAL,1,ToBeNormalized,одной,одна
+6490,5,ELECTRONIC,finance.ua,ToBeNormalized,ф_trans и_trans н_trans а_trans н_trans с_trans точка у_trans u a,ф_trans и_trans н_trans а_trans н_trans с_trans точка u a
+6515,5,DATE,27 октября 1998 г.,ToBeNormalized,двадцать седьмого октября тысяча девятьсот девяносто восьмого года,двадцать седьмое октября тысяча девятьсот девяносто восьмого года
+6539,2,PLAIN,Prussicarum,ToBeNormalized,п_trans р_trans а_trans с_trans с_trans и_trans к_trans а_trans р_trans у_trans м_trans,п_trans р_trans о_trans с_trans с_trans и_trans к_trans а_trans р_trans у_trans м_trans
+6540,1,CARDINAL,12,ToBeNormalized,двенадцати,двенадцать
+6548,4,PLAIN,Wenn,ToBeNormalized,у_trans э_trans н_trans н_trans,в_trans е_trans н_trans н_trans
+6562,13,ELECTRONIC,Spaceflight.com,ToBeNormalized,с_trans п_trans а_trans с_trans е_trans ф_trans л_trans а_trans й_trans т_trans точка к_trans о_trans м_trans,с_trans п_trans а_trans с_trans ф_trans л_trans а_trans й_trans т_trans точка к_trans о_trans м_trans
+6564,7,PLAIN,voices,ToBeNormalized,в_trans о_trans и_trans с_trans,в_trans у_trans с_trans
+6570,8,PLAIN,Osun,ToBeNormalized,а_trans с_trans а_trans н_trans,о_trans с_trans а_trans н_trans
+6572,6,PLAIN,ИРБ,ToBeNormalized,и р б,ИРБ
+6578,3,PLAIN,Nachtrag,ToBeNormalized,н_trans а_trans ч_trans т_trans р_trans а_trans г_trans,н_trans ч_trans т_trans р_trans а_trans г_trans
+6578,6,PLAIN,einzelner,ToBeNormalized,э_trans й_trans н_trans ц_trans е_trans л_trans н_trans е_trans р_trans,э_trans й_trans н_trans з_trans е_trans л_trans н_trans е_trans р_trans
+6578,7,PLAIN,Ansichten,ToBeNormalized,а_trans н_trans с_trans и_trans ч_trans т_trans е_trans н_trans,а_trans н_trans ж_trans т_trans е_trans н_trans
+6578,14,PLAIN,einzelne,ToBeNormalized,э_trans й_trans н_trans ц_trans е_trans л_trans н_trans,э_trans й_trans н_trans з_trans е_trans л_trans н_trans
+6578,17,PLAIN,Augenzeugen,ToBeNormalized,о_trans г_trans е_trans н_trans з_trans е_trans г_trans е_trans н_trans,о_trans г_trans е_trans н_trans з_trans е_trans ю_trans г_trans е_trans н_trans
+6578,20,PLAIN,dieser,ToBeNormalized,д_trans и_trans с_trans е_trans р_trans,д_trans и_trans з_trans е_trans р_trans
+6579,9,CARDINAL,402,ToBeNormalized,четыреста два,четырехсот двух
+6584,2,CARDINAL,2006,ToBeNormalized,две тысячи шесть,двух тысяч шести
+6587,5,MEASURE,2275 метра.,ToBeNormalized,две тысячи двести семьдесят пять метров,две тысячи двести семьдесят пять метра
+6594,3,DATE,1997 году,ToBeNormalized,тысяча девятьсот девяносто седьмому году,тысяча девятьсот девяносто седьмом году
+6597,7,MEASURE,70 градусами.,ToBeNormalized,семидесяти градусов,семьюдесятью градусами
+6611,8,CARDINAL,1973,ToBeNormalized,тысячью девятистах семидесяти трех,тысячу девятьсот семьдесят три
+6633,3,ELECTRONIC,www.cichlids.ruwww.cichlid.ru,ToBeNormalized,w w w точка с_trans и_trans ч_trans л_trans и_trans д_trans с_trans точка р_trans у_trans в_trans точка i w косая ч_trans а_trans й_trans ч_trans л_trans и_trans д_trans точка л_trans у_trans,w w w точка с_trans и_trans ч_trans л_trans и_trans д_trans с_trans точка р_trans а_trans у_trans у_trans точка с_trans и_trans ч_trans л_trans и_trans д_trans точка р_trans у_trans
+6635,3,TIME,3:45,ToBeNormalized,три часа сорок пять минут,трех часов сорока пяти минут
+6659,14,PLAIN,Kaeberlein,ToBeNormalized,к_trans а_trans б_trans е_trans р_trans л_trans е_trans й_trans н_trans,к_trans а_trans б_trans е_trans р_trans л_trans е_trans й_trans
+6661,21,CARDINAL,16,ToBeNormalized,шестнадцати,шестнадцать
+6662,0,PLAIN,Altira,ToBeNormalized,а_trans л_trans т_trans и_trans р_trans а_trans,а_trans л_trans ш_trans е_trans р_trans а_trans
+6662,3,CARDINAL,38,ToBeNormalized,тридцать восемь,тридцати восьми
+6679,2,DATE,28 августа 2013,ToBeNormalized,двадцать восьмого августа две тысячи тринадцатого года,двадцать восьмое августа две тысячи тринадцатого года
+6700,7,PLAIN,Brahmajala,ToBeNormalized,б_trans р_trans а_trans м_trans а_trans д_trans ж_trans а_trans л_trans а_trans,б_trans р_trans а_trans м_trans а_trans ж_trans а_trans л_trans а_trans
+6702,4,DATE,14 мая 2007,ToBeNormalized,четырнадцатого мая две тысячи седьмого года,четырнадцатое мая две тысячи седьмого года
+6730,8,CARDINAL,1872,ToBeNormalized,тысячу восемьсот семьдесят два,тысячью восьмистах семидесяти двух
+6730,11,CARDINAL,1877,ToBeNormalized,тысячу восемьсот семьдесят семь,тысячью восьмистах семидесяти семи
+6730,19,CARDINAL,1903,ToBeNormalized,тысячью девятистах трех,тысячей девятьюстами тремя
+6756,4,MEASURE,37 с.,ToBeNormalized,тридцати семи секунд,37 с.
+6766,8,PLAIN,MystemPaice,ToBeNormalized,м_trans и_trans с_trans т_trans е_trans м_trans п_trans а_trans й_trans с_trans,м_trans и_trans с_trans т_trans е_trans м_trans п_trans а_trans и_trans с_trans
+6777,10,DATE,11 сентября,ToBeNormalized,одиннадцатого сентября,одиннадцатое сентября
+6789,6,PLAIN,Hephaestus,ToBeNormalized,х_trans е_trans ф_trans а_trans е_trans с_trans т_trans у_trans с_trans,х_trans е_trans ф_trans е_trans с_trans т_trans у_trans с_trans
+6803,2,DATE,19 июля 2012,ToBeNormalized,девятнадцатого июля две тысячи двенадцатого года,девятнадцатое июля две тысячи двенадцатого года
