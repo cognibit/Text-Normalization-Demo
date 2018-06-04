@@ -1,6 +1,6 @@
 # Text Normalization using Memory Augmented Neural Networks
 
-The 'Text Normalization Demo' notebook and the accompanying paper "<a href="https://storage.googleapis.com/ainstein_text_normalization/Text%20Normalization%20using%20Memory%20Augmented%20Neural%20Network%20(arXiV%20preprint).pdf">Text Normalization using Memory Augmented Neural Networks</a>" demonstrates an accuracy of 99.5% on the Text Normalization Challenge by Richard Sproat and Navdeep Jaitly. The approach used here has secured the 6th position in the [Kaggle Russian Text Normalization Challenge](https://www.kaggle.com/c/text-normalization-challenge-russian-language) by Google's Text Normalization Research Group.
+The 'Text Normalization Demo' notebook and the accompanying paper "<a href="http://arxiv.org/abs/1806.00044">Text Normalization using Memory Augmented Neural Networks</a>" demonstrates an accuracy of 99.5% on the Text Normalization Challenge by Richard Sproat and Navdeep Jaitly. The approach used here has secured the 6th position in the [Kaggle Russian Text Normalization Challenge](https://www.kaggle.com/c/text-normalization-challenge-russian-language) by Google's Text Normalization Research Group.
 
 ## Architecture
 Two models are used for the purpose of text normalization. An XGBoost boost model first classifies a token to to-be-normalized or remain-self. The to-be-normalized tokens are then fed character-by-character to our proposed Sequence to Sequence DNC model. 
