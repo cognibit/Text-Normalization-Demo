@@ -9,13 +9,10 @@ More details about the architecture and implementation can be found in the origi
 
 <center>
 	
-**Sequence to sequence DNC, encoding phase**
+**Sequence to sequence DNC**
 
-![Sequence to sequence DNC, encoding phase](__images__/Encoder.png)
+![Sequence to sequence DNC](__images__/seq-to-seq-DNC.jpg)
 
-**Sequence to sequence DNC, decoding phase**
-
-![Sequence to sequence DNC, decoding phase](__images__/Decoder.png)
 
 </center>	
 
