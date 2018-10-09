@@ -3,7 +3,7 @@
 The 'Text Normalization Demo' notebook and the accompanying paper "<a href="http://arxiv.org/abs/1806.00044">Text Normalization using Memory Augmented Neural Networks</a>" demonstrates an accuracy of 99.5% on the Text Normalization Challenge by Richard Sproat and Navdeep Jaitly. An earlier version of the approach used here has secured the 6th position in the [Kaggle Russian Text Normalization Challenge](https://www.kaggle.com/c/text-normalization-challenge-russian-language) by Google's Text Normalization Research Group.
 
 ## Architecture
-Two models are used for the purpose of text normalization. An XGBoost boost model first classifies a token to to-be-normalized or remain-self. The to-be-normalized tokens are then fed character-by-character to our proposed Sequence to Sequence DNC model. 
+Two models are used for the purpose of text normalization. A XGBoost boost model first classifies a token as to-be-normalized or remain-self. The to-be-normalized tokens are then fed character-by-character to our proposed Sequence to Sequence DNC model. 
 
 More details about the architecture and implementation can be found in the original paper.
 
@@ -116,6 +116,6 @@ lang = 'english'
 1. Subhojeet Pramanik (http://github.com/subho406)
 2. Aman Hussain (https://github.com/AmanDaVinci)
 
-**Aknowledgements**
+**Acknowledgements**
 
 Differentiable Neural Computer, Tensorflow Implementation: https://github.com/deepmind/dnc
