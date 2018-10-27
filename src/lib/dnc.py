@@ -43,7 +43,7 @@ class DNC(snt.RNNCore):
                access_config,
                controller_config,
                output_size,
-               clip_value=None,
+               clip_value=None,use_memory=True,
                name='dnc'):
     """Initializes the DNC core.
 
@@ -64,7 +64,7 @@ class DNC(snt.RNNCore):
     with self._enter_variable_scope():
       self._controller = snt.LSTM(**controller_config)
       self._access = access.MemoryAccess(**access_config)
-
+    self.use_memory=use_memory
     self._access_output_size = np.prod(self._access.output_size.as_list())
     self._output_size = output_size
     self._clip_value = clip_value or 0
@@ -103,6 +103,8 @@ class DNC(snt.RNNCore):
     prev_controller_state = prev_state.controller_state
 
     batch_flatten = snt.BatchFlatten()
+    if self.use_memory is False:
+        prev_access_output=prev_access_output*0
     controller_input = tf.concat(
         [batch_flatten(inputs), batch_flatten(prev_access_output)], 1)
 
@@ -114,7 +116,8 @@ class DNC(snt.RNNCore):
 
     access_output, access_state = self._access(controller_output,
                                                prev_access_state)
-
+    if self.use_memory is False:
+        access_output=access_output*0
     output = tf.concat([controller_output, batch_flatten(access_output)], 1)
     output = snt.Linear(
         output_size=self._output_size.as_list()[0],
