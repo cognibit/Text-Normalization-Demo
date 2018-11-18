@@ -50,7 +50,7 @@ config={
 }
 
 
-def normalize(enc_data, enc_len, model_path,batch_size=200):
+def normalize(enc_data, enc_len, model_path,batch_size=200,use_memory=True):
 	"""Normalize encoded data using the trained DNC model given"""	
 
 	# Initiate TF session
@@ -58,7 +58,7 @@ def normalize(enc_data, enc_len, model_path,batch_size=200):
 	dnc_predictions=[]
 	with tf.Session() as sess:
 		print('Using DNC model at {}'.format(model_path))
-		model=create_model_decode(batch_size=batch_size)
+		model=create_model_decode(batch_size=batch_size,use_memory=use_memory)
 		restore_model(model,sess,model_path)
 
 		num_batches=int(enc_data.shape[0]/batch_size)
@@ -90,8 +90,8 @@ def normalize(enc_data, enc_len, model_path,batch_size=200):
 
 	return dnc_predictions
 
-def create_model_decode(batch_size):
-	model = Seq2SeqModel(config,'decode',batch_size)
+def create_model_decode(batch_size,use_memory):
+	model = Seq2SeqModel(config,'decode',batch_size,use_memory=use_memory)
 	return model
 
 def restore_model(model, sess, model_path):

@@ -41,7 +41,7 @@ from .dnc import DNC
 
 
 class Seq2SeqModel(object):
-    def __init__(self, config, mode, dnc_batch_size=None):
+    def __init__(self, config, mode, dnc_batch_size=None,use_memory=True):
         assert mode.lower() in ['train', 'decode']
 
         self.config = config
@@ -96,7 +96,7 @@ class Seq2SeqModel(object):
                 "hidden_size": self.hidden_units,
             }
             self.dnc_cell = cell_type(access_config=access_config, controller_config=controller_config,
-                                      output_size=self.hidden_units, clip_value=self.clip_value)
+                                      output_size=self.hidden_units, clip_value=self.clip_value,use_memory=use_memory)
             self.dncInitial = self.dnc_cell.initial_state
             #Dynamic Batch Size for DNC not yet supported hence we will use static batch size
             self.dnc_batch_size=dnc_batch_size
