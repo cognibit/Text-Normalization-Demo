@@ -1,7 +1,7 @@
 #!/bin/sh
 echo "Downloading and extracting required files"
-wget https://storage.googleapis.com/ainstein_text_normalization/test_data.zip
-wget https://storage.googleapis.com/ainstein_text_normalization/dnc_model.zip
+wget https://storage.googleapis.com/text_normalization/test_data.zip
+wget https://storage.googleapis.com/text_normalization/dnc_model.zip
 rm -rf data
 rm -rf models
 unzip test_data.zip
